@@ -1,6 +1,6 @@
-# Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome German Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of arrrrrrrrr!
+> A curated list of German piracy sites!
 
 ## German piracy links
 
@@ -18,13 +18,13 @@
 
 ## Sport streams
 
-* [sportlemons.net](https://sportlemons.net) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "sportlemon.tv" or similar.
-* [1xstream.com](https://1xstream.com) is a site to stream different sports from all around the world.
-* [drakula.top](https://drakula.top) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "drakulastream.tv" or similar.
-* [livetv.sx](https://livetv.sx) is a site to stream different sports from all around the world.
-* [firstrowsports.com](https://firstrowsports.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "firstrowsports.tv" or similar.
-* [jokerlivestream.com](https://jokerlivestream.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "jokerlivestream.com" or similar.
-* [bayernstream.com](https://bayernstream.com) is a site to stream footbal matches from the FC Bayern München team.
+* [sportlemons.net](http://sportlemons.net) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "sportlemon.tv" or similar.
+* [1xstream.com](http://1xstream.com) is a site to stream different sports from all around the world.
+* [drakula.top](http://drakula.top) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "drakulastream.tv" or similar.
+* [livetv.sx](http://livetv.sx) is a site to stream different sports from all around the world.
+* [firstrowsports.com](http://firstrowsports.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "firstrowsports.tv" or similar.
+* [jokerlivestream.com](http://jokerlivestream.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "jokerlivestream.com" or similar.
+* [bayernstream.com](http://bayernstream.com) is a site to stream footbal matches from the FC Bayern München team.
 
 ## Disclaimer
 
