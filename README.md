@@ -1,4 +1,4 @@
-# Awesome German Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome German piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of German piracy sites!
 
@@ -11,6 +11,9 @@
 * [ddl-warez.to](https://ddl-warez.to) is a warez site that has a lot of different content.
 * [1load.sx](http://1load.sx/) is a warez site that has a lot of different content.
 * [warez.to](https://warez.to/) is a warez site that has a lot of different content.
+* [byte.to](http://byte.to/) is a warez site that has a lot of different content.
+* [warez-world.org](https://warez-world.org/) is a warez site that has a lot of different content.
+* [wareztown.to](https://wareztown.to/) is a warez site that has a lot of different content.
 
 ### Series
 
