@@ -4,27 +4,27 @@
 
 ## German piracy links
 
-* [https://bs.to](bs.to) is a site to watch and / or download series in high quality.
-* [https://filmpalast.to](filmpalast.to) is a site to watch and / or download films in high quality.
-* [https://movie4k.to](movie4k.to) is a site to watch and / or download films in high quality.
-* [https://kinox.to](kinox.to) is a site to watch and / or download films in high quality.
-* [https://nima4k.org](nima4k.org) is a site to download films in high quality.
-* [https://3dl.tv](3dl.tv) is a warez site that has a lot of different content.
-* [https://boerse.to](boerse.to) is a warez site that has a lot of different content.
-* [https://movie-blog.to](movie-blog.to) is a site to download films in high quality.
-* [https://movieworld.to](movieworld.to) is a site to download films in high quality.
-* [https://ddl-warez.to](ddl-warez.to) is a warez site that has a lot of different content.
-* [https://ddl-music.to](ddl-music.to) is a site to download music in high quality.
+* [bs.to](https://bs.to) is a site to watch and / or download series in high quality.
+* [filmpalast.to](https://filmpalast.to) is a site to watch and / or download films in high quality.
+* [movie4k.to](https://movie4k.to) is a site to watch and / or download films in high quality.
+* [kinox.to](https://kinox.to) is a site to watch and / or download films in high quality.
+* [nima4k.org](https://nima4k.org) is a site to download films in high quality.
+* [3dl.tv](https://3dl.tv) is a warez site that has a lot of different content.
+* [boerse.to](https://boerse.to) is a warez site that has a lot of different content.
+* [movie-blog.to](https://movie-blog.to) is a site to download films in high quality.
+* [movieworld.to](https://movieworld.to) is a site to download films in high quality.
+* [ddl-warez.to](https://ddl-warez.to) is a warez site that has a lot of different content.
+* [ddl-music.to](https://ddl-music.to) is a site to download music in high quality.
 
 ## Sport streams
 
-* [https://sportlemons.net](sportlemons.net) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "sportlemon.tv" or similar.
-* [https://1xstream.com](1xstream.com) is a site to stream different sports from all around the world.
-* [https://drakula.top](drakula.top) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "drakulastream.tv" or similar.
-* [https://livetv.sx](livetv.sx) is a site to stream different sports from all around the world.
-* [https://firstrowsports.com](firstrowsports.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "firstrowsports.tv" or similar.
-* [https://jokerlivestream.com](jokerlivestream.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "jokerlivestream.com" or similar.
-* [https://bayernstream.com](bayernstream.com) is a site to stream footbal matches from the FC Bayern München team.
+* [sportlemons.net](https://sportlemons.net) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "sportlemon.tv" or similar.
+* [1xstream.com](https://1xstream.com) is a site to stream different sports from all around the world.
+* [drakula.top](https://drakula.top) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "drakulastream.tv" or similar.
+* [livetv.sx](https://livetv.sx) is a site to stream different sports from all around the world.
+* [firstrowsports.com](https://firstrowsports.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "firstrowsports.tv" or similar.
+* [jokerlivestream.com](https://jokerlivestream.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "jokerlivestream.com" or similar.
+* [bayernstream.com](https://bayernstream.com) is a site to stream footbal matches from the FC Bayern München team.
 
 ## Disclaimer
 
