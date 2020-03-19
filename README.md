@@ -22,7 +22,7 @@
 * [1xstream.com](http://1xstream.com) is a site to stream different sports from all around the world.
 * [drakula.top](http://drakula.top) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "drakulastream.tv" or similar.
 * [livetv.sx](http://livetv.sx) is a site to stream different sports from all around the world.
-* [firstrowsports.com](http://firstrowsports.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "firstrowsports.tv" or similar.
+* [firstrowsports.com](http://firstrowsportes.com/) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "firstrowsports.tv" or similar.
 * [jokerlivestream.com](http://jokerlivestream.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "jokerlivestream.com" or similar.
 * [bayernstream.com](http://bayernstream.com) is a site to stream footbal matches from the FC Bayern München team.
 
