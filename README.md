@@ -41,6 +41,7 @@
 * [kino.cx](https://kino.cx/) is a site to watch and / or download films in high quality.
 * [streamking.eu](https://streamking.eu/) is a site to watch and / or download films in high quality.
 * [funxd.site](https://funxd.site/) is a site to download films in high quality.
+* [xcine.tv](https://xcine.tv/) is a site to watch and / or download films in high quality.
 
 ### Music
 
