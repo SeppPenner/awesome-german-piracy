@@ -49,6 +49,7 @@
 * [ddl-music.to](https://ddl-music.to) is a site to download music in high quality.
 * [musicstream.cc](https://musicstream.cc/) is a site to stream music in high quality.
 * [musik.to](https://musik.to/) is a site to download music in high quality.
+* [myldl.biz](https://myldl.biz/) is a site to download music in high quality.
 
 ## Sport streams
 
