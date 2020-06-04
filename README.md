@@ -70,3 +70,8 @@
 ## Disclaimer
 
 We do not encourage users to use these websites nor do we support them. This is just an informational resource. If you're using one of the links above, you will most of the time commit a copyright infringement.
+
+Change history
+--------------
+
+See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/master/Changelog.md).
