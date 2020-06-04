@@ -60,8 +60,8 @@
 * [firstrowsports.com](http://firstrowsportes.com/) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "firstrowsports.tv" or similar.
 * [jokerlivestream.com](http://jokerlivestream.com) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "jokerlivestream.com" or similar.
 * [bayernstream.com](http://bayernstream.com) is a site to stream footbal matches from the FC Bayern München team.
-* [bundesliga-streams.net](https://bundesliga-streams.net) is a site to stream Bundesliga matches.
-* [zorrostream.site](http://www.zorrostream.site/) is a site to stream different sports from all around the world.
+* [bundesliga-streams.net](https://bundesliga-streams.net) is a site to stream Bundesliga matches. Hint: If the link doesn't work, just search for "bundesliga-streams.net" or similar.
+* [zorrostream.site](http://www.zorrostream.site/) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "zorrostream.site" or similar.
 
 ## RaidRush-Liste
 
