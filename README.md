@@ -18,6 +18,7 @@
 ### Series
 
 * [bs.to](https://bs.to) is a site to watch and / or download series in high quality.
+* [dirkstream.com](http://dirkstream.com) is a site to watch series in high quality.
 * [funxd.site](https://funxd.site/) is a site to download series in high quality.
 * [hd-world.org](http://hd-world.org/) is a site to download series in high quality.
 * [kinox.to](https://kinox.to) is a site to watch and / or download series in high quality.
@@ -25,11 +26,12 @@
 * [movietown.org](movietown.org) is a site to watch and / or download series in high quality.
 * [nima4k.org](https://nima4k.org) is a site to download series in high quality.
 * [s.to](https://s.to/) is a site to watch and / or download series in high quality.
-* [streamking.eu](https://streamking.eu/) is a site to watch and / or download series in high quality.
 * [serien.streamdeutsch.email](https://serien.streamdeutsch.email) is a site to watch series in high quality.
+* [streamking.eu](https://streamking.eu/) is a site to watch and / or download series in high quality.
 
 ### Films
 
+* [dirkstream.com](http://dirkstream.com) is a site to watch films in high quality.
 * [filmpalast.to](https://filmpalast.to) is a site to watch and / or download films in high quality.
 * [funxd.site](https://funxd.site/) is a site to download films in high quality.
 * [hd-world.org](http://hd-world.org/) is a site to download films in high quality.
