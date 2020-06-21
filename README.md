@@ -28,6 +28,7 @@
 * [s.to](https://s.to/) is a site to watch and / or download series in high quality.
 * [serienfans.org](https://serienfans.org/) is a site to download series in high quality.
 * [serienfreaks.org](https://serienfreaks.org/) is a site to download series in high quality.
+* ~~[serienjunkies.io](Serienjunkies.io) is a site to download series in high quality.~~
 * [serienjunkies.org](https://serienjunkies.org/) is a site to download series in high quality.
 * [serienjunkies.team](https://serienjunkies.team/) is a site to download series in high quality.
 * ~~[serien.streamdeutsch.email](https://serien.streamdeutsch.email)~~ is a site to watch series in high quality. Be cautious, the website might force you to login.
@@ -77,6 +78,7 @@
 * [livetv.sx](http://livetv.sx) is a site to stream different sports from all around the world.
 * [mamahd.xyz](http://www.mamahd.xyz/) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "mamahd" or similar.
 * [sportlemons.net](http://sportlemons.net) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "sportlemons" or similar.
+* [sportsbay.org](https://sportsbay.org) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "sportsbay" or similar.
 * [zorrostream.site](http://www.zorrostream.site/) is a site to stream different sports from all around the world. Hint: If the link doesn't work, just search for "zorrostream" or similar.
 
 ## Lists
