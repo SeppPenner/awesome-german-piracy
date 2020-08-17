@@ -23,7 +23,8 @@
 * [hd-world.org](http://hd-world.org/) is a site to download series in high quality.
 * [kinox.to](https://kinox.to) is a site to watch and / or download series in high quality.
 * [movie4k.to](https://movie4k.to) is a site to watch and / or download series in high quality.
-* [movietown.org](movietown.org) is a site to watch and / or download series in high quality.
+* [movieking.cc](https://movieking.cc/) is a site to watch and / or download series in high quality.
+* [movietown.org](https://movietown.org/) is a site to watch and / or download series in high quality.
 * [nima4k.org](https://nima4k.org) is a site to download series in high quality.
 * [s.to](https://s.to/) is a site to watch and / or download series in high quality.
 * [serienfans.org](https://serienfans.org/) is a site to download series in high quality.
@@ -43,7 +44,8 @@
 * [kino.cx](https://kino.cx/) is a site to watch and / or download films in high quality.
 * [kinox.to](https://kinox.to) is a site to watch and / or download films in high quality.
 * [movie4k.to](https://movie4k.to) is a site to watch and / or download films in high quality.
-* [movietown.org](http://movietown.org) is a site to watch and / or download films in high quality.
+* [movieking.cc](https://movieking.cc/) is a site to watch and / or download films in high quality.
+* [movietown.org](https://movietown.org) is a site to watch and / or download films in high quality.
 * [movieworld.to](https://movieworld.to) is a site to download films in high quality.
 * [movie-blog.to](https://movie-blog.to) is a site to download films in high quality.
 * [nima4k.org](https://nima4k.org) is a site to download films in high quality.

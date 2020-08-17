@@ -1,6 +1,7 @@
 Change history
 --------------
 
+* **Version 1.0.7.0 (2020-08-17)** : Added movieking.cc.
 * **Version 1.0.6.0 (2020-06-21)** : Added sportsbay.org, added serienjunkies.io and marked it as scam.
 * **Version 1.0.5.0 (2020-06-09)** : Marked dirkstream.com as maybe dangerous, marked serien.streamdeutsch.email as maybe dangerous, added serienfreaks.org, serienjunkies.team, serienjunkies.org and serienfans.org.
 * **Version 1.0.4.0 (2020-06-07)** : Added dirkstream.com link.
