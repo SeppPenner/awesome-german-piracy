@@ -18,6 +18,7 @@
 ### Series
 
 * [bs.to](https://bs.to) is a site to watch and / or download series in high quality.
+* [cinestreamz.com](https://www.cinestreamz.com/) is a site to watch and / or download series in high quality.
 * ~~[dirkstream.com](http://dirkstream.com)~~ is a site to watch series in high quality. Be cautious, the website might force you to login.
 * [funxd.site](https://funxd.site/) is a site to download series in high quality.
 * [hd-world.org](http://hd-world.org/) is a site to download series in high quality.
@@ -37,6 +38,7 @@
 
 ### Films
 
+* [cinestreamz.com](https://www.cinestreamz.com/) is a site to watch and / or download films in high quality.
 * ~~[dirkstream.com](http://dirkstream.com)~~ is a site to watch films in high quality. Be cautious, the website might force you to login.
 * [filmpalast.to](https://filmpalast.to) is a site to watch and / or download films in high quality.
 * [funxd.site](https://funxd.site/) is a site to download films in high quality.
