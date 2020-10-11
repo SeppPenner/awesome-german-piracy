@@ -1,6 +1,7 @@
 Change history
 --------------
 
+* **Version 1.0.9.0 (2020-10-11)** : Added streamkiste.tv.
 * **Version 1.0.8.0 (2020-08-30)** : Added cinestreamz.com.
 * **Version 1.0.7.0 (2020-08-17)** : Added movieking.cc.
 * **Version 1.0.6.0 (2020-06-21)** : Added sportsbay.org, added serienjunkies.io and marked it as scam.

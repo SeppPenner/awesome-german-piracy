@@ -35,6 +35,7 @@
 * [serienjunkies.team](https://serienjunkies.team/) is a site to download series in high quality.
 * ~~[serien.streamdeutsch.email](https://serien.streamdeutsch.email)~~ is a site to watch series in high quality. Be cautious, the website might force you to login.
 * [streamking.eu](https://streamking.eu/) is a site to watch and / or download series in high quality.
+* [streamkiste.tv](https://streamkiste.tv/) is a site to watch and / or download series in high quality.
 
 ### Films
 
@@ -52,6 +53,7 @@
 * [movie-blog.to](https://movie-blog.to) is a site to download films in high quality.
 * [nima4k.org](https://nima4k.org) is a site to download films in high quality.
 * [streamking.eu](https://streamking.eu/) is a site to watch and / or download films in high quality.
+* [streamkiste.tv](https://streamkiste.tv/) is a site to watch and / or download films in high quality.
 * [topstreamfilm.com](https://topstreamfilm.com/) is a site to download films in high quality.
 * [xcine.tv](https://xcine.tv/) is a site to watch and / or download films in high quality.
 
