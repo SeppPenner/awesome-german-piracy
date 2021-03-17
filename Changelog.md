@@ -1,7 +1,7 @@
 Change history
 --------------
 
-* **Version 1.0.9.0 (2021-03-17)** : Reworked page.
+* **Version 1.0.10.0 (2021-03-17)** : Reworked page.
 * **Version 1.0.9.0 (2020-10-11)** : Added streamkiste.tv.
 * **Version 1.0.8.0 (2020-08-30)** : Added cinestreamz.com.
 * **Version 1.0.7.0 (2020-08-17)** : Added movieking.cc.
