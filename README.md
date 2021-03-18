@@ -100,7 +100,7 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 |[jokerlivestream.me](https://jokerlivestream.me/)|[![jokerlivestream.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fjokerlivestream.me)](https://jokerlivestream.me/)|-|
 |[livetv.sx](http://livetv.sx/)|[![livetv.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Flivetv.sx)](http://livetv.sx/)|-|
 |[mamahd.xyz](http://mamahd.xyz/)|[![mamahd.xyz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fmamahd.xyz)](http://mamahd.xyz/)|-|
-|[sportlemons.net](https://sportlemons.net/)|[![sportlemons.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsportlemons.net)](https://sportlemons.net/)|-|
+|[sportlemons.net](http://sportlemons.net/)|[![sportlemons.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fsportlemons.net)](http://sportlemons.net/)|-|
 |[sportsbay.org](https://sportsbay.org/)|[![sportsbay.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsportsbay.org)](https://sportsbay.org/)|-|
 |[zorrostream.site](https://zorrostream.site/)|[![zorrostream.site](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fzorrostream.site)](https://zorrostream.site/)|-|
 

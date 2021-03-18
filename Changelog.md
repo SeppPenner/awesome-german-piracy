@@ -1,6 +1,7 @@
 Change history
 --------------
 
+* **Version 1.0.11.0 (2021-03-18)** : Updated sportlemons.net page.
 * **Version 1.0.10.0 (2021-03-17)** : Reworked page.
 * **Version 1.0.9.0 (2020-10-11)** : Added streamkiste.tv.
 * **Version 1.0.8.0 (2020-08-30)** : Added cinestreamz.com.
