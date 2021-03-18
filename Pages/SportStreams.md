@@ -1,0 +1,24 @@
+# Sport streams
+
+|Website|Status|Remark|
+|-|-|-|
+|[1xstream.com](http://1xstream.com/)|[![1xstream.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2F1xstream.com)](http://1xstream.com/)|-|
+|[batmanstream.info](http://batmanstream.info/)|[![batmanstream.info](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fbatmanstream.info)](http://batmanstream.info/)|-|
+|[batman-stream.tv](https://batman-stream.tv/)|[![batman-stream.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbatman-stream.tv)](https://batman-stream.tv/)|-|
+|[batstream.tv](https://batstream.tv/)|[![batstream.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbatstream.tv)](https://batstream.tv/)|-|
+|[bayernstream.com](https://bayernstream.com/)|[![bayernstream.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbayernstream.com)](https://bayernstream.com/)|-|
+|[bundesliga-streams.net](https://bundesliga-streams.net/)|[![bundesliga-streams.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbundesliga-streams.net)](https://bundesliga-streams.net/)|-|
+|[bundesliga-live.stream](https://bundesliga-live.stream/)|[![bundesliga-live.stream](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbundesliga-live.stream)](https://bundesliga-live.stream/)|-|
+|[draculastream.org](http://draculastream.org/)|[![draculastream.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fdraculastream.org)](http://draculastream.org/)|-|
+|[drakula.top](http://drakula.top/)|[![drakula.top](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fdrakula.top)](http://drakula.top/)|-|
+|[drakulastream.live](https://drakulastream.live/)|[![drakulastream.live](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdrakulastream.live)](https://drakulastream.live/)|-|
+|[drakula-stream.com](https://drakula-stream.com/)|[![drakula-stream.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdrakula-stream.com)](https://drakula-stream.com/)|-|
+|[firstrowsports.com](https://firstrowsports.com/)|[![firstrowsports.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffirstrowsports.com)](https://firstrowsports.com/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[firstrowsport.eu](https://firstrowsport.eu/)|[![firstrowsport.eu](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffirstrowsport.eu)](https://firstrowsport.eu/)|-|
+|[jokerlivestream.com](https://jokerlivestream.com/)|[![jokerlivestream.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fjokerlivestream.com)](https://jokerlivestream.com/)|-|
+|[jokerlivestream.me](https://jokerlivestream.me/)|[![jokerlivestream.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fjokerlivestream.me)](https://jokerlivestream.me/)|-|
+|[livetv.sx](http://livetv.sx/)|[![livetv.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Flivetv.sx)](http://livetv.sx/)|-|
+|[mamahd.xyz](http://mamahd.xyz/)|[![mamahd.xyz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fmamahd.xyz)](http://mamahd.xyz/)|-|
+|[sportlemons.net](http://sportlemons.net/)|[![sportlemons.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fsportlemons.net)](http://sportlemons.net/)|-|
+|[sportsbay.org](https://sportsbay.org/)|[![sportsbay.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsportsbay.org)](https://sportsbay.org/)|-|
+|[zorrostream.site](https://zorrostream.site/)|[![zorrostream.site](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fzorrostream.site)](https://zorrostream.site/)|-|
