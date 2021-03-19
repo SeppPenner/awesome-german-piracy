@@ -19,6 +19,8 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 * [Music](./Pages/Music.md)
 * [Sport streams](./Pages/SportStreams.md)
 * [Lists](./Pages/Lists.md)
+* [Torrents](./Pages/Torrents.md)
+* [Science libaries](./Pages/ScienceLibaries.md)
 
 ## Disclaimer
 
