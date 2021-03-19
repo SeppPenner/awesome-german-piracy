@@ -6,6 +6,7 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 
 ## German piracy links
 
+* [Android apps](./Pages/AndroidApps.md)
 * [Warez / Different stuff](./Pages/Warez.md)
 * [Series](./Pages/Series.md)
 * [Series (English)](./Pages/Series_English.md)
