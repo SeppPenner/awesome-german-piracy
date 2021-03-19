@@ -9,4 +9,5 @@
 |[ddl-warez.to](https://ddl-warez.to/)|[![ddl-warez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl-warez.to)](https://ddl-warez.to/)|-|
 |[warez.to](https://warez.to/)|[![warez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez.to)](https://warez.to/)|-|
 |[wareztown.to](https://wareztown.to/)|[![wareztown.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwareztown.to)](https://wareztown.to/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[warezz.now.sh](https://warezz.now.sh/)|[![warezz.now.sh](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarezz.now.sh)](https://warezz.now.sh/)|-|
 |[warez-world.org](https://warez-world.org/)|[![warez-world.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez-world.org)](https://warez-world.org/)|-|

@@ -1,0 +1,23 @@
+# Nulled scripts
+
+|Website|Status|Remark|
+|-|-|-|
+|[aiw.bz](https://aiw.bz/)|[![aiw.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Faiw.bz)](https://aiw.bz/)|-|
+|[boardscriptz.org](https://boardscriptz.org/)|[![boardscriptz.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboardscriptz.org)](https://boardscriptz.org/)|-|
+|[borntonull.com](http://borntonull.com/)|[![borntonull.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fborntonull.com)](http://borntonull.com/)|-|
+|[codecanyon.download](https://codecanyon.download/)|[![codecanyon.download](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcodecanyon.download)](https://codecanyon.download/)|-|
+|[codelist.cc](https://codelist.cc/)|[![codelist.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcodelist.cc)](https://codelist.cc/)|-|
+|[enxf.net](https://enxf.net/)|[![enxf.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fenxf.net)](https://enxf.net/)|-|
+|[escripts.club](https://escripts.club/)|[![escripts.club](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fescripts.club)](https://escripts.club/)|-|
+|[nullphpscript.com](https://nullphpscript.com/)|[![nullphpscript.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnullphpscript.com)](https://nullphpscript.com/)|-|
+|[nulled-scripts.cc](https://nulled-scripts.cc/)|[![nulled-scripts.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnulled-scripts.cc)](https://nulled-scripts.cc/)|-|
+|[nulljungle.com](https://nulljungle.com/)|[![nulljungle.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnulljungle.com)](https://nulljungle.com/)|-|
+|[nulleb.com](https://nulleb.com/)|[![nulleb.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnulleb.com)](https://nulleb.com/)|-|
+|[nulledfree.pw](https://nulledfree.pw/)|[![nulledfree.pw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnulledfree.pw)](https://nulledfree.pw/)|-|
+|[toolba.se](https://toolba.se/)|[![toolba.se](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftoolba.se)](https://toolba.se/)|-|
+|[nullednow.in](https://nullednow.in/)|[![nullednow.in](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnullednow.in)](https://nullednow.in/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[nullscripts.pw](https://nullscripts.pw/)|[![nullscripts.pw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnullscripts.pw)](https://nullscripts.pw/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[scriptdevilz.org](https://scriptdevilz.org/)|[![scriptdevilz.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscriptdevilz.org)](https://scriptdevilz.org/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[wsb-board.pw](https://wsb-board.pw/)|[![wsb-board.pw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwsb-board.pw)](https://wsb-board.pw/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[wsc-scriptz.org](https://wsc-scriptz.org/)|[![wsc-scriptz.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwsc-scriptz.org)](https://wsc-scriptz.org/)|⚠️ Seems to be offline due to legal issues.|
+|[xenfiles.co](https://xenfiles.co/)|[![xenfiles.co](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fxenfiles.co)](https://xenfiles.co/)|⚠️ Seems to be offline. Reasons are unknown.|
