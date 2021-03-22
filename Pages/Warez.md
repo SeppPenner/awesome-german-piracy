@@ -14,6 +14,7 @@
 |[boerse.to](https://boerse.to/)|[![boerse.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.to)](https://boerse.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[byte.to](https://byte.to/)|[![byte.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbyte.to)](https://byte.to/)|-|
 |[ddl-warez.to](https://ddl-warez.to/)|[![ddl-warez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl-warez.to)](https://ddl-warez.to/)|-|
+|[freshwap.us](https://freshwap.us/)|[![freshwap.us](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffreshwap.us)](https://freshwap.us/)|-|
 |[mygully.com](https://mygully.com/)|[![mygully.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmygully.com)](https://mygully.com/)|-|
 |[pelis24.to](https://pelis24.to/)|[![pelis24.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpelis24.to)](https://pelis24.to/)|-|
 |[pepecine.to](https://pepecine.to/)|[![pepecine.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpepecine.to)](https://pepecine.to/)|⚠️ Seems to be offline. Reasons are unknown.|
