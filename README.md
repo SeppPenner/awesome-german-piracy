@@ -25,6 +25,8 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 * [Usenet search engines](./Pages/UsenetSearchEngines.md)
 * [Nfo sites](./Pages/Nfo.md)
 * [Keygens](./Pages/Keygens.md)
+* [Navigation software](./Page/NavigationSoftware.md)
+* [Portable apps](./Pages/PortableApps.md)
 
 ## Disclaimer
 
