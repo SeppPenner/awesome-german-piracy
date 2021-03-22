@@ -21,6 +21,8 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 * [Lists](./Pages/Lists.md)
 * [Torrents](./Pages/Torrents.md)
 * [Science libaries](./Pages/ScienceLibaries.md)
+* [Usenet forums](./Pages/UsenetForums.md)
+* [Usenet search engines](./Pages/UsenetSearchEngines.md)
 
 ## Disclaimer
 

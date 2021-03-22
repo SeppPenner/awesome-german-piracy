@@ -7,6 +7,7 @@
 |[borntonull.com](http://borntonull.com/)|[![borntonull.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fborntonull.com)](http://borntonull.com/)|-|
 |[codecanyon.download](https://codecanyon.download/)|[![codecanyon.download](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcodecanyon.download)](https://codecanyon.download/)|-|
 |[codelist.cc](https://codelist.cc/)|[![codelist.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcodelist.cc)](https://codelist.cc/)|-|
+|[cracked.to](https://cracked.to/)|[![cracked.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcracked.to)](https://cracked.to/)|-|
 |[enxf.net](https://enxf.net/)|[![enxf.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fenxf.net)](https://enxf.net/)|-|
 |[escripts.club](https://escripts.club/)|[![escripts.club](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fescripts.club)](https://escripts.club/)|-|
 |[nullphpscript.com](https://nullphpscript.com/)|[![nullphpscript.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnullphpscript.com)](https://nullphpscript.com/)|-|

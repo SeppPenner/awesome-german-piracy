@@ -2,6 +2,7 @@
 
 |Website|Status|Remark|
 |-|-|-|
+|[b-ok.org](https://b-ok.org/)|[![b-ok.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fb-ok.org)](https://b-ok.org/)|-|
 |[bookfi.net](https://bookfi.net/)|[![bookfi.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbookfi.net)](https://bookfi.net/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[b-ok.asia](https://b-ok.asia/)|[![b-ok.asia](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fb-ok.asia)](https://b-ok.asia/)|-|
 |[doi.qqsci.com](https://doi.qqsci.com/)|[![doi.qqsci.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdoi.qqsci.com)](https://doi.qqsci.com/)|-|
