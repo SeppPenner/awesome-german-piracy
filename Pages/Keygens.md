@@ -1,0 +1,20 @@
+# Keygens
+
+|Website|Status|Remark|
+|-|-|-|
+|[crack.ms](https://crack.ms/)|[![crack.ms](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcrack.ms)](https://crack.ms/)|-|
+|[crackaio.com](https://crackaio.com/)|[![crackaio.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcrackaio.com)](https://crackaio.com/)|-|
+|[cracknest.com](http://cracknest.com/)|[![cracknest.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fcracknest.com)](http://cracknest.com/)|-|
+|[cracknet.net](https://cracknet.net/)|[![cracknet.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcracknet.net)](https://cracknet.net/)|-|
+|[cracks4software.com](https://cracks4software.com/)|[![cracks4software.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcracks4software.com)](https://cracks4software.com/)|-|
+|[gameburnworld.com](https://gameburnworld.com/)|[![gameburnworld.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgameburnworld.com)](https://gameburnworld.com/)|-|
+|[gamecopyworld.com](https://gamecopyworld.com/)|[![gamecopyworld.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgamecopyworld.com)](https://gamecopyworld.com/)|-|
+|[gamefix.wiretarget.com](https://gamefix.wiretarget.com/)|[![gamefix.wiretarget.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgamefix.wiretarget.com)](https://gamefix.wiretarget.com/)|-|
+|[keygens.pro](https://keygens.pro/)|[![keygens.pro](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkeygens.pro)](https://keygens.pro/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[megagames.com](https://megagames.com/)|[![megagames.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmegagames.com)](https://megagames.com/)|-|
+|[serial4download.com](https://serial4download.com/)|[![serial4download.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserial4download.com)](https://serial4download.com/)|-|
+|[serials.be](https://serials.be/)|[![serials.be](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserials.be)](https://serials.be/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[serials.ws](https://serials.ws/)|[![serials.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserials.ws)](https://serials.ws/)|-|
+|[smartserials.com](https://smartserials.com/)|[![smartserials.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsmartserials.com)](https://smartserials.com/)|-|
+|[warezcrack.net](https://warezcrack.net/)|[![warezcrack.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarezcrack.net)](https://warezcrack.net/)|-|
+|[youserials.com](https://youserials.com/)|[![youserials.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fyouserials.com)](https://youserials.com/)|⚠️ Seems to be offline. Reasons are unknown.|

@@ -24,6 +24,7 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 * [Usenet forums](./Pages/UsenetForums.md)
 * [Usenet search engines](./Pages/UsenetSearchEngines.md)
 * [Nfo sites](./Pages/Nfo.md)
+* [Keygens](./Pages/Keygens.md)
 
 ## Disclaimer
 
