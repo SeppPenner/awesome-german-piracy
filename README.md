@@ -67,3 +67,6 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/nulled-scripts-offensichtlich-rechtswidrige-blogs-foren-dezember-2020/
 * https://tarnkappe.info/e-book-szene-dezember-2020-illegale-blogs-foren-portale/
 * https://tarnkappe.info/scnlog-me-offline-serverprobleme-halten-laenger-an/
+* https://tarnkappe.info/mangadex-manga-site-schliesst-nach-einem-cyberangriff-voruebergehend/
+* https://tarnkappe.info/danishbits-org-betreiber-von-marokko-nach-daenemark-ausgeliefert/
+* https://tarnkappe.info/infraud-cybercrime-forum-admin-zu-10-jahren-gefaengnis-verurteilt/
