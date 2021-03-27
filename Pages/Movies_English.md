@@ -46,6 +46,7 @@
 |[kinox.wtf](https://kinox.wtf/)|[![kinox.wtf](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinox.wtf)](https://kinox.wtf/)|-|
 |[kinoz.to](https://kinoz.to/)|[![kinoz.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinoz.to)](https://kinoz.to/)|-|
 |[levidia.to](http://levidia.to/)|[![levidia.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Flevidia.to)](http://levidia.to/)|-|
+|[m4ufree.tv](https://m4ufree.tv/)|[![m4ufree.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fm4ufree.tv)](https://m4ufree.tv/)|-|
 |[movie4u.cc](https://movie4u.cc/)|[![movie4u.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmovie4u.cc)](https://movie4u.cc/)|-|
 |[movie4u.live](https://movie4u.live/)|[![movie4u.live](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmovie4u.live)](https://movie4u.live/)|-|
 |[moviedream.ws](https://moviedream.ws/)|[![moviedream.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmoviedream.ws)](https://moviedream.ws/)|⚠️ Seems to be offline. Reasons are unknown.|
@@ -74,3 +75,4 @@
 |[yifytv.unblockit.buzz](https://yifytv.unblockit.buzz/)|[![yifytv.unblockit.buzz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fyifytv.unblockit.buzz)](https://yifytv.unblockit.buzz/)|-|
 |[yifytv.unblockit.ltd](https://yifytv.unblockit.ltd/)|[![yifytv.unblockit.ltd](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fyifytv.unblockit.ltd)](https://yifytv.unblockit.ltd/)|-|
 |[ymovies.se](https://ymovies.se/)|[![ymovies.se](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fymovies.se)](https://ymovies.se/)|-|
+|[yseries.tv](https://yseries.tv/)|[![yseries.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fyseries.tv)](https://yseries.tv/)|-|

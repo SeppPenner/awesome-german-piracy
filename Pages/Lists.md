@@ -22,5 +22,6 @@
 |[saug.de](https://saug.de/)|[![saug.de](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsaug.de)](https://saug.de/)|-|
 |[startseite.to](https://startseite.to/)|[![startseite.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fstartseite.to)](https://startseite.to/)|-|
 |[unblocked.to](https://unblocked.to/)|[![unblocked.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Funblocked.to)](https://unblocked.to/)|-|
+|[unblockit.buzz](https://unblockit.buzz/)|[![unblockit.buzz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Funblockit.buzz)](https://unblockit.buzz/)|-|
 |[uscene.net](https://uscene.net/)|[![uscene.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fuscene.net)](https://uscene.net/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[webbul.net](https://webbul.net/)|[![webbul.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwebbul.net)](https://webbul.net/)|-|
