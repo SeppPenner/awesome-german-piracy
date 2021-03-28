@@ -24,6 +24,7 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 * [Nulled scripts](./Pages/NulledScripts.md)
 * [Portable apps](./Pages/PortableApps.md)
 * [Science libaries](./Pages/ScienceLibaries.md)
+* [Search engines](./Pages/SearchEngines.md)
 * [Series](./Pages/Series.md)
 * [Series (English)](./Pages/Series_English.md)
 * [Series (Other)](./Pages/Series_Other.md)
