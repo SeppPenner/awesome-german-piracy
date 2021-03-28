@@ -7,6 +7,7 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 ## German piracy links
 
 * [Android apps](./Pages/AndroidApps.md)
+* [Audio books](./Pages/AudioBooks.md)
 * [eBooks](./Pages/eBooks.md)
 * [Games](./Pages/Games.md)
 * [iOS apps](./Pages/iOSApps.md)
