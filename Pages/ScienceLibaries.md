@@ -2,9 +2,11 @@
 
 |Website|Status|Remark|
 |-|-|-|
-|[b-ok.org](https://b-ok.org/)|[![b-ok.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fb-ok.org)](https://b-ok.org/)|-|
 |[bookfi.net](https://bookfi.net/)|[![bookfi.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbookfi.net)](https://bookfi.net/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[booksc.org](https://booksc.org/)|[![booksc.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbooksc.org)](https://booksc.org/)|-|
 |[b-ok.asia](https://b-ok.asia/)|[![b-ok.asia](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fb-ok.asia)](https://b-ok.asia/)|-|
+|[b-ok.cc](https://b-ok.cc/)|[![b-ok.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fb-ok.cc)](https://b-ok.cc/)|-|
+|[b-ok.org](https://b-ok.org/)|[![b-ok.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fb-ok.org)](https://b-ok.org/)|-|
 |[doi.qqsci.com](https://doi.qqsci.com/)|[![doi.qqsci.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdoi.qqsci.com)](https://doi.qqsci.com/)|-|
 |[gen.lib.rus.ec](https://gen.lib.rus.ec/)|[![gen.lib.rus.ec](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgen.lib.rus.ec)](https://gen.lib.rus.ec/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[libgen.be](https://libgen.be/)|[![libgen.be](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Flibgen.be)](https://libgen.be/)|-|
