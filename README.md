@@ -29,7 +29,7 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 * [Portable apps](./Pages/PortableApps.md)
 * [TV senders](./Pages/TvSenders.md)
 * [macOS warez](.Pages/macOsWarez.md)
-* [Manga / Anime](./Pages/Manga.md)
+* [Manga / Anime](./Pages/MangaAnime.md.md)
 
 ## Disclaimer
 
