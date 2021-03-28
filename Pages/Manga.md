@@ -1,0 +1,41 @@
+# Manga / Anime
+
+|Website|Status|Remark|
+|-|-|-|
+|[36dm.club](https://36dm.club/)|[![36dm.club](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F36dm.club)](https://36dm.club/)|-|
+|[36dm.com](https://36dm.com/)|[![36dm.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F36dm.com)](https://36dm.com/)|-|
+|[acgsou.com](https://acgsou.com/)|[![acgsou.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Facgsou.com)](https://acgsou.com/)|-|
+|[bt.acg.gg](https://bt.acg.gg/)|[![bt.acg.gg](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbt.acg.gg)](https://bt.acg.gg/)|-|
+|[anidex.info](https://anidex.info/)|[![anidex.info](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanidex.info)](https://anidex.info/)|-|
+|[animetosho.org](https://animetosho.org/)|[![animetosho.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanimetosho.org)](https://animetosho.org/)|-|
+|[anime-loads.org](https://anime-loads.org/)|[![anime-loads.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanime-loads.org)](https://anime-loads.org/)|-|
+|[animeout.xyz](https://animeout.xyz/)|[![animeout.xyz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanimeout.xyz)](https://animeout.xyz/)|-|
+|[animes.so](https://animes.so/)|[![animes.so](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanimes.so)](https://animes.so/)|-|
+|[anirena.com](https://anirena.com/)|[![anirena.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanirena.com)](https://anirena.com/)|-|
+|[asnet.pw](https://asnet.pw/)|[![asnet.pw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fasnet.pw)](https://asnet.pw/)|-|
+|[bangumi.moe](https://bangumi.moe/)|[![bangumi.moe](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbangumi.moe)](https://bangumi.moe/)|-|
+|[bittorrent.am](http://bittorrent.am/)|[![bittorrent.am](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fbittorrent.am)](http://bittorrent.am/)|-|
+|[chia-anime.me](https://chia-anime.me/)|[![chia-anime.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fchia-anime.me)](https://chia-anime.me/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[chinurarete-subs.org](https://chinurarete-subs.org/)|[![chinurarete-subs.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fchinurarete-subs.org)](https://chinurarete-subs.org/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[e-hentai.org](https://e-hentai.org/)|[![e-hentai.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fe-hentai.org)](https://e-hentai.org/)|-|
+|[erai-raws.info](https://erai-raws.info/)|[![erai-raws.info](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ferai-raws.info)](https://erai-raws.info/)|-|
+|[frozen-layer.com](https://frozen-layer.com/)|[![frozen-layer.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffrozen-layer.com)](https://frozen-layer.com/)|-|
+|[gtdb.to](https://gtdb.to/)|[![gtdb.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgtdb.to)](https://gtdb.to/)|-|
+|[gogoanime.so](https://gogoanime.so/)|[![gogoanime.so](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgogoanime.so)](https://gogoanime.so/)|-|
+|[horriblesubs.cc](https://horriblesubs.cc/)|[![horriblesubs.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhorriblesubs.cc)](https://horriblesubs.cc/)|-|
+|[horriblesubs.in](https://horriblesubs.in/)|[![horriblesubs.in](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhorriblesubs.in)](https://horriblesubs.in/)|-|
+|[horriblesubs.pro](https://horriblesubs.pro/)|[![horriblesubs.pro](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhorriblesubs.pro)](https://horriblesubs.pro/)|-|
+|[horriblesubs.theproxy.app](https://horriblesubs.theproxy.app/)|[![horriblesubs.theproxy.app](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhorriblesubs.theproxy.app)](https://horriblesubs.theproxy.app/)|-|
+|[ibit.to](https://ibit.to/)|[![ibit.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fibit.to)](https://ibit.to/)|-|
+|[kisssub.org](http://kisssub.org/)|[![kisssub.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fkisssub.org)](http://kisssub.org/)|-|
+|[nyaa.net](https://nyaa.net/)|[![nyaa.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnyaa.net)](https://nyaa.net/)|-|
+|[nyaa.si](https://nyaa.si/)|[![nyaa.si](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnyaa.si)](https://nyaa.si/)|-|
+|[share.dmhy.org](https://share.dmhy.org/)|[![share.dmhy.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fshare.dmhy.org)](https://share.dmhy.org/)|-|
+|[share.xfapi.top:88](https://share.xfapi.top:88/)|[![share.xfapi.top:88](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fshare.xfapi.top:88)](https://share.xfapi.top:88/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[subsplease.org](https://subsplease.org/)|[![subsplease.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsubsplease.org)](https://subsplease.org/)|-|
+|[sukebei.nyaa.si](https://sukebei.nyaa.si/)|[![sukebei.nyaa.si](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsukebei.nyaa.si)](https://sukebei.nyaa.si/)|-|
+|[tfp.is](https://tfp.is/)|[![tfp.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftfp.is)](https://tfp.is/)|-|
+|[tokyotosho.info](https://tokyotosho.info/)|[![tokyotosho.info](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftokyotosho.info)](https://tokyotosho.info/)|-|
+|[toros.co](https://toros.co/)|[![toros.co](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftoros.co)](https://toros.co/)|-|
+|[yourbittorrent.com](https://yourbittorrent.com/)|[![yourbittorrent.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fyourbittorrent.com)](https://yourbittorrent.com/)|-|
+|[zooqle.com](https://zooqle.com/)|[![zooqle.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fzooqle.com)](https://zooqle.com/)|-|

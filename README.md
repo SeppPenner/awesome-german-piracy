@@ -7,7 +7,7 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 ## German piracy links
 
 * [Android apps](./Pages/AndroidApps.md)
-* [iOS apps](.(Pages/iOSApps.md))
+* [iOS apps](./Pages/iOSApps.md)
 * [Nulled scripts](./Pages/NulledScripts.md)
 * [Warez / Different stuff](./Pages/Warez.md)
 * [Series](./Pages/Series.md)
@@ -29,6 +29,7 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 * [Portable apps](./Pages/PortableApps.md)
 * [TV senders](./Pages/TvSenders.md)
 * [macOS warez](.Pages/macOsWarez.md)
+* [Manga / Anime](./Pages/Manga.md)
 
 ## Disclaimer
 
