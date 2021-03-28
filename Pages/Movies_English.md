@@ -5,8 +5,10 @@
 |[1movies.best](https://1movies.best/)|[![1movies.best](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1movies.best)](https://1movies.best/)|-|
 |[1movies.is](https://1movies.is/)|[![1movies.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1movies.is)](https://1movies.is/)|-|
 |[5movies.to](https://5movies.to/)|[![5movies.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F5movies.to)](https://5movies.to/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[apps4all.com](https://apps4all.com/)|[![apps4all.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fapps4all.com)](https://apps4all.com/)|-|
 |[cuevana2.io](https://cuevana2.io/)|[![cuevana2.io](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcuevana2.io)](https://cuevana2.io/)|-|
 |[cuevana2.unblockit.ltd](https://cuevana2.unblockit.ltd/)|[![cuevana2.unblockit.ltd ](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcuevana2.unblockit.ltd)](https://cuevana2.unblockit.ltd/)|-|
+|[ddlspot.com](https://ddlspot.com/)|[![ddlspot.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlspot.com)](https://ddlspot.com/)|-|
 |[flixtor.to](https://flixtor.to/)|[![flixtor.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.to)](https://flixtor.to/)|-|
 |[fmovies.org](https://fmovies.org/)|[![fmovies.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffmovies.org)](https://fmovies.org/)|-|
 |[fmovies.to](https://fmovies.to/)|[![fmovies.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffmovies.to)](https://fmovies.to/)|-|
@@ -63,6 +65,7 @@
 |[s2dfree.is](https://s2dfree.is/)|[![s2dfree.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fs2dfree.is)](https://s2dfree.is/)|-|
 |[s2dfree.nl](https://s2dfree.nl/)|[![s2dfree.nl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fs2dfree.nl)](https://s2dfree.nl/)|-|
 |[s2dfree.to](https://s2dfree.to/)|[![s2dfree.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fs2dfree.to)](https://s2dfree.to/)|-|
+|[sanet.st](https://sanet.st/)|[![sanet.st](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.st)](https://sanet.st/)|-|
 |[soap2day.ac](https://soap2day.ac/)|[![soap2day.ac](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoap2day.ac)](https://soap2day.ac/)|-|
 |[soap2day.im](https://soap2day.im/)|[![soap2day.im](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoap2day.im)](https://soap2day.im/)|-|
 |[soap2day.se](https://soap2day.se/)|[![soap2day.se](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoap2day.se)](https://soap2day.se/)|-|

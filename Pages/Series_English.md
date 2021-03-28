@@ -6,6 +6,8 @@
 |[1movies.is](https://1movies.is/)|[![1movies.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1movies.is)](https://1movies.is/)|-|
 |[4k-hd-movies.tv](https://4k-hd-movies.tv/)|[![4k-hd-movies.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F4k-hd-movies.tv)](https://4k-hd-movies.tv/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[5movies.to](https://5movies.to/)|[![5movies.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F5movies.to)](https://5movies.to/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[apps4all.com](https://apps4all.com/)|[![apps4all.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fapps4all.com)](https://apps4all.com/)|-|
+|[ddlspot.com](https://ddlspot.com/)|[![ddlspot.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlspot.com)](https://ddlspot.com/)|-|
 |[eurostreaming.chat](https://eurostreaming.chat/)|[![eurostreaming.chat](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Feurostreaming.chat)](https://eurostreaming.chat/)|-|
 |[eurostreaming.gifts](https://eurostreaming.gifts/)|[![eurostreaming.gifts](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Feurostreaming.gifts)](https://eurostreaming.gifts/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[flixtor.to](https://flixtor.to/)|[![flixtor.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.to)](https://flixtor.to/)|-|
@@ -65,6 +67,7 @@
 |[s2dfree.is](https://s2dfree.is/)|[![s2dfree.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fs2dfree.is)](https://s2dfree.is/)|-|
 |[s2dfree.nl](https://s2dfree.nl/)|[![s2dfree.nl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fs2dfree.nl)](https://s2dfree.nl/)|-|
 |[s2dfree.to](https://s2dfree.to/)|[![s2dfree.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fs2dfree.to)](https://s2dfree.to/)|-|
+|[sanet.st](https://sanet.st/)|[![sanet.st](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.st)](https://sanet.st/)|-|
 |[soap2day.ac](https://soap2day.ac/)|[![soap2day.ac](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoap2day.ac)](https://soap2day.ac/)|-|
 |[soap2day.im](https://soap2day.im/)|[![soap2day.im](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoap2day.im)](https://soap2day.im/)|-|
 |[soap2day.se](https://soap2day.se/)|[![soap2day.se](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoap2day.se)](https://soap2day.se/)|-|

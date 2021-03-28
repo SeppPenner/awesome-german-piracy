@@ -1,35 +1,37 @@
 # Awesome German piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of German piracy sites!
+> A curated list of (not only) German piracy sites!
 
 Hint: Some of the websites that are marked as offline seem just to block the queries from [shields.io](https://shields.io/). Sorry for that.
 
 ## German piracy links
 
 * [Android apps](./Pages/AndroidApps.md)
+* [eBooks](./Pages/eBooks.md)
+* [Games](./Pages/Games.md)
 * [iOS apps](./Pages/iOSApps.md)
-* [Nulled scripts](./Pages/NulledScripts.md)
-* [Warez / Different stuff](./Pages/Warez.md)
-* [Series](./Pages/Series.md)
-* [Series (English)](./Pages/Series_English.md)
-* [Series (Other)](./Pages/Series_Other.md)
+* [Keygens](./Pages/Keygens.md)
+* [Lists](./Pages/Lists.md)
+* [macOS warez](.Pages/macOsWarez.md)
+* [Manga / Anime](./Pages/MangaAnime.md.md)
 * [Movies](./Pages/Movies.md)
 * [Movies (English)](./Pages/Movies_English.md)
 * [Movies (Other)](./Pages/Movies_Other.md)
 * [Music](./Pages/Music.md)
-* [Sport streams](./Pages/SportStreams.md)
-* [Lists](./Pages/Lists.md)
-* [Torrents](./Pages/Torrents.md)
+* [Navigation software](./Page/NavigationSoftware.md)
+* [Nfo sites](./Pages/Nfo.md)
+* [Nulled scripts](./Pages/NulledScripts.md)
+* [Portable apps](./Pages/PortableApps.md)
 * [Science libaries](./Pages/ScienceLibaries.md)
+* [Series](./Pages/Series.md)
+* [Series (English)](./Pages/Series_English.md)
+* [Series (Other)](./Pages/Series_Other.md)
+* [Sport streams](./Pages/SportStreams.md)
+* [Torrents](./Pages/Torrents.md)
+* [TV senders](./Pages/TvSenders.md)
 * [Usenet forums](./Pages/UsenetForums.md)
 * [Usenet search engines](./Pages/UsenetSearchEngines.md)
-* [Nfo sites](./Pages/Nfo.md)
-* [Keygens](./Pages/Keygens.md)
-* [Navigation software](./Page/NavigationSoftware.md)
-* [Portable apps](./Pages/PortableApps.md)
-* [TV senders](./Pages/TvSenders.md)
-* [macOS warez](.Pages/macOsWarez.md)
-* [Manga / Anime](./Pages/MangaAnime.md.md)
+* [Warez / Different stuff](./Pages/Warez.md)
 
 ## Disclaimer
 
@@ -47,7 +49,6 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/streaming-portale-fuer-tv-serien-im-november-2020/
 * https://tarnkappe.info/tv-sender-offensichtlich-rechtswidrige-portale-im-november-2020/
 * https://tarnkappe.info/android-apps-illegale-warez-portale-im-november-2020/
-* https://github.com/htrgouvea/nipe
 * https://tarnkappe.info/anime-manga-download-sites-fuer-p2p-nzb-sharehoster/
 * https://tarnkappe.info/film-sites-fuer-illegale-downloads-im-dezember-2020/
 * https://tarnkappe.info/house-of-usenet-usenet-forum-mit-neuem-sicherheitskonzept/
