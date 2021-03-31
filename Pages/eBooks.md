@@ -64,7 +64,7 @@
 |[rarlinks.com](https://rarlinks.com/)|[![rarlinks.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frarlinks.com)](https://rarlinks.com/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[readcomicsonline.ru](https://readcomicsonline.ru/)|[![readcomicsonline.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Freadcomicsonline.ru)](https://readcomicsonline.ru/)|-|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|
-|[rlslog.net](https://rlslog.net/)|[![rlslog.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlslog.net)](https://rlslog.net/)|-|
+|[rlslog.net](http://rlslog.net/)|[![rlslog.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Frlslog.net)](http://rlslog.net/)|-|
 |[sanet.st](https://sanet.st/)|[![sanet.st](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.st)](https://sanet.st/)|-|
 |[scene-rls.net](https://scene-rls.net/)|[![scene-rls.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscene-rls.net)](https://scene-rls.net/)|-|
 |[scnlog.me](https://scnlog.me/)|[![scnlog.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnlog.me)](https://scnlog.me/)|-|

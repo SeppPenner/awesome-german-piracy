@@ -32,7 +32,7 @@
 |[oceanofgames.com](http://oceanofgames.com/)|[![oceanofgames.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Foceanofgames.com)](http://oceanofgames.com/)|-|
 |[ovagames.com](https://ovagames.com/)|[![ovagames.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fovagames.com)](https://ovagames.com/)|-|
 |[rarlinks.com](https://rarlinks.com/)|[![rarlinks.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frarlinks.com)](https://rarlinks.com/)|⚠️ Seems to be offline. Reasons are unknown.|
-|[rlslog.net](https://rlslog.net/)|[![rlslog.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlslog.net)](https://rlslog.net/)|-|
+|[rlslog.net](http://rlslog.net/)|[![rlslog.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Frlslog.net)](http://rlslog.net/)|-|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|
 |[sanet.st](https://sanet.st/)|[![sanet.st](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.st)](https://sanet.st/)|-|
 |[scene-rls.net](https://scene-rls.net/)|[![scene-rls.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscene-rls.net)](https://scene-rls.net/)|-|
