@@ -10,12 +10,14 @@
 |[ddl.me](https://ddl.me/)|[![ddl.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl.me)](https://ddl.me/)|-|
 |[dirkstream.com](https://dirkstream.com/)|[![dirkstream.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdirkstream.com)](https://dirkstream.com/)|⚠️ Be cautious, the website might force you to login.|
 |[filmpalast.to](https://filmpalast.to/)|[![filmpalast.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmpalast.to)](https://filmpalast.to/)|-|
+|[filmstreaming-de.life](https://filmstreaming-de.life/)|[![filmstreaming-de.life](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmstreaming-de.life)](https://filmstreaming-de.life/)|-|
 |[funxd.site](https://funxd.site/)|[![funxd.site](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffunxd.site)](https://funxd.site/)|-|
 |[goldesel.sx](https://goldesel.sx/)|[![goldesel.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgoldesel.sx)](https://goldesel.sx/)|-|
 |[goldesel.to](https://goldesel.to/)|[![goldesel.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgoldesel.to)](https://goldesel.to/)|-|
 |[hdfilme.cx](https://hdfilme.cx/)|[![hdfilme.cx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhdfilme.cx)](https://hdfilme.cx/)|-|
 |[hdfilme.tv](https://hdfilme.tv/)|[![hdfilme.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhdfilme.tv)](https://hdfilme.tv/)|-|
 |[hdstreams.to](https://hdstreams.to/)|[![hdstreams.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhdstreams.to)](https://hdstreams.to/)|⚠️ Fake website.|
+|[hd-source.to](https://hd-source.to/)|[![hd-source.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhd-source.to)](https://hd-source.to/)|-|
 |[hd-streams.org](https://hd-streams.org/)|[![hd-streams.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhd-streams.org)](https://hd-streams.org/)|-|
 |[hd-world.org](https://hd-world.org/)|[![hd-world.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhd-world.org)](https://hd-world.org/)|⚠️ Seems to be offline. ACE takedown.|
 |[kkiste.club](https://kkiste.club/)|[![kkiste.club](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkkiste.club)](https://kkiste.club/)|-|
@@ -32,6 +34,7 @@
 |[kinox.digital](https://kinox.digital/)|[![kinox.digital](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinox.digital)](https://kinox.digital/)|-|
 |[kinox.direct](https://kinox.direct/)|[![kinox.direct](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinox.direct)](https://kinox.direct/)|-|
 |[kinox.express](https://kinox.express/)|[![kinox.express](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinox.express)](https://kinox.express/)|-|
+|[kinox.filmi.space](http://kinox.filmi.space/)|[![kinox.filmi.space](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fkinox.filmi.space)](http://kinox.filmi.space/)|-|
 |[kinox.fun](https://kinox.fun/)|[![kinox.fun](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinox.fun)](https://kinox.fun/)|-|
 |[kinox.fyi](https://kinox.fyi/)|[![kinox.fyi](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinox.fyi)](https://kinox.fyi/)|-|
 |[kinox.gratis](https://kinox.gratis/)|[![kinox.gratis](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinox.gratis)](https://kinox.gratis/)|-|
@@ -57,6 +60,7 @@
 |[movietopia.to](https://movietopia.to/)|[![movietopia.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmovietopia.to)](https://movietopia.to/)|-|
 |[movieworld.to](https://movieworld.to/)|[![movieworld.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmovieworld.to)](https://movieworld.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[movie-blog.to](https://movie-blog.to/)|[![movie-blog.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmovie-blog.to)](https://movie-blog.to/)|⚠️ Seems to be offline. ACE takedown.|
+|[movie-blog.tv](https://movie-blog.tv/)|[![movie-blog.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmovie-blog.tv)](https://movie-blog.tv/)|⚠️ Seems to be offline. ACE takedown.|
 |[mykino.to](http://mykino.to/)|[![mykino.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fmykino.to)](http://mykino.to/)|-|
 |[nima4k.org](https://nima4k.org/)|[![nima4k.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnima4k.org)](https://nima4k.org/)|-|
 |[saugen.to](https://saugen.to/)|[![saugen.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsaugen.to)](https://saugen.to/)|-|
@@ -71,3 +75,4 @@
 |[topstreamfilm.tv](https://topstreamfilm.tv/)|[![topstreamfilm.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftopstreamfilm.tv)](https://topstreamfilm.tv/)|-|
 |[xcine.me](https://xcine.me/)|[![xcine.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fxcine.me)](https://xcine.me/)|-|
 |[xcine.tv](https://xcine.tv/)|[![xcine.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fxcine.tv)](https://xcine.tv/)|-|
+|[xd-movie.com](https://xd-movie.com/)|[![xd-movie.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fxd-movie.com)](https://xd-movie.com/)|-|

@@ -12,10 +12,15 @@
 |[ddlvalley.me](https://ddlvalley.me/)|[![ddlvalley.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlvalley.me)](https://ddlvalley.me/)|-|
 |[dl4all.org](https://dl4all.org/)|[![dl4all.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdl4all.org)](https://dl4all.org/)|-|
 |[filmsofts.com](https://filmsofts.com/)|[![filmsofts.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmsofts.com)](https://filmsofts.com/)|-|
+|[filmxy.bid](https://filmxy.bid/)|[![filmxy.bid](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmxy.bid)](https://filmxy.bid/)|-|
+|[filmxy.live](https://filmxy.live/)|[![filmxy.live](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmxy.live)](https://filmxy.live/)|-|
+|[filmxy.tv](https://filmxy.tv/)|[![filmxy.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmxy.tv)](https://filmxy.tv/)|-|
+|[filmxy.vip](https://filmxy.vip/)|[![filmxy.vip](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmxy.vip)](https://filmxy.vip/)|-|
 |[flixtor.to](https://flixtor.to/)|[![flixtor.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.to)](https://flixtor.to/)|-|
 |[fmovies.org](https://fmovies.org/)|[![fmovies.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffmovies.org)](https://fmovies.org/)|-|
 |[fmovies.to](https://fmovies.to/)|[![fmovies.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffmovies.to)](https://fmovies.to/)|-|
 |[freshwap.us](https://freshwap.us/)|[![freshwap.us](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffreshwap.us)](https://freshwap.us/)|-|
+|[funxd.pw](https://funxd.pw/)|[![funxd.pw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffunxd.pw)](https://funxd.pw/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[hdgo.to](https://hdgo.to/)|[![hdgo.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhdgo.to)](https://hdgo.to/)|-|
 |[hdonline.eu](https://hdonline.eu/)|[![hdonline.eu](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhdonline.eu)](https://hdonline.eu/)|-|
 |[hdonline.unblockit.buzz](https://hdonline.unblockit.buzz/)|[![hdonline.unblockit.buzz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhdonline.unblockit.buzz)](https://hdonline.unblockit.buzz/)|-|
@@ -52,6 +57,7 @@
 |[kinox.tv](https://kinox.tv/)|[![kinox.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinox.tv)](https://kinox.tv/)|-|
 |[kinox.wtf](https://kinox.wtf/)|[![kinox.wtf](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinox.wtf)](https://kinox.wtf/)|-|
 |[kinoz.to](https://kinoz.to/)|[![kinoz.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkinoz.to)](https://kinoz.to/)|-|
+|[letzsdl.biz](https://letzsdl.biz/)|[![letzsdl.biz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fletzsdl.biz)](https://letzsdl.biz/)|-|
 |[levidia.to](http://levidia.to/)|[![levidia.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Flevidia.to)](http://levidia.to/)|-|
 |[m4ufree.tv](https://m4ufree.tv/)|[![m4ufree.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fm4ufree.tv)](https://m4ufree.tv/)|-|
 |[movie4u.cc](https://movie4u.cc/)|[![movie4u.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmovie4u.cc)](https://movie4u.cc/)|-|
@@ -62,6 +68,8 @@
 |[openloadmovies.bz](https://openloadmovies.bz/)|[![openloadmovies.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fopenloadmovies.bz)](https://openloadmovies.bz/)|-|
 |[openloadmov.com](https://openloadmov.com/)|[![openloadmov.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fopenloadmov.com)](https://openloadmov.com/)|-|
 |[openloadmov.net](https://openloadmov.net/)|[![openloadmov.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fopenloadmov.net)](https://openloadmov.net/)|-|
+|[pahe.in](https://pahe.in/)|[![pahe.in](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpahe.in)](https://pahe.in/)|-|
+|[pahe.ph](https://pahe.ph/)|[![pahe.ph](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpahe.ph)](https://pahe.ph/)|-|
 |[primewire.li](https://primewire.li/)|[![primewire.li](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fprimewire.li)](https://primewire.li/)|-|
 |[putlockers.gs](https://putlockers.gs/)|[![putlockers.gs](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fputlockers.gs)](https://putlockers.gs/)|-|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|
