@@ -1,6 +1,7 @@
 Change history
 --------------
 
+* **Version 1.0.14.0 (2021-03-31)** : Reworked the pages nearly completely, added a lot more links.
 * **Version 1.0.13.0 (2021-03-19)** : Added a lot more sites.
 * **Version 1.0.12.0 (2021-03-18)** : Fixed a lot of sites, added some more.
 * **Version 1.0.11.0 (2021-03-18)** : Updated sportlemons.net page.
