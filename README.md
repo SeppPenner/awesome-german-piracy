@@ -13,7 +13,7 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 * [iOS apps](./Pages/iOSApps.md)
 * [Keygens](./Pages/Keygens.md)
 * [Lists](./Pages/Lists.md)
-* [macOS warez](.Pages/macOsWarez.md)
+* [macOS software](.Pages/macOsSoftware.md)
 * [Manga / Anime](./Pages/MangaAnime.md.md)
 * [Movies](./Pages/Movies.md)
 * [Movies (English)](./Pages/Movies_English.md)
@@ -34,6 +34,7 @@ Hint: Some of the websites that are marked as offline seem just to block the que
 * [Usenet forums](./Pages/UsenetForums.md)
 * [Usenet search engines](./Pages/UsenetSearchEngines.md)
 * [Warez / Different stuff](./Pages/Warez.md)
+* [Windows software](./Pages/WindowsSoftware.md)
 
 ## Disclaimer
 

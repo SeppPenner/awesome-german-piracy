@@ -1,4 +1,4 @@
-# macOS warez
+# macOS software
 
 |Website|Status|Remark|
 |-|-|-|
