@@ -19,6 +19,7 @@
 |[top.nydus.org](https://top.nydus.org/)|[![top.nydus.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftop.nydus.org)](https://top.nydus.org/)|-|
 |[toplist.cz](https://toplist.cz/)|[![toplist.cz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftoplist.cz)](https://toplist.cz/)|-|
 |[toplist.raidrush.ws](https://toplist.raidrush.ws/)|[![toplist.raidrush.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftoplist.raidrush.ws)](https://toplist.raidrush.ws/)|-|
+|[sastatus.com](https://sastatus.com/)|[![sastatus.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsastatus.com)](https://sastatus.com/)|-|
 |[saug.de](https://saug.de/)|[![saug.de](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsaug.de)](https://saug.de/)|-|
 |[startseite.to](https://startseite.to/)|[![startseite.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fstartseite.to)](https://startseite.to/)|-|
 |[unblocked.to](https://unblocked.to/)|[![unblocked.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Funblocked.to)](https://unblocked.to/)|-|
