@@ -68,6 +68,7 @@
 |[nima4k.org](https://nima4k.org/)|[![nima4k.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnima4k.org)](https://nima4k.org/)|-|
 |[s.to](https://s.to/)|[![s.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fs.to)](https://s.to/)|-|
 |[saugen.to](https://saugen.to/)|[![saugen.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsaugen.to)](https://saugen.to/)|-|
+|[serien.vc](https://serien.vc/)|[![serien.vc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.vc)](https://serien.vc/)|-|
 |[serien.sx](https://serien.sx/)|[![serien.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.sx)](https://serien.sx/)|-|
 |[serienfans.org](https://serienfans.org/)|[![serienfans.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserienfans.org)](https://serienfans.org/)|-|
 |[serienfreaks.org](https://serienfreaks.org/)|[![serienfreaks.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserienfreaks.org)](https://serienfreaks.org/)|⚠️ Seems to be offline. Reasons are unknown.|
