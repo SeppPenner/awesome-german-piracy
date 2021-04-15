@@ -75,3 +75,4 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/mangadex-manga-site-schliesst-nach-einem-cyberangriff-voruebergehend/
 * https://tarnkappe.info/danishbits-org-betreiber-von-marokko-nach-daenemark-ausgeliefert/
 * https://tarnkappe.info/infraud-cybercrime-forum-admin-zu-10-jahren-gefaengnis-verurteilt/
+* https://tarnkappe.info/canna-power-richtet-canna-tf-nach-dns-sperre-ein/
