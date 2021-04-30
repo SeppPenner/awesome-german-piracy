@@ -76,3 +76,5 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/danishbits-org-betreiber-von-marokko-nach-daenemark-ausgeliefert/
 * https://tarnkappe.info/infraud-cybercrime-forum-admin-zu-10-jahren-gefaengnis-verurteilt/
 * https://tarnkappe.info/canna-power-richtet-canna-tf-nach-dns-sperre-ein/
+* https://tarnkappe.info/leaked-to-datenbank-forum-nach-einem-jahr-pause-wieder-online/
+* https://tarnkappe.info/betreiber-von-danishbits-verurteilt-rights-alliance-uebergluecklich/
