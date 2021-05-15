@@ -78,3 +78,6 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/canna-power-richtet-canna-tf-nach-dns-sperre-ein/
 * https://tarnkappe.info/leaked-to-datenbank-forum-nach-einem-jahr-pause-wieder-online/
 * https://tarnkappe.info/betreiber-von-danishbits-verurteilt-rights-alliance-uebergluecklich/
+* https://tarnkappe.info/movie4k-to-warez-to-3dl-tv-down-was-ist-da-eigentlich-los/
+* https://tarnkappe.info/njal-la-wie-gelang-das-domain-hijacking-von-dark-fail-darknetlive-com/
+* https://tarnkappe.info/boerse-cx-clone-wars-reloaded-neue-boerse-aufgetaucht/
