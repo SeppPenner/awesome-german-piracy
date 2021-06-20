@@ -82,3 +82,4 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/njal-la-wie-gelang-das-domain-hijacking-von-dark-fail-darknetlive-com/
 * https://tarnkappe.info/boerse-cx-clone-wars-reloaded-neue-boerse-aufgetaucht/
 * https://tarnkappe.info/ivi-ru-russische-medienfirma-kauft-domain-von-movie4k-to/
+* https://tarnkappe.info/usenet-wtf-aus-dem-forum-revenge-of-usenet-entstanden/
