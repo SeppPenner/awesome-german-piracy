@@ -18,6 +18,7 @@
 |[byte.to](https://byte.to/)|[![byte.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbyte.to)](https://byte.to/)|-|
 |[cwer.ws](http://cwer.ws/)|[![cwer.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fcwer.ws)](http://cwer.ws/)|-|
 |[darklight.to](https://darklight.to/)|[![darklight.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdarklight.to)](https://darklight.to/)|-|
+|[data-load.in](https://data-load.in/)|[![data-load.in](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdata-load.in)](https://data-load.in/)|-|
 |[datenreiter.org](https://datenreiter.org/)|[![datenreiter.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdatenreiter.org)](https://datenreiter.org/)|-|
 |[ddl.me](https://ddl.me/)|[![ddl.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl.me)](https://ddl.me/)|-|
 |[ddlspot.com](https://ddlspot.com/)|[![ddlspot.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlspot.com)](https://ddlspot.com/)|-|

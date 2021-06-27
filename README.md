@@ -83,3 +83,4 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/boerse-cx-clone-wars-reloaded-neue-boerse-aufgetaucht/
 * https://tarnkappe.info/ivi-ru-russische-medienfirma-kauft-domain-von-movie4k-to/
 * https://tarnkappe.info/usenet-wtf-aus-dem-forum-revenge-of-usenet-entstanden/
+* https://tarnkappe.info/data-load-in-neues-warez-forum-wagt-den-start/
