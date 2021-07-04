@@ -43,6 +43,7 @@
 |[laden.to](https://laden.to/)|[![laden.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fladen.to)](https://laden.to/)|-|
 |[macbb.org](https://macbb.org/)|[![macbb.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacbb.org)](https://macbb.org/)|-|
 |[mlcboard.com](https://mlcboard.com/)|[![mlcboard.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmlcboard.com)](https://mlcboard.com/)|-|
+|[moviehunterz.cc](https://moviehunterz.cc/)|[![moviehunterz.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmoviehunterz.cc)](https://moviehunterz.cc/)|-|
 |[myboerse.bz](https://myboerse.bz/)|[![myboerse.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmyboerse.bz)](https://myboerse.bz/)|-|
 |[mygully.com](https://mygully.com/)|[![mygully.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmygully.com)](https://mygully.com/)|-|
 |[myldl.biz](https://myldl.biz/)|[![myldl.biz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmyldl.biz)](https://myldl.biz/)|⚠️ Seems to be offline. Reasons are unknown.|

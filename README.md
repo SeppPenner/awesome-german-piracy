@@ -84,3 +84,4 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/ivi-ru-russische-medienfirma-kauft-domain-von-movie4k-to/
 * https://tarnkappe.info/usenet-wtf-aus-dem-forum-revenge-of-usenet-entstanden/
 * https://tarnkappe.info/data-load-in-neues-warez-forum-wagt-den-start/
+* https://tarnkappe.info/moviehunterz-cc-frisches-warez-forum-hebt-vom-boden-ab/
