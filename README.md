@@ -86,3 +86,6 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/data-load-in-neues-warez-forum-wagt-den-start/
 * https://tarnkappe.info/moviehunterz-cc-frisches-warez-forum-hebt-vom-boden-ab/
 * https://tarnkappe.info/anime-hentai-manga-liste-illegaler-streaming-portale-im-juli-2021/
+* https://tarnkappe.info/cinempire-to-loest-streaming-seite-cinestreamz-ab/
+* https://tarnkappe.info/trantor-der-schrecken-der-verlagsbranche-ist-wieder-online/
+* https://tarnkappe.info/movieblogarea-com-der-naechste-klon-vom-movie-blog-am-start/
