@@ -89,3 +89,4 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/cinempire-to-loest-streaming-seite-cinestreamz-ab/
 * https://tarnkappe.info/trantor-der-schrecken-der-verlagsbranche-ist-wieder-online/
 * https://tarnkappe.info/movieblogarea-com-der-naechste-klon-vom-movie-blog-am-start/
+* https://tarnkappe.info/dokumentations-portale-im-sommer-2021-welche-koennen-wir-empfehlen/
