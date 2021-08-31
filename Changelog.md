@@ -1,6 +1,7 @@
 Change history
 --------------
 
+* **Version 1.0.16.0 (2021-08-31)** : Added documentations links.
 * **Version 1.0.15.0 (2021-08-17)** : Added multi portals to the specific sections as well, added a lot more links.
 * **Version 1.0.14.0 (2021-03-31)** : Reworked the pages nearly completely, added a lot more links.
 * **Version 1.0.13.0 (2021-03-19)** : Added a lot more sites.
