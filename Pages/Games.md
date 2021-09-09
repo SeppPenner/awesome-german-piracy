@@ -55,6 +55,8 @@
 |[mygully.com](https://mygully.com/)|[![mygully.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmygully.com)](https://mygully.com/)|-|
 |[nox.to](https://nox.to/)|[![nox.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnox.to)](https://nox.to/)|-|
 |[nox.tv](https://nox.tv/)|[![nox.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnox.tv)](https://nox.tv/)|-|
+|[nsw2u.org](https://nsw2u.org/)|[![nsw2u.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnsw2u.org)](https://nsw2u.org/)|-|
+|[nsw2u.xyz](https://nsw2u.xyz/)|[![nsw2u.xyz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnsw2u.xyz)](https://nsw2u.xyz/)|-|
 |[oceanofgames.com](http://oceanofgames.com/)|[![oceanofgames.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Foceanofgames.com)](http://oceanofgames.com/)|-|
 |[oneddl.org](https://oneddl.org/)|[![oneddl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Foneddl.org)](https://oneddl.org/)|-|
 |[ovagames.com](https://ovagames.com/)|[![ovagames.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fovagames.com)](https://ovagames.com/)|-|
