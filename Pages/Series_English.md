@@ -120,6 +120,7 @@
 |[scnsrc.me](https://scnsrc.me/)|[![scnsrc.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnsrc.me)](https://scnsrc.me/)|-|
 |[serien.ac](https://serien.ac/)|[![serien.ac](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.ac)](https://serien.ac/)|-|
 |[serien.click](https://serien.click/)|[![serien.click](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.click)](https://serien.click/)|-|
+|[serien.dev](https://serien.dev/)|[![serien.dev](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.dev)](https://serien.dev/)|-|
 |[serien.digital](https://serien.digital/)|[![serien.digital](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.digital)](https://serien.digital/)|-|
 |[serien.express](https://serien.express/)|[![serien.express](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.express)](https://serien.express/)|-|
 |[serien.fun](https://serien.fun/)|[![serien.fun](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.fun)](https://serien.fun/)|-|
@@ -128,8 +129,11 @@
 |[serien.lol](https://serien.lol/)|[![serien.lol](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.lol)](https://serien.lol/)|-|
 |[serien.me](https://serien.me/)|[![serien.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.me)](https://serien.me/)|-|
 |[serien.pro](https://serien.pro/)|[![serien.pro](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.pro)](https://serien.pro/)|-|
+|[serien.show](https://serien.show/)|[![serien.show](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.show)](https://serien.show/)|-|
 |[serien.sx](https://serien.sx/)|[![serien.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.sx)](https://serien.sx/)|-|
 |[serien.vc](https://serien.vc/)|[![serien.vc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.vc)](https://serien.vc/)|-|
+|[serien.wiki](https://serien.wiki/)|[![serien.wiki](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.wiki)](https://serien.wiki/)|-|
+|[serien.work](https://serien.work/)|[![serien.work](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.work)](https://serien.work/)|-|
 |[serien.wtf](https://serien.wtf/)|[![serien.wtf](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.wtf)](https://serien.wtf/)|-|
 |[serienstream.sx](https://serienstream.sx/)|[![serienstream.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserienstream.sx)](https://serienstream.sx/)|-|
 |[serienstream.to](https://serienstream.to/)|[![serienstream.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserienstream.to)](https://serienstream.to/)|-|
