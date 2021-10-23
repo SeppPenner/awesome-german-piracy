@@ -110,6 +110,7 @@
 |[scnlog.me](https://scnlog.me/)|[![scnlog.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnlog.me)](https://scnlog.me/)|-|
 |[scnsrc.me](https://scnsrc.me/)|[![scnsrc.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnsrc.me)](https://scnsrc.me/)|-|
 |[serien.ac](https://serien.ac/)|[![serien.ac](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.ac)](https://serien.ac/)|-|
+|[serien.cam](https://serien.cam/)|[![serien.cam](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.cam)](https://serien.cam/)|-|
 |[serien.click](https://serien.click/)|[![serien.click](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.click)](https://serien.click/)|-|
 |[serien.dev](https://serien.dev/)|[![serien.dev](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.dev)](https://serien.dev/)|-|
 |[serien.digital](https://serien.digital/)|[![serien.digital](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.digital)](https://serien.digital/)|-|
@@ -140,6 +141,7 @@
 |[softarchive.unblockit.buzz](https://softarchive.unblockit.buzz/)|[![softarchive.unblockit.buzz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoftarchive.unblockit.buzz)](https://softarchive.unblockit.buzz/)|-|
 |[softarchive.unblockit.pro](https://softarchive.unblockit.pro/)|[![softarchive.unblockit.pro](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoftarchive.unblockit.pro)](https://softarchive.unblockit.pro/)|-|
 |[starwarez.to](https://starwarez.to/)|[![starwarez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fstarwarez.to)](https://starwarez.to/)|-|
+|[sto.sx](https://sto.sx/)|[![sto.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsto.sx)](https://sto.sx/)|-|
 |[stream.to](https://stream.to/)|[![stream.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fstream.to)](https://stream.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[streamking.eu](https://streamking.eu/)|[![streamking.eu](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fstreamking.eu)](https://streamking.eu/)|-|
 |[streamkiste.tv](https://streamkiste.tv/)|[![streamkiste.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fstreamkiste.tv)](https://streamkiste.tv/)|-|

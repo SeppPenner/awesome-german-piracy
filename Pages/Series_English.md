@@ -119,6 +119,7 @@
 |[scnlog.me](https://scnlog.me/)|[![scnlog.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnlog.me)](https://scnlog.me/)|-|
 |[scnsrc.me](https://scnsrc.me/)|[![scnsrc.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnsrc.me)](https://scnsrc.me/)|-|
 |[serien.ac](https://serien.ac/)|[![serien.ac](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.ac)](https://serien.ac/)|-|
+|[serien.cam](https://serien.cam/)|[![serien.cam](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.cam)](https://serien.cam/)|-|
 |[serien.click](https://serien.click/)|[![serien.click](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.click)](https://serien.click/)|-|
 |[serien.dev](https://serien.dev/)|[![serien.dev](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.dev)](https://serien.dev/)|-|
 |[serien.digital](https://serien.digital/)|[![serien.digital](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fserien.digital)](https://serien.digital/)|-|
@@ -149,6 +150,7 @@
 |[solarmovie.to](https://solarmovie.to/)|[![solarmovie.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsolarmovie.to)](https://solarmovie.to/)|-|
 |[solarmovie.mom](https://solarmovie.mom/)|[![solarmovie.mom](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsolarmovie.mom)](https://solarmovie.mom/)|-|
 |[starwarez.to](https://starwarez.to/)|[![starwarez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fstarwarez.to)](https://starwarez.to/)|-|
+|[sto.sx](https://sto.sx/)|[![sto.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsto.sx)](https://sto.sx/)|-|
 |[streamlord.com](https://streamlord.com/)|[![streamlord.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fstreamlord.com)](https://streamlord.com/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[swatchseries.to](https://swatchseries.to/)|[![swatchseries.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fswatchseries.to)](https://swatchseries.to/)|-|
 |[tehparadox.net](https://tehparadox.net/)|[![tehparadox.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftehparadox.net)](https://tehparadox.net/)|-|
