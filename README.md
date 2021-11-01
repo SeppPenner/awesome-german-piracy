@@ -92,3 +92,7 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/movieblogarea-com-der-naechste-klon-vom-movie-blog-am-start/
 * https://tarnkappe.info/dokumentations-portale-im-sommer-2021-welche-koennen-wir-empfehlen/
 * https://tarnkappe.info/streamkiste-tv-bs-to-dns-sperren-umgehen-leicht-gemacht/
+* https://tarnkappe.info/vivo-sx-streaming-hoster-down/
+* https://tarnkappe.info/aiw-bz-nulled-script-board-down/
+* https://tarnkappe.info/streaming-portale-fuer-tv-serien-im-oktober-2021/
+* https://tarnkappe.info/hehestreams-piratensite-betreiber-angeklagt-wegen-illegalem-sportstreaming-und-erpressung/

@@ -2,7 +2,7 @@
 
 |Website|Status|Remark|
 |-|-|-|
-|[aiw.bz](https://aiw.bz/)|[![aiw.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Faiw.bz)](https://aiw.bz/)|-|
+|[aiw.bz](https://aiw.bz/)|[![aiw.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Faiw.bz)](https://aiw.bz/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[boardscriptz.org](https://boardscriptz.org/)|[![boardscriptz.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboardscriptz.org)](https://boardscriptz.org/)|-|
 |[borntonull.com](http://borntonull.com/)|[![borntonull.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fborntonull.com)](http://borntonull.com/)|-|
 |[codecanyon.download](https://codecanyon.download/)|[![codecanyon.download](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcodecanyon.download)](https://codecanyon.download/)|-|
