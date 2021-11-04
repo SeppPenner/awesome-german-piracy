@@ -5,6 +5,8 @@
 |[36dm.club](https://36dm.club/)|[![36dm.club](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F36dm.club)](https://36dm.club/)|-|
 |[36dm.com](https://36dm.com/)|[![36dm.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F36dm.com)](https://36dm.com/)|-|
 |[acgsou.com](https://acgsou.com/)|[![acgsou.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Facgsou.com)](https://acgsou.com/)|-|
+|[anicloud.domains](https://anicloud.domains/)|[![anicloud.domains](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanicloud.domains)](https://anicloud.domains/)|-|
+|[anicloud.io](https://anicloud.io/)|[![anicloud.io](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanicloud.io)](https://anicloud.io/)|-|
 |[bt.acg.gg](https://bt.acg.gg/)|[![bt.acg.gg](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbt.acg.gg)](https://bt.acg.gg/)|-|
 |[anidex.info](https://anidex.info/)|[![anidex.info](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanidex.info)](https://anidex.info/)|-|
 |[animetosho.org](https://animetosho.org/)|[![animetosho.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanimetosho.org)](https://animetosho.org/)|-|
