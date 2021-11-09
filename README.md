@@ -96,3 +96,4 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/aiw-bz-nulled-script-board-down/
 * https://tarnkappe.info/streaming-portale-fuer-tv-serien-im-oktober-2021/
 * https://tarnkappe.info/hehestreams-piratensite-betreiber-angeklagt-wegen-illegalem-sportstreaming-und-erpressung/
+* https://tarnkappe.info/anti-piracy-anbieter-von-torrent-seiten-und-seedboxen-hochgenommen/
