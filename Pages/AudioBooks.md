@@ -19,7 +19,7 @@
 |[darklight.to](https://darklight.to/)|[![darklight.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdarklight.to)](https://darklight.to/)|-|
 |[data-load.in](https://data-load.in/)|[![data-load.in](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdata-load.in)](https://data-load.in/)|-|
 |[ddl.me](https://ddl.me/)|[![ddl.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl.me)](https://ddl.me/)|-|
-|[ddl-warez.to](https://ddl-warez.to/)|[![ddl-warez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl-warez.to)](https://ddl-warez.to/)|-|
+|[ddl-warez.to](https://ddl-warez.to/)|[![ddl-warez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl-warez.to)](https://ddl-warez.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[dl4all.org](https://dl4all.org/)|[![dl4all.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdl4all.org)](https://dl4all.org/)|-|
 |[downturk.net](https://downturk.net/)|[![downturk.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdownturk.net)](https://downturk.net/)|-|
 |[forum.mobilism.org](https://forum.mobilism.org/)|[![forum.mobilism.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fforum.mobilism.org)](https://forum.mobilism.org/)|-|

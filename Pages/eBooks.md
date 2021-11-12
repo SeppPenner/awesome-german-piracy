@@ -29,7 +29,7 @@
 |[cwer.ws](https://cwer.ws/)|[![cwer.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcwer.ws)](https://cwer.ws/)|-|
 |[ddlspot.com](https://ddlspot.com/)|[![ddlspot.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlspot.com)](https://ddlspot.com/)|-|
 |[ddlvalley.me](https://ddlvalley.me/)|[![ddlvalley.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlvalley.me)](https://ddlvalley.me/)|-|
-|[ddl-warez.to](https://ddl-warez.to/)|[![ddl-warez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl-warez.to)](https://ddl-warez.to/)|-|
+|[ddl-warez.to](https://ddl-warez.to/)|[![ddl-warez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl-warez.to)](https://ddl-warez.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[dl4all.org](https://dl4all.org/)|[![dl4all.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdl4all.org)](https://dl4all.org/)|-|
 |[downmagaz.net](https://downmagaz.net/)|[![downmagaz.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdownmagaz.net)](https://downmagaz.net/)|-|
 |[downturk.net](https://downturk.net/)|[![downturk.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdownturk.net)](https://downturk.net/)|-|

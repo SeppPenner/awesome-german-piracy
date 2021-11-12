@@ -22,7 +22,7 @@
 |[cwer.ws](https://cwer.ws/)|[![cwer.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcwer.ws)](https://cwer.ws/)|-|
 |[darklight.to](https://darklight.to/)|[![darklight.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdarklight.to)](https://darklight.to/)|-|
 |[data-load.in](https://data-load.in/)|[![data-load.in](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdata-load.in)](https://data-load.in/)|-|
-|[ddl-warez.to](https://ddl-warez.to/)|[![ddl-warez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl-warez.to)](https://ddl-warez.to/)|-|
+|[ddl-warez.to](https://ddl-warez.to/)|[![ddl-warez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl-warez.to)](https://ddl-warez.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[ddl.me](https://ddl.me/)|[![ddl.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddl.me)](https://ddl.me/)|-|
 |[ddlspot.com](https://ddlspot.com/)|[![ddlspot.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlspot.com)](https://ddlspot.com/)|-|
 |[ddlvalley.me](https://ddlvalley.me/)|[![ddlvalley.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlvalley.me)](https://ddlvalley.me/)|-|
