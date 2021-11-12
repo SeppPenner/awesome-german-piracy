@@ -98,3 +98,4 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/hehestreams-piratensite-betreiber-angeklagt-wegen-illegalem-sportstreaming-und-erpressung/
 * https://tarnkappe.info/anti-piracy-anbieter-von-torrent-seiten-und-seedboxen-hochgenommen/
 * https://tarnkappe.info/ddl-warez-to-und-ddl-music-to-erneut-offline/
+* https://tarnkappe.info/tv-sender-offensichtlich-rechtswidrige-portale-im-november-2021/
