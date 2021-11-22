@@ -99,3 +99,6 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/anti-piracy-anbieter-von-torrent-seiten-und-seedboxen-hochgenommen/
 * https://tarnkappe.info/ddl-warez-to-und-ddl-music-to-erneut-offline/
 * https://tarnkappe.info/tv-sender-offensichtlich-rechtswidrige-portale-im-november-2021/
+* https://tarnkappe.info/android-apps-illegale-warez-portale-im-november-2021/
+* https://tarnkappe.info/oha-to-ace-mpa-verlangen-von-tonic-to-preisgabe-der-kundendaten/
+* https://tarnkappe.info/sky-of-usenet-ist-down-diesmal-fuer-immer/
