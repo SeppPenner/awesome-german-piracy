@@ -102,3 +102,15 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/android-apps-illegale-warez-portale-im-november-2021/
 * https://tarnkappe.info/oha-to-ace-mpa-verlangen-von-tonic-to-preisgabe-der-kundendaten/
 * https://tarnkappe.info/sky-of-usenet-ist-down-diesmal-fuer-immer/
+* https://tarnkappe.info/sharehitz-net-und-myhitz-net-gehen-bald-offline/
+* https://tarnkappe.info/fitgirl-ungekroente-piraten-legende-der-amelie-report-oktober-2021/
+* https://tarnkappe.info/anime-und-manga-download-sites-im-november-2021/
+* https://tarnkappe.info/bittorrent-indexer-p2p-suchmaschinen-im-november-2021/
+* https://tarnkappe.info/dokumentations-portale-im-november-2021-download-statt-stream/
+* https://tarnkappe.info/retro-sites-emulatoren-roms-rechtswidrige-portale-november-2021/
+* https://tarnkappe.info/film-sites-fuer-illegale-downloads-im-november-2021/
+* https://tarnkappe.info/games-download-portale-fuer-pcs-und-spielkonsolen-november-2021/
+* https://tarnkappe.info/ios-warez-portale-fuer-ios-apps-games-november-2021/
+* https://tarnkappe.info/keygens-serials-downloadportale-im-november-2021/
+* https://tarnkappe.info/macos-warez-portale-fuer-apple-user-im-november-2021/
+* https://tarnkappe.info/musik-download-portale-im-dezember-2021-alle-musikstile/
