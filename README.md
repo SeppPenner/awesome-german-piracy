@@ -114,3 +114,10 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/keygens-serials-downloadportale-im-november-2021/
 * https://tarnkappe.info/macos-warez-portale-fuer-apple-user-im-november-2021/
 * https://tarnkappe.info/musik-download-portale-im-dezember-2021-alle-musikstile/
+* https://tarnkappe.info/windows-warez-portale-im-dezember-2021/
+* https://tarnkappe.info/webwarez-sites-all-you-can-eat-im-dezember-2021-illegale-portale/
+* https://tarnkappe.info/webwarez-foren-im-dezember-2021-offensichtlich-rechtswidrig/
+* https://tarnkappe.info/toplists-seiten-verzeichnisse-im-dezember-2021/
+* https://tarnkappe.info/usenet-foren-nzb-suchmaschinen-im-dezember-2021/
+* https://tarnkappe.info/tv-serien-illegale-download-portale-im-dezember-2021/
+* https://tarnkappe.info/navigationssoftware-karten-portable-apps-dezember-2021/
