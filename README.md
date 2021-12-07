@@ -121,3 +121,7 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/usenet-foren-nzb-suchmaschinen-im-dezember-2021/
 * https://tarnkappe.info/tv-serien-illegale-download-portale-im-dezember-2021/
 * https://tarnkappe.info/navigationssoftware-karten-portable-apps-dezember-2021/
+* https://tarnkappe.info/nfo-sites-release-datenbanken-predb-im-dezember-2021/
+* https://tarnkappe.info/usenethunters-com-neues-usenet-board-entstanden/
+* https://tarnkappe.info/nulled-scripts-rechtswidrige-blogs-foren-dezember-2021/
+* https://tarnkappe.info/e-book-szene-dezember-2021-illegale-blogs-foren-portale/
