@@ -125,3 +125,5 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/usenethunters-com-neues-usenet-board-entstanden/
 * https://tarnkappe.info/nulled-scripts-rechtswidrige-blogs-foren-dezember-2021/
 * https://tarnkappe.info/e-book-szene-dezember-2021-illegale-blogs-foren-portale/
+* https://tarnkappe.info/anime-und-hentai-liste-illegaler-streaming-portale-dezember-2021/
+* https://tarnkappe.info/dokumentations-portale-im-winter-2021-welche-koennen-wir-empfehlen/
