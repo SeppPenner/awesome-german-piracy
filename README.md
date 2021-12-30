@@ -127,3 +127,6 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/e-book-szene-dezember-2021-illegale-blogs-foren-portale/
 * https://tarnkappe.info/anime-und-hentai-liste-illegaler-streaming-portale-dezember-2021/
 * https://tarnkappe.info/dokumentations-portale-im-winter-2021-welche-koennen-wir-empfehlen/
+* https://tarnkappe.info/holmez-betreiber-stellt-usenet-reader-ein/
+* https://tarnkappe.info/cannapower-vs-sony-music-entertainment/
+* https://tarnkappe.info/sci-hub-alexandra-elbakyan-sieht-in-verlagen-bedrohung-fuer-fortschritt-der-wissenschaft/
