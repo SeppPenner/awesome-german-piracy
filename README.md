@@ -130,3 +130,6 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/holmez-betreiber-stellt-usenet-reader-ein/
 * https://tarnkappe.info/cannapower-vs-sony-music-entertainment/
 * https://tarnkappe.info/sci-hub-alexandra-elbakyan-sieht-in-verlagen-bedrohung-fuer-fortschritt-der-wissenschaft/
+* https://tarnkappe.info/alltube-pl-ace-uebernahm-domains-der-streaming-webseite/
+* https://tarnkappe.info/mangamura-werbeagenturen-zu-schadensersatz-wegen-werbe-schaltung-auf-piratensite-verurteilt/
+* https://tarnkappe.info/spider-man-no-way-home-crypto-mining-malware-verbirgt-sich-in-torrent-downloads/
