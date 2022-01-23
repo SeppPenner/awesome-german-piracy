@@ -133,3 +133,7 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/alltube-pl-ace-uebernahm-domains-der-streaming-webseite/
 * https://tarnkappe.info/mangamura-werbeagenturen-zu-schadensersatz-wegen-werbe-schaltung-auf-piratensite-verurteilt/
 * https://tarnkappe.info/spider-man-no-way-home-crypto-mining-malware-verbirgt-sich-in-torrent-downloads/
+* https://tarnkappe.info/momentum-usenet-client-klaut-schon-wieder-die-passwoerter/
+* https://tarnkappe.info/popcorn-time-das-netflix-fuer-piraten-schloss-die-pforten/
+* https://tarnkappe.info/sky-of-usenet-forum-ist-seit-freitag-zurueck/
+* https://tarnkappe.info/cloudflare-35-000-mal-wurden-domain-inhaber-preisgegeben/
