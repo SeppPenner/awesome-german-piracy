@@ -137,3 +137,6 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/popcorn-time-das-netflix-fuer-piraten-schloss-die-pforten/
 * https://tarnkappe.info/sky-of-usenet-forum-ist-seit-freitag-zurueck/
 * https://tarnkappe.info/cloudflare-35-000-mal-wurden-domain-inhaber-preisgegeben/
+* https://tarnkappe.info/datenreiter-warez-forum-zieht-nach-10-jahren-die-stecker/
+* https://tarnkappe.info/usenethunters-com-neues-forum-schon-wieder-offline/
+* https://tarnkappe.info/szeneworld-eu-man-of-steel-eroeffnet-neues-usenet-forum/
