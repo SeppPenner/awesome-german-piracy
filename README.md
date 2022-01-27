@@ -140,3 +140,4 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/datenreiter-warez-forum-zieht-nach-10-jahren-die-stecker/
 * https://tarnkappe.info/usenethunters-com-neues-forum-schon-wieder-offline/
 * https://tarnkappe.info/szeneworld-eu-man-of-steel-eroeffnet-neues-usenet-forum/
+* https://tarnkappe.info/rojadirecta-spanische-liga-und-rechteinhaber-fordern-6-jahre-haft/
