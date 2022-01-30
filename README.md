@@ -141,3 +141,5 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/usenethunters-com-neues-forum-schon-wieder-offline/
 * https://tarnkappe.info/szeneworld-eu-man-of-steel-eroeffnet-neues-usenet-forum/
 * https://tarnkappe.info/rojadirecta-spanische-liga-und-rechteinhaber-fordern-6-jahre-haft/
+* https://tarnkappe.info/pizza-load-to-neues-warez-portal-im-web-eroeffnet/
+* https://tarnkappe.info/akamai-research-studie-zeigt-steigende-weltweite-nachfrage-nach-raubkopien/
