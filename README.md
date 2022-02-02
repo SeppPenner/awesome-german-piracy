@@ -143,3 +143,8 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/rojadirecta-spanische-liga-und-rechteinhaber-fordern-6-jahre-haft/
 * https://tarnkappe.info/pizza-load-to-neues-warez-portal-im-web-eroeffnet/
 * https://tarnkappe.info/akamai-research-studie-zeigt-steigende-weltweite-nachfrage-nach-raubkopien/
+* https://tarnkappe.info/artikel/szene/nullc0de-su-neues-hacker-forum-online-gegangen-188486.html
+* https://tarnkappe.info/artikel/szene/freezer-flac-dateien-mit-dem-kostenlosen-account-von-deezer-laden-188531.html
+* https://tarnkappe.info/artikel/gaming/nintendo-music-youtube-kanal-erhaelt-mehr-als-1-300-copyright-sperren-188552.html
+* https://tarnkappe.info/artikel/filesharing/ettv-release-group-und-torrent-indexer-weg-vom-fenster-188557.html
+* https://tarnkappe.info/artikel/rechtssachen/manga-vier-japanische-top-verlage-wollen-cloudflare-verklagen-188679.html
