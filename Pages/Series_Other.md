@@ -2,6 +2,9 @@
 
 |Website|Status|Remark|
 |-|-|-|
+|[alltube.pl](https://alltube.pl/)|[![alltube.pl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube.pl)](https://alltube.pl/)|⚠️ Seems to be offline. ACE takedown.|
+|[alltube.tv](https://alltube.tv/)|[![alltube.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube.tv)](https://alltube.tv/)|⚠️ Seems to be offline. ACE takedown.|
+|[alltube-tv.pl](https://alltube-tv.pl/)|[![alltube-tv.pl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube-tv.pl)](https://alltube-tv.pl/)|⚠️ Fake website.|
 |[blockbuster.to](https://blockbuster.to/)|[![blockbuster.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fblockbuster.to)](https://blockbuster.to/)|-|
 |[bloodsuckerz.cx](https://bloodsuckerz.cx/)|[![bloodsuckerz.cx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbloodsuckerz.cx)](https://bloodsuckerz.cx/)|-|
 |[boerse.ai](https://boerse.ai/)|[![boerse.ai](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.ai)](https://boerse.ai/)|-|
@@ -36,6 +39,7 @@
 |[moviehunterz.cc](https://moviehunterz.cc/)|[![moviehunterz.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmoviehunterz.cc)](https://moviehunterz.cc/)|-|
 |[myboerse.bz](https://myboerse.bz/)|[![myboerse.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmyboerse.bz)](https://myboerse.bz/)|-|
 |[mygully.com](https://mygully.com/)|[![mygully.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmygully.com)](https://mygully.com/)|-|
+|[myhitz.net](https://myhitz.net/)|[![myhitz.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmyhitz.net)](https://myhitz.net/)|⚠️ Seems to be offline. Project was stopped.|
 |[nox.to](https://nox.to/)|[![nox.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnox.to)](https://nox.to/)|-|
 |[nox.tv](https://nox.tv/)|[![nox.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnox.tv)](https://nox.tv/)|-|
 |[oneddl.org](https://oneddl.org/)|[![oneddl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Foneddl.org)](https://oneddl.org/)|-|
@@ -49,7 +53,7 @@
 |[scene-rls.net](https://scene-rls.net/)|[![scene-rls.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscene-rls.net)](https://scene-rls.net/)|-|
 |[scnlog.me](https://scnlog.me/)|[![scnlog.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnlog.me)](https://scnlog.me/)|-|
 |[scnsrc.me](https://scnsrc.me/)|[![scnsrc.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnsrc.me)](https://scnsrc.me/)|-|
-|[sharehitz.net](https://sharehitz.net/)|[![sharehitz.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsharehitz.net)](https://sharehitz.net/)|-|
+|[sharehitz.net](https://sharehitz.net/)|[![sharehitz.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsharehitz.net)](https://sharehitz.net/)|⚠️ Seems to be offline. Project was stopped.|
 |[softarchive.ch](https://softarchive.ch/)|[![softarchive.ch](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoftarchive.ch)](https://softarchive.ch/)|-|
 |[softarchive.is](https://softarchive.is/)|[![softarchive.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoftarchive.is)](https://softarchive.is/)|-|
 |[softarchive.unblockit.buzz](https://softarchive.unblockit.buzz/)|[![softarchive.unblockit.buzz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoftarchive.unblockit.buzz)](https://softarchive.unblockit.buzz/)|-|

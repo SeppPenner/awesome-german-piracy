@@ -5,6 +5,9 @@
 |[1movies.best](https://1movies.best/)|[![1movies.best](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1movies.best)](https://1movies.best/)|-|
 |[1movies.is](https://1movies.is/)|[![1movies.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1movies.is)](https://1movies.is/)|-|
 |[5movies.to](https://5movies.to/)|[![5movies.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F5movies.to)](https://5movies.to/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[alltube.pl](https://alltube.pl/)|[![alltube.pl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube.pl)](https://alltube.pl/)|⚠️ Seems to be offline. ACE takedown.|
+|[alltube.tv](https://alltube.tv/)|[![alltube.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube.tv)](https://alltube.tv/)|⚠️ Seems to be offline. ACE takedown.|
+|[alltube-tv.pl](https://alltube-tv.pl/)|[![alltube-tv.pl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube-tv.pl)](https://alltube-tv.pl/)|⚠️ Fake website.|
 |[apps4all.com](https://apps4all.com/)|[![apps4all.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fapps4all.com)](https://apps4all.com/)|-|
 |[blockbuster.to](https://blockbuster.to/)|[![blockbuster.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fblockbuster.to)](https://blockbuster.to/)|-|
 |[bloodsuckerz.cx](https://bloodsuckerz.cx/)|[![bloodsuckerz.cx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbloodsuckerz.cx)](https://bloodsuckerz.cx/)|-|
@@ -93,6 +96,7 @@
 |[movie-forum.co](https://movie-forum.co/)|[![movie-forum.co](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmovie-forum.co)](https://movie-forum.co/)|-|
 |[myboerse.bz](https://myboerse.bz/)|[![myboerse.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmyboerse.bz)](https://myboerse.bz/)|-|
 |[mygully.com](https://mygully.com/)|[![mygully.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmygully.com)](https://mygully.com/)|-|
+|[myhitz.net](https://myhitz.net/)|[![myhitz.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmyhitz.net)](https://myhitz.net/)|⚠️ Seems to be offline. Project was stopped.|
 |[nox.to](https://nox.to/)|[![nox.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnox.to)](https://nox.to/)|-|
 |[nox.tv](https://nox.tv/)|[![nox.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnox.tv)](https://nox.tv/)|-|
 |[oneddl.org](https://oneddl.org/)|[![oneddl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Foneddl.org)](https://oneddl.org/)|-|
@@ -119,7 +123,7 @@
 |[scene-rls.net](https://scene-rls.net/)|[![scene-rls.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscene-rls.net)](https://scene-rls.net/)|-|
 |[scnlog.me](https://scnlog.me/)|[![scnlog.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnlog.me)](https://scnlog.me/)|-|
 |[scnsrc.me](https://scnsrc.me/)|[![scnsrc.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnsrc.me)](https://scnsrc.me/)|-|
-|[sharehitz.net](https://sharehitz.net/)|[![sharehitz.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsharehitz.net)](https://sharehitz.net/)|-|
+|[sharehitz.net](https://sharehitz.net/)|[![sharehitz.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsharehitz.net)](https://sharehitz.net/)|⚠️ Seems to be offline. Project was stopped.|
 |[soap2day.ac](https://soap2day.ac/)|[![soap2day.ac](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoap2day.ac)](https://soap2day.ac/)|-|
 |[soap2day.im](https://soap2day.im/)|[![soap2day.im](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoap2day.im)](https://soap2day.im/)|-|
 |[soap2day.se](https://soap2day.se/)|[![soap2day.se](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoap2day.se)](https://soap2day.se/)|-|

@@ -32,6 +32,7 @@
 |[ibit.to](https://ibit.to/)|[![ibit.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fibit.to)](https://ibit.to/)|-|
 |[kisssub.org](http://kisssub.org/)|[![kisssub.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fkisssub.org)](http://kisssub.org/)|-|
 |[mangadex.org](https://mangadex.org/)|[![mangadex.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmangadex.org)](https://mangadex.org/)|-|
+|[mangamura.org](https://mangamura.org/)|[![mangamura.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmangamura.org)](https://mangamura.org/)|⚠️ Seems to be offline. Legal takedown.|
 |[nyaa.net](https://nyaa.net/)|[![nyaa.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnyaa.net)](https://nyaa.net/)|-|
 |[nyaa.si](https://nyaa.si/)|[![nyaa.si](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnyaa.si)](https://nyaa.si/)|-|
 |[rlslog.net](http://rlslog.net/)|[![rlslog.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Frlslog.net)](http://rlslog.net/)|-|

@@ -36,6 +36,7 @@
 |[moviehunterz.cc](https://moviehunterz.cc/)|[![moviehunterz.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmoviehunterz.cc)](https://moviehunterz.cc/)|-|
 |[myboerse.bz](https://myboerse.bz/)|[![myboerse.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmyboerse.bz)](https://myboerse.bz/)|-|
 |[mygully.com](https://mygully.com/)|[![mygully.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmygully.com)](https://mygully.com/)|-|
+|[myhitz.net](https://myhitz.net/)|[![myhitz.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmyhitz.net)](https://myhitz.net/)|⚠️ Seems to be offline. Project was stopped.|
 |[oneddl.org](https://oneddl.org/)|[![oneddl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Foneddl.org)](https://oneddl.org/)|-|
 |[rlslog.net](http://rlslog.net/)|[![rlslog.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Frlslog.net)](http://rlslog.net/)|-|
 |[sanet.lc](https://sanet.lc/)|[![sanet.lc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.lc)](https://sanet.lc/)|-|
@@ -43,7 +44,7 @@
 |[sanet.ws](https://sanet.ws/)|[![sanet.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.ws)](https://sanet.ws/)|-|
 |[saugen.to](https://saugen.to/)|[![saugen.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsaugen.to)](https://saugen.to/)|-|
 |[scnsrc.me](https://scnsrc.me/)|[![scnsrc.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscnsrc.me)](https://scnsrc.me/)|-|
-|[sharehitz.net](https://sharehitz.net/)|[![sharehitz.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsharehitz.net)](https://sharehitz.net/)|-|
+|[sharehitz.net](https://sharehitz.net/)|[![sharehitz.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsharehitz.net)](https://sharehitz.net/)|⚠️ Seems to be offline. Project was stopped.|
 |[softarchive.ch](https://softarchive.ch/)|[![softarchive.ch](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoftarchive.ch)](https://softarchive.ch/)|-|
 |[softarchive.is](https://softarchive.is/)|[![softarchive.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoftarchive.is)](https://softarchive.is/)|-|
 |[softarchive.unblockit.buzz](https://softarchive.unblockit.buzz/)|[![softarchive.unblockit.buzz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoftarchive.unblockit.buzz)](https://softarchive.unblockit.buzz/)|-|
