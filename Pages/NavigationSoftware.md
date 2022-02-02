@@ -8,6 +8,7 @@
 |[boerse.im](https://boerse.im/)|[![boerse.im](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.im)](https://boerse.im/)|-|
 |[boerse.kz](https://boerse.kz/)|[![boerse.kz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.kz)](https://boerse.kz/)|-|
 |[boerse.sx](https://boerse.sx/)|[![boerse.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.sx)](https://boerse.sx/)|-|
+|[boerse.to](https://boerse.to/)|[![boerse.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.to)](https://boerse.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[boerse.tw](https://boerse.tw/)|[![boerse.tw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.tw)](https://boerse.tw/)|-|
 |[digital-eliteboard.com](https://digital-eliteboard.com/)|[![digital-eliteboard.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdigital-eliteboard.com)](https://digital-eliteboard.com/)|-|
 |[garageforum.org](http://garageforum.org/)|[![garageforum.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fgarageforum.org)](http://garageforum.org/)|-|

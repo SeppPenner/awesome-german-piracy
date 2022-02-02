@@ -10,6 +10,7 @@
 |[boerse.im](https://boerse.im/)|[![boerse.im](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.im)](https://boerse.im/)|-|
 |[boerse.kz](https://boerse.kz/)|[![boerse.kz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.kz)](https://boerse.kz/)|-|
 |[boerse.sx](https://boerse.sx/)|[![boerse.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.sx)](https://boerse.sx/)|-|
+|[boerse.to](https://boerse.to/)|[![boerse.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.to)](https://boerse.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[boerse.tw](https://boerse.tw/)|[![boerse.tw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.tw)](https://boerse.tw/)|-|
 |[byte.to](https://byte.to/)|[![byte.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbyte.to)](https://byte.to/)|-|
 |[cine.do.am](https://cine.do.am/)|[![cine.do.am](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcine.do.am)](https://cine.do.am/)|-|
@@ -42,6 +43,7 @@
 |[pelis24.se](https://pelis24.se/)|[![pelis24.se](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpelis24.se)](https://pelis24.se/)|-|
 |[pelis24.to](https://pelis24.to/)|[![pelis24.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpelis24.to)](https://pelis24.to/)|-|
 |[pirates-forum.org](https://pirates-forum.org/)|[![pirates-forum.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpirates-forum.org)](https://pirates-forum.org/)|-|
+|[pizza-load.to](https://pizza-load.to/)|[![pizza-load.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpizza-load.to)](https://pizza-load.to/)|-|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|
 |[sanet.lc](https://sanet.lc/)|[![sanet.lc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.lc)](https://sanet.lc/)|-|
 |[sanet.st](https://sanet.st/)|[![sanet.st](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.st)](https://sanet.st/)|-|

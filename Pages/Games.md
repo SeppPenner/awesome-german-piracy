@@ -11,6 +11,7 @@
 |[boerse.im](https://boerse.im/)|[![boerse.im](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.im)](https://boerse.im/)|-|
 |[boerse.kz](https://boerse.kz/)|[![boerse.kz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.kz)](https://boerse.kz/)|-|
 |[boerse.sx](https://boerse.sx/)|[![boerse.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.sx)](https://boerse.sx/)|-|
+|[boerse.to](https://boerse.to/)|[![boerse.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.to)](https://boerse.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[boerse.tw](https://boerse.tw/)|[![boerse.tw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.tw)](https://boerse.tw/)|-|
 |[byte.to](https://byte.to/)|[![byte.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbyte.to)](https://byte.to/)|-|
 |[casualgamers.club](https://casualgamers.club/)|[![casualgamers.club](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcasualgamers.club)](https://casualgamers.club/)|-|
@@ -61,6 +62,7 @@
 |[oneddl.org](https://oneddl.org/)|[![oneddl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Foneddl.org)](https://oneddl.org/)|-|
 |[ovagames.com](https://ovagames.com/)|[![ovagames.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fovagames.com)](https://ovagames.com/)|-|
 |[pirates-forum.org](https://pirates-forum.org/)|[![pirates-forum.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpirates-forum.org)](https://pirates-forum.org/)|-|
+|[pizza-load.to](https://pizza-load.to/)|[![pizza-load.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpizza-load.to)](https://pizza-load.to/)|-|
 |[rarlinks.com](https://rarlinks.com/)|[![rarlinks.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frarlinks.com)](https://rarlinks.com/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[rlslog.net](http://rlslog.net/)|[![rlslog.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Frlslog.net)](http://rlslog.net/)|-|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|

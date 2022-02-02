@@ -35,6 +35,7 @@
 |[nmac.to](https://nmac.to/)|[![nmac.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnmac.to)](https://nmac.to/)|-|
 |[nsaneforums.com](https://nsaneforums.com/)|[![nsaneforums.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnsaneforums.com)](https://nsaneforums.com/)|-|
 |[oneddl.org](https://oneddl.org/)|[![oneddl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Foneddl.org)](https://oneddl.org/)|-|
+|[pizza-load.to](https://pizza-load.to/)|[![pizza-load.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpizza-load.to)](https://pizza-load.to/)|-|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|
 |[rlslog.net](http://rlslog.net/)|[![rlslog.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Frlslog.net)](http://rlslog.net/)|-|
 |[sanet.lc](https://sanet.lc/)|[![sanet.lc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.lc)](https://sanet.lc/)|-|
