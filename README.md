@@ -148,3 +148,9 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/artikel/gaming/nintendo-music-youtube-kanal-erhaelt-mehr-als-1-300-copyright-sperren-188552.html
 * https://tarnkappe.info/artikel/filesharing/ettv-release-group-und-torrent-indexer-weg-vom-fenster-188557.html
 * https://tarnkappe.info/artikel/rechtssachen/manga-vier-japanische-top-verlage-wollen-cloudflare-verklagen-188679.html
+* https://tarnkappe.info/artikel/e-books/elsevier-metadaten-tracking-von-pdfs-dient-vorgeblich-ransomware-erkennung-188697.html
+* https://tarnkappe.info/artikel/e-books/imperial-library-of-trantor-die-schattenbibliothek-ist-wieder-online-189187.html
+* https://tarnkappe.info/artikel/e-books/brein-beschlagnahmte-haus-und-pkw-einer-e-book-piratin-189210.html
+* https://tarnkappe.info/artikel/rechtssachen/asgaard-mitbetreiber-zu-drei-monaten-auf-bewaehrung-verurteilt-189224.html
+* https://tarnkappe.info/artikel/usenet/usenet-uploader-muss-10-800-euro-strafe-zahlen-188480.html
+* https://tarnkappe.info/artikel/rechtssachen/team-xecuter-staatsanwaltschaft-fordert-fuenfjaehrige-haftstrafe-fuer-nintendo-hacker-gary-bowser-190151.html
