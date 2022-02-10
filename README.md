@@ -154,3 +154,6 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/artikel/rechtssachen/asgaard-mitbetreiber-zu-drei-monaten-auf-bewaehrung-verurteilt-189224.html
 * https://tarnkappe.info/artikel/usenet/usenet-uploader-muss-10-800-euro-strafe-zahlen-188480.html
 * https://tarnkappe.info/artikel/rechtssachen/team-xecuter-staatsanwaltschaft-fordert-fuenfjaehrige-haftstrafe-fuer-nintendo-hacker-gary-bowser-190151.html
+* https://tarnkappe.info/artikel/hacking/skyfraud-ferum-trumps-dumps-hackerforen-offline-genommen-207965.html
+* https://tarnkappe.info/artikel/usenet/devilleecher-neues-usenetforum-in-vorbereitung-213392.html
+* https://tarnkappe.info/tutorials/seedbox-server-mit-vpn-fuer-bittorrent-einrichten-tutorial-213397.html

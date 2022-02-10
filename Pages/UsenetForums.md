@@ -3,6 +3,7 @@
 |Website|Status|Remark|
 |-|-|-|
 |[brothers-of-usenet.net](https://brothers-of-usenet.net/)|[![brothers-of-usenet.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbrothers-of-usenet.net)](https://brothers-of-usenet.net/)|-|
+|[devilleecher.nl](https://devilleecher.nl/)|[![devilleecher.nl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdevilleecher.nl)](https://devilleecher.nl/)|-|
 |[fileleechers.info](https://fileleechers.info/)|[![fileleechers.info](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffileleechers.info)](https://fileleechers.info/)|-|
 |[filesharingtalk.com](https://filesharingtalk.com/)|[![filesharingtalk.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilesharingtalk.com)](https://filesharingtalk.com/)|-|
 |[gingadaddy.com](https://gingadaddy.com/)|[![gingadaddy.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgingadaddy.com)](https://gingadaddy.com/)|-|
