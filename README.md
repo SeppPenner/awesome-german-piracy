@@ -4,6 +4,9 @@
 
 Hint: Some of the websites that are marked as offline seem just to block the queries from [shields.io](https://shields.io/). Sorry for that.
 
+Hint 2: Most of the links are taken from the researches the blog [tarnkappe.info](https://tarnkappe.info) does from time to time. Many thanks to the blog, please support them ;)
+A report on my Github page from [tarnkappe.info](https://tarnkappe.info) (in German) can be found [here](https://tarnkappe.info/lesetipps/lesetipps-piraten-links-voraus-und-richtig-fieses-user-tracking-213504.html).
+
 ## German piracy links
 
 * [Android apps](./Pages/AndroidApps.md)
@@ -157,3 +160,5 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/ma
 * https://tarnkappe.info/artikel/hacking/skyfraud-ferum-trumps-dumps-hackerforen-offline-genommen-207965.html
 * https://tarnkappe.info/artikel/usenet/devilleecher-neues-usenetforum-in-vorbereitung-213392.html
 * https://tarnkappe.info/tutorials/seedbox-server-mit-vpn-fuer-bittorrent-einrichten-tutorial-213397.html
+* https://tarnkappe.info/artikel/gaming/gary-bowser-nintendo-hacker-zu-40-monaten-haft-in-den-usa-verurteilt-213482.html
+* https://tarnkappe.info/lesetipps/lesetipps-piraten-links-voraus-und-richtig-fieses-user-tracking-213504.html
