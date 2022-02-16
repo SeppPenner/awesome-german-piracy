@@ -47,8 +47,8 @@ We do not encourage users to use these websites nor do we support them. This is 
 Change history
 --------------
 
-See the [Changelog](https://github.com/SeppPenner/awesome-german-privacy/blob/master/Changelog.md).
+See the [Changelog](https://github.com/SeppPenner/awesome-german-piracy/blob/master/Changelog.md).
 
 ## Further links
 
-See the [Links](https://github.com/SeppPenner/awesome-german-privacy/blob/master/Links.md).
+See the [Links](https://github.com/SeppPenner/awesome-german-piracy/blob/master/Links.md).
