@@ -113,3 +113,9 @@ Links
 * https://tarnkappe.info/artikel/gaming/gary-bowser-nintendo-hacker-zu-40-monaten-haft-in-den-usa-verurteilt-213482.html
 * https://tarnkappe.info/lesetipps/lesetipps-piraten-links-voraus-und-richtig-fieses-user-tracking-213504.html
 * https://www.nzb.to/usenet-boards/
+* https://tarnkappe.info/artikel/streaming/paramount-neuer-streaming-dienst-soll-deutschen-markt-erobern-213660.html
+* https://tarnkappe.info/artikel/dymo-corporation-etikettendrucker-hersteller-versieht-thermopapier-mit-drm-schutz-213692.html
+* https://tarnkappe.info/artikel/e-books/john-grisham-und-scott-turow-fordern-zensur-von-google-co-213691.html
+* https://tarnkappe.info/artikel/usenet/dream-of-usenet-geht-naechsten-dienstag-ans-netz-215308.html
+* https://tarnkappe.info/artikel/warez/nox-to-download-portal-nach-ausfall-wieder-online-215317.html
+* https://tarnkappe.info/artikel/warez/empress-veroeffentlicht-update-von-rdr-2-tom-clancys-ghost-recon-215341.html
