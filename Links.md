@@ -119,3 +119,4 @@ Links
 * https://tarnkappe.info/artikel/usenet/dream-of-usenet-geht-naechsten-dienstag-ans-netz-215308.html
 * https://tarnkappe.info/artikel/warez/nox-to-download-portal-nach-ausfall-wieder-online-215317.html
 * https://tarnkappe.info/artikel/warez/empress-veroeffentlicht-update-von-rdr-2-tom-clancys-ghost-recon-215341.html
+* https://tarnkappe.info/artikel/warez/kings-bounty-ii-nach-entfernung-von-denuvo-illegal-erschienen-215385.html
