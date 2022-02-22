@@ -120,3 +120,5 @@ Links
 * https://tarnkappe.info/artikel/warez/nox-to-download-portal-nach-ausfall-wieder-online-215317.html
 * https://tarnkappe.info/artikel/warez/empress-veroeffentlicht-update-von-rdr-2-tom-clancys-ghost-recon-215341.html
 * https://tarnkappe.info/artikel/warez/kings-bounty-ii-nach-entfernung-von-denuvo-illegal-erschienen-215385.html
+* https://tarnkappe.info/artikel/szene/webflake-sx-englischsprachiges-scriptzforum-nach-9-jahren-down-215515.html
+* https://tarnkappe.info/artikel/e-books/sci-hub-high-court-delhi-lehnt-interventionsantrag-von-forschern-ab-215513.html
