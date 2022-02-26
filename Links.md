@@ -122,3 +122,5 @@ Links
 * https://tarnkappe.info/artikel/warez/kings-bounty-ii-nach-entfernung-von-denuvo-illegal-erschienen-215385.html
 * https://tarnkappe.info/artikel/szene/webflake-sx-englischsprachiges-scriptzforum-nach-9-jahren-down-215515.html
 * https://tarnkappe.info/artikel/e-books/sci-hub-high-court-delhi-lehnt-interventionsantrag-von-forschern-ab-215513.html
+* https://tarnkappe.info/artikel/gaming/codex-die-wohl-bekannteste-release-group-zieht-sich-zurueck-215555.html
+* https://tarnkappe.info/artikel/filesharing/kanye-west-fans-kopieren-album-statt-200-usd-zu-zahlen-215621.html
