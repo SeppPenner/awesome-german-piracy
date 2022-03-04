@@ -124,3 +124,9 @@ Links
 * https://tarnkappe.info/artikel/e-books/sci-hub-high-court-delhi-lehnt-interventionsantrag-von-forschern-ab-215513.html
 * https://tarnkappe.info/artikel/gaming/codex-die-wohl-bekannteste-release-group-zieht-sich-zurueck-215555.html
 * https://tarnkappe.info/artikel/filesharing/kanye-west-fans-kopieren-album-statt-200-usd-zu-zahlen-215621.html
+* https://tarnkappe.info/artikel/warez/hoerbuch-piraterie-russischer-hacker-sagt-norwegens-hoerbuch-industrie-den-kampf-an-216520.html
+* https://tarnkappe.info/artikel/e-books/sci-hub-richtet-weitere-ausweich-domains-ein-216528.html
+* https://tarnkappe.info/artikel/szene/empress-will-kuenftig-mehrere-cracker-ausbilden-216643.html
+* https://tarnkappe.info/artikel/filesharing/ukraine-russischer-pirate-bay-proxy-integriert-stop-putin-aufruf-216618.html
+* https://tarnkappe.info/artikel/e-books/sci-hub-fbi-erhaelt-zugriff-auf-google-kontodaten-216686.html
+* https://tarnkappe.info/artikel/hacking/nulled-to-hacker-forum-ist-schon-wieder-offline-216695.html
