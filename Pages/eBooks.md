@@ -2,6 +2,7 @@
 
 |Website|Status|Remark|
 |-|-|-|
+|[20links.com](https://20links.com/)|[![20links.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F20links.com)](https://20links.com/)|-|
 |[8ebooks.net](https://8ebooks.net/)|[![8ebooks.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F8ebooks.net)](https://8ebooks.net/)|-|
 |[apps4all.com](https://apps4all.com/)|[![apps4all.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fapps4all.com)](https://apps4all.com/)|-|
 |[avaxhome.co](https://avaxhome.co/)|[![avaxhome.co](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Favaxhome.co)](https://avaxhome.co/)|-|

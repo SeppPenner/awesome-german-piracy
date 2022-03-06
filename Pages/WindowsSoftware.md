@@ -2,6 +2,7 @@
 
 |Website|Status|Remark|
 |-|-|-|
+|[20links.com](https://20links.com/)|[![20links.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F20links.com)](https://20links.com/)|-|
 |[3dl.tv](https://3dl.tv/)|[![3dl.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F3dl.tv)](https://3dl.tv/)|-|
 |[a2zcrack.com](https://a2zcrack.com/)|[![a2zcrack.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fa2zcrack.com)](https://a2zcrack.com/)|-|
 |[apps4all.com](https://apps4all.com/)|[![apps4all.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fapps4all.com)](https://apps4all.com/)|-|

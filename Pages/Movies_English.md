@@ -4,6 +4,7 @@
 |-|-|-|
 |[1movies.best](https://1movies.best/)|[![1movies.best](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1movies.best)](https://1movies.best/)|-|
 |[1movies.is](https://1movies.is/)|[![1movies.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1movies.is)](https://1movies.is/)|-|
+|[20links.com](https://20links.com/)|[![20links.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F20links.com)](https://20links.com/)|-|
 |[5movies.to](https://5movies.to/)|[![5movies.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F5movies.to)](https://5movies.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[alltube.pl](https://alltube.pl/)|[![alltube.pl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube.pl)](https://alltube.pl/)|⚠️ Seems to be offline. ACE takedown.|
 |[alltube.tv](https://alltube.tv/)|[![alltube.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube.tv)](https://alltube.tv/)|⚠️ Seems to be offline. ACE takedown.|

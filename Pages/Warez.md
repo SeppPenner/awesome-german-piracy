@@ -3,6 +3,7 @@
 |Website|Status|Remark|
 |-|-|-|
 |[1load.sx](https://1load.sx/)|[![1load.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1load.sx)](https://1load.sx/)|-|
+|[20links.com](https://20links.com/)|[![20links.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F20links.com)](https://20links.com/)|-|
 |[3dl.tv](https://3dl.tv/)|[![3dl.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F3dl.tv)](https://3dl.tv/)|-|
 |[apps4all.com](https://apps4all.com/)|[![apps4all.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fapps4all.com)](https://apps4all.com/)|-|
 |[blockbuster.to](https://blockbuster.to/)|[![blockbuster.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fblockbuster.to)](https://blockbuster.to/)|-|

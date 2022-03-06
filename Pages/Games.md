@@ -2,6 +2,7 @@
 
 |Website|Status|Remark|
 |-|-|-|
+|[20links.com](https://20links.com/)|[![20links.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F20links.com)](https://20links.com/)|-|
 |[apps4all.com](https://apps4all.com/)|[![apps4all.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fapps4all.com)](https://apps4all.com/)|-|
 |[blockbuster.to](https://blockbuster.to/)|[![blockbuster.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fblockbuster.to)](https://blockbuster.to/)|-|
 |[bloodsuckerz.cx](https://bloodsuckerz.cx/)|[![bloodsuckerz.cx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbloodsuckerz.cx)](https://bloodsuckerz.cx/)|-|
