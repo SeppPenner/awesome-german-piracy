@@ -2,6 +2,7 @@
 
 |Website|Status|Remark|
 |-|-|-|
+|[1337x.gd](https://1337x.gd/)|[![1337x.gd](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1337x.gd)](https://1337x.gd/)|-|
 |[1337x.is](https://1337x.is/)|[![1337x.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1337x.is)](https://1337x.is/)|-|
 |[1337x.st](https://1337x.st/)|[![1337x.st](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1337x.st)](https://1337x.st/)|-|
 |[1337x.to](https://1337x.to/)|[![1337x.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1337x.to)](https://1337x.to/)|-|

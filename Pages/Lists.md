@@ -2,6 +2,7 @@
 
 |Website|Status|Remark|
 |-|-|-|
+|[1337x.to/about](https://1337x.to/about/)|[![1337x.to/about](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1337x.to/about)](https://1337x.to/about/)|-|
 |[anicloud.domains](https://anicloud.domains/)|[![anicloud.domains](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fanicloud.domains)](https://anicloud.domains/)|-|
 |[archivx.to](https://archivx.to/)|[![archivx.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Farchivx.to)](https://archivx.to/)|-|
 |[bestoflinks.synology.me](https://bestoflinks.synology.me/)|[![bestoflinks.synology.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbestoflinks.synology.me)](https://bestoflinks.synology.me/)|-|
