@@ -3,6 +3,8 @@
 |Website|Status|Remark|
 |-|-|-|
 |[1gabba.pw](https://1gabba.pw/)|[![1gabba.pw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1gabba.pw)](https://1gabba.pw/)|-|
+|[1techno.org](https://1techno.org/)|[![1techno.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1techno.org)](https://1techno.org/)|-|
+|[1trance.org](https://1trance.org/)|[![1trance.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1trance.org)](https://1trance.org/)|-|
 |[20links.com](https://20links.com/)|[![20links.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F20links.com)](https://20links.com/)|-|
 |[94hiphop.com](http://94hiphop.com/)|[![94hiphop.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2F94hiphop.com)](http://94hiphop.com/)|-|
 |[alldj.org](https://alldj.org/)|[![alldj.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falldj.org)](https://alldj.org/)|-|
