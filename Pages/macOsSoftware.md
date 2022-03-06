@@ -3,7 +3,10 @@
 |Website|Status|Remark|
 |-|-|-|
 |[appdb.to](https://appdb.to/)|[![appdb.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fappdb.to)](https://appdb.to/)|-|
+|[boerse.cx](https://boerse.cx/)|[![boerse.cx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.cx)](https://boerse.cx/)|-|
 |[byte.to](https://byte.to/)|[![byte.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbyte.to)](https://byte.to/)|-|
+|[cmacked.com](https://cmacked.com/)|[![cmacked.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcmacked.com)](https://cmacked.com/)|-|
+|[crackmymac.com](https://crackmymac.com/)|[![crackmymac.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcrackmymac.com)](https://crackmymac.com/)|-|
 |[cwer.ru](https://cwer.ru/)|[![cwer.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcwer.ru)](https://cwer.ru/)|-|
 |[cwer.ws](https://cwer.ws/)|[![cwer.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcwer.ws)](https://cwer.ws/)|-|
 |[darklight.to](https://darklight.to/)|[![darklight.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdarklight.to)](https://darklight.to/)|-|
@@ -12,9 +15,12 @@
 |[ddlvalley.me](https://ddlvalley.me/)|[![ddlvalley.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlvalley.me)](https://ddlvalley.me/)|-|
 |[dl4all.org](https://dl4all.org/)|[![dl4all.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdl4all.org)](https://dl4all.org/)|-|
 |[downturk.net](https://downturk.net/)|[![downturk.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdownturk.net)](https://downturk.net/)|-|
+|[filepapa.com](https://filepapa.com/)|[![filepapa.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilepapa.com)](https://filepapa.com/)|-|
 |[freshwap.us](https://freshwap.us/)|[![freshwap.us](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffreshwap.us)](https://freshwap.us/)|-|
+|[haxmac.cc](https://haxmac.cc/)|[![haxmac.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhaxmac.cc)](https://haxmac.cc/)|-|
 |[haxoff.net](https://haxoff.net/)|[![haxoff.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhaxoff.net)](https://haxoff.net/)|-|
 |[hugewarez.net](https://hugewarez.net/)|[![hugewarez.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhugewarez.net)](https://hugewarez.net/)|-|
+|[icrackmac.com](https://icrackmac.com/)|[![icrackmac.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ficrackmac.com)](https://icrackmac.com/)|-|
 |[imacapps.co](https://imacapps.co/)|[![imacapps.co](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fimacapps.co)](https://imacapps.co/)|-|
 |[imojado.org](https://imojado.org/)|[![imojado.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fimojado.org)](https://imojado.org/)|-|
 |[insmac.org](https://insmac.org/)|[![insmac.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Finsmac.org)](https://insmac.org/)|-|
@@ -22,11 +28,16 @@
 |[macappstorrent.com](https://macappstorrent.com/)|[![macappstorrent.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacappstorrent.com)](https://macappstorrent.com/)|-|
 |[macbb.org](https://macbb.org/)|[![macbb.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacbb.org)](https://macbb.org/)|-|
 |[macbed.com](https://macbed.com/)|[![macbed.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacbed.com)](https://macbed.com/)|-|
+|[macbff.com](https://macbff.com/)|[![macbff.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacbff.com)](https://macbff.com/)|-|
 |[macdrop.net](https://macdrop.net/)|[![macdrop.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacdrop.net)](https://macdrop.net/)|-|
+|[macgamez-download.com](https://macgamez-download.com/)|[![macgamez-download.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacgamez-download.com)](https://macgamez-download.com/)|-|
 |[macgamesland.com](https://macgamesland.com/)|[![macgamesland.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacgamesland.com)](https://macgamesland.com/)|-|
-|[macgamesworld.com](https://macgamesworld.com/)|[![macgamesworld.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacgamesworld.com)](https://macgamesworld.com/)|-|
+|[macgamesworld.com](https://macgamesworld.com/)|[![macgamesworld.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacgamesworld.com)](https://macgamesworld.com/)|⚠️ Fake website.|
+|[macnulled.com](https://macnulled.com/)|[![macnulled.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacnulled.com)](https://macnulled.com/)|-|
+|[macoscrack.com](https://macoscrack.com/)|[![macoscrack.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacoscrack.com)](https://macoscrack.com/)|-|
 |[macserialjunkie.com](https://macserialjunkie.com/)|[![macserialjunkie.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacserialjunkie.com)](https://macserialjunkie.com/)|-|
-|[mactorrent.co](https://mactorrent.co/)|[![mactorrent.co](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmactorrent.co)](https://mactorrent.co/)|-|
+|[macsoftdownload.com](https://macsoftdownload.com/)|[![macsoftdownload.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacsoftdownload.com)](https://macsoftdownload.com/)|-|
+|[mactorrent.co](https://mactorrent.co/)|[![mactorrent.co](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmactorrent.co)](https://mactorrent.co/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[mactorrents.io](https://mactorrents.io/)|[![mactorrents.io](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmactorrents.io)](https://mactorrents.io/)|-|
 |[macwarez.net](https://macwarez.net/)|[![macwarez.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmacwarez.net)](https://macwarez.net/)|-|
 |[moviehunterz.cc](https://moviehunterz.cc/)|[![moviehunterz.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmoviehunterz.cc)](https://moviehunterz.cc/)|-|
@@ -52,7 +63,10 @@
 |[softarchive.unblockit.pro](https://softarchive.unblockit.pro/)|[![softarchive.unblockit.pro](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsoftarchive.unblockit.pro)](https://softarchive.unblockit.pro/)|-|
 |[teamos-hkrg.com](https://teamos-hkrg.com/)|[![teamos-hkrg.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fteamos-hkrg.com)](https://teamos-hkrg.com/)|-|
 |[tehparadox.net](https://tehparadox.net/)|[![tehparadox.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftehparadox.net)](https://tehparadox.net/)|-|
+|[tntmac.com](https://tntmac.com/)|[![tntmac.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftntmac.com)](https://tntmac.com/)|-|
 |[torrentmac.net](https://torrentmac.net/)|[![torrentmac.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftorrentmac.net)](https://torrentmac.net/)|-|
+|[warez.ge](https://warez.ge/)|[![warez.ge](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez.ge)](https://warez.ge/)|-|
+|[warezmac.com](https://warezmac.com/)|[![warezmac.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarezmac.com)](https://warezmac.com/)|-|
 |[warezomen.com](https://warezomen.com/)|[![warezomen.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarezomen.com)](https://warezomen.com/)|-|
 |[warez-serbia.com](https://warez-serbia.com/)|[![warez-serbia.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez-serbia.com)](https://warez-serbia.com/)|-|
 |[win7dl.org](https://win7dl.org/)|[![win7dl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwin7dl.org)](https://win7dl.org/)|-|

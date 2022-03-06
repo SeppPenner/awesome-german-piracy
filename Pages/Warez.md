@@ -79,6 +79,7 @@
 |[traderz.org](https://traderz.org/)|[![traderz.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftraderz.org)](https://traderz.org/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[tfp.is](https://tfp.is/)|[![tfp.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftfp.is)](https://tfp.is/)|-|
 |[u.nydus.org](https://u.nydus.org/)|[![u.nydus.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fu.nydus.org)](https://u.nydus.org/)|-|
+|[warez.ge](https://warez.ge/)|[![warez.ge](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez.ge)](https://warez.ge/)|-|
 |[warez.to](https://warez.to/)|[![warez.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez.to)](https://warez.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[warez-heaven.ws](https://warez-heaven.ws/)|[![warez-heaven.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez-heaven.ws)](https://warez-heaven.ws/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[warezomen.com](https://warezomen.com/)|[![warezomen.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarezomen.com)](https://warezomen.com/)|-|

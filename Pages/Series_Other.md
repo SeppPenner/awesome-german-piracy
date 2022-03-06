@@ -62,6 +62,7 @@
 |[tehparadox.net](https://tehparadox.net/)|[![tehparadox.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftehparadox.net)](https://tehparadox.net/)|-|
 |[tfp.is](https://tfp.is/)|[![tfp.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftfp.is)](https://tfp.is/)|-|
 |[topanalyse.org](https://topanalyse.org/)|[![topanalyse.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftopanalyse.org)](https://topanalyse.org/)|-|
+|[warez.ge](https://warez.ge/)|[![warez.ge](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez.ge)](https://warez.ge/)|-|
 |[warezomen.com](https://warezomen.com/)|[![warezomen.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarezomen.com)](https://warezomen.com/)|-|
 |[warez-serbia.com](https://warez-serbia.com/)|[![warez-serbia.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez-serbia.com)](https://warez-serbia.com/)|-|
 |[warez-world.org](https://warez-world.org/)|[![warez-world.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez-world.org)](https://warez-world.org/)|-|

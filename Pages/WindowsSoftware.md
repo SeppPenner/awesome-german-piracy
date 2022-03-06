@@ -25,6 +25,7 @@
 |[ddlvalley.me](https://ddlvalley.me/)|[![ddlvalley.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlvalley.me)](https://ddlvalley.me/)|-|
 |[dl4all.org](https://dl4all.org/)|[![dl4all.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdl4all.org)](https://dl4all.org/)|-|
 |[downturk.net](https://downturk.net/)|[![downturk.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdownturk.net)](https://downturk.net/)|-|
+|[filepapa.com](https://filepapa.com/)|[![filepapa.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilepapa.com)](https://filepapa.com/)|-|
 |[filmsofts.com](https://filmsofts.com/)|[![filmsofts.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmsofts.com)](https://filmsofts.com/)|-|
 |[forum.suprbay.org](https://forum.suprbay.org/)|[![forum.suprbay.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fforum.suprbay.org)](https://forum.suprbay.org/)|-|
 |[freshwap.us](https://freshwap.us/)|[![freshwap.us](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffreshwap.us)](https://freshwap.us/)|-|
@@ -35,6 +36,7 @@
 |[goldesel.to](https://goldesel.to/)|[![goldesel.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgoldesel.to)](https://goldesel.to/)|-|
 |[haxoff.net](https://haxoff.net/)|[![haxoff.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhaxoff.net)](https://haxoff.net/)|-|
 |[hugewarez.net](https://hugewarez.net/)|[![hugewarez.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhugewarez.net)](https://hugewarez.net/)|-|
+|[icrackmac.com](https://icrackmac.com/)|[![icrackmac.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ficrackmac.com)](https://icrackmac.com/)|-|
 |[imojado.org](https://imojado.org/)|[![imojado.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fimojado.org)](https://imojado.org/)|-|
 |[laden.to](https://laden.to/)|[![laden.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fladen.to)](https://laden.to/)|-|
 |[moviehunterz.cc](https://moviehunterz.cc/)|[![moviehunterz.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmoviehunterz.cc)](https://moviehunterz.cc/)|-|
@@ -65,6 +67,7 @@
 |[teamos-hkrg.com](https://teamos-hkrg.com/)|[![teamos-hkrg.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fteamos-hkrg.com)](https://teamos-hkrg.com/)|-|
 |[tehparadox.net](https://tehparadox.net/)|[![tehparadox.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftehparadox.net)](https://tehparadox.net/)|-|
 |[tfp.is](https://tfp.is/)|[![tfp.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftfp.is)](https://tfp.is/)|-|
+|[warez.ge](https://warez.ge/)|[![warez.ge](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez.ge)](https://warez.ge/)|-|
 |[warezomen.com](https://warezomen.com/)|[![warezomen.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarezomen.com)](https://warezomen.com/)|-|
 |[wareztown.to](https://wareztown.to/)|[![wareztown.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwareztown.to)](https://wareztown.to/)|-|
 |[win7dl.org](https://win7dl.org/)|[![win7dl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwin7dl.org)](https://win7dl.org/)|-|

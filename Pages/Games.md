@@ -87,6 +87,7 @@
 |[tfp.is](https://tfp.is/)|[![tfp.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftfp.is)](https://tfp.is/)|-|
 |[theindex.cc](https://theindex.cc/)|[![theindex.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftheindex.cc)](https://theindex.cc/)|-|
 |[torrentsgames.org](https://torrentsgames.org/)|[![torrentsgames.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftorrentsgames.org)](https://torrentsgames.org/)|-|
+|[warez.ge](https://warez.ge/)|[![warez.ge](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez.ge)](https://warez.ge/)|-|
 |[warezomen.com](https://warezomen.com/)|[![warezomen.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarezomen.com)](https://warezomen.com/)|-|
 |[warez-serbia.com](https://warez-serbia.com/)|[![warez-serbia.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez-serbia.com)](https://warez-serbia.com/)|-|
 |[warez-world.org](https://warez-world.org/)|[![warez-world.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwarez-world.org)](https://warez-world.org/)|-|
