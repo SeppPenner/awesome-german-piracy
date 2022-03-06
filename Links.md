@@ -130,3 +130,4 @@ Links
 * https://tarnkappe.info/artikel/filesharing/ukraine-russischer-pirate-bay-proxy-integriert-stop-putin-aufruf-216618.html
 * https://tarnkappe.info/artikel/e-books/sci-hub-fbi-erhaelt-zugriff-auf-google-kontodaten-216686.html
 * https://tarnkappe.info/artikel/hacking/nulled-to-hacker-forum-ist-schon-wieder-offline-216695.html
+* https://tarnkappe.info/artikel/filesharing/bittorrent-international-auf-dem-absteigenden-ast-216719.html
