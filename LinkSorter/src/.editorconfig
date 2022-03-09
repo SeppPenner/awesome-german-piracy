@@ -1,0 +1,18 @@
+root = true
+
+[*]
+end_of_line = crlf
+indent_style = space
+indent_size = 4
+charset = utf-8
+csharp_using_directive_placement=inside_namespace:warning
+csharp_prefer_braces=true:warning
+dotnet_style_allow_multiple_blank_lines_experimental=false:warning
+dotnet_style_allow_statement_immediately_after_block_experimental=false:warning
+dotnet_style_qualification_for_field=true:warning
+dotnet_style_qualification_for_property=true:warning
+dotnet_style_qualification_for_method=true:warning
+dotnet_style_qualification_for_event=true:warning
+csharp_style_allow_blank_lines_between_consecutive_braces_experimental=false:warning
+dotnet_sort_system_directives_first=true:warning
+dotnet_diagnostic.IDE0005.severity=warning
