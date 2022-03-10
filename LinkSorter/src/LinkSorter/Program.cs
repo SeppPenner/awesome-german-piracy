@@ -32,7 +32,8 @@ public static class Program
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("No folder specified, stopping.");
-            Console.ReadLine();
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
             return;
         }
 
@@ -41,7 +42,8 @@ public static class Program
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("The specified folder is invalid.");
-            Console.ReadLine();
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
             return;
         }
 
@@ -74,12 +76,13 @@ public static class Program
             sortLines = sortLines.OrderBy(s => s.Split("]")[0]).ToList();
 
             // Write the header lines and sorted lines to the file, overwrite it.
+            headerLines.AddRange(sortLines);
             await File.WriteAllLinesAsync(file, headerLines);
-            await File.WriteAllLinesAsync(file, sortLines);
         }
 
         // Service is finished.
         Console.WriteLine("All files sorted.");
-        Console.ReadLine();
+        Console.WriteLine("Press any key to exit.");
+        Console.ReadKey();
     }
 }
