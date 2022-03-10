@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "\LinkSorter"
-#define MyAppVersion "1.0.4.0"
+#define MyAppVersion "1.0.0.0"
 #define MyAppPublisher "Hämmer Electronics"
 #define MyAppURL "www.softwareload24.de.tl"
 #define MyAppExeName "LinkSorter.exe"
@@ -28,7 +28,7 @@ AllowNoIcons=yes
 LicenseFile=..\src\LinkSorter\License.txt
 OutputDir=..\Setup
 OutputBaseFilename=LinkSorter-Setup
-SetupIconFile=..\src\LinkSorter\CPU.ico
+SetupIconFile=..\src\LinkSorter\Sort.ico
 Compression=lzma
 SolidCompression=yes
 
