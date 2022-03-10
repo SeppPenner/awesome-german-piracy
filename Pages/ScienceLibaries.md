@@ -2,11 +2,11 @@
 
 |Website|Status|Remark|
 |-|-|-|
-|[bookfi.net](https://bookfi.net/)|[![bookfi.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbookfi.net)](https://bookfi.net/)|⚠️ Seems to be offline. Reasons are unknown.|
-|[booksc.org](https://booksc.org/)|[![booksc.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbooksc.org)](https://booksc.org/)|-|
 |[b-ok.asia](https://b-ok.asia/)|[![b-ok.asia](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fb-ok.asia)](https://b-ok.asia/)|-|
 |[b-ok.cc](https://b-ok.cc/)|[![b-ok.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fb-ok.cc)](https://b-ok.cc/)|-|
 |[b-ok.org](https://b-ok.org/)|[![b-ok.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fb-ok.org)](https://b-ok.org/)|-|
+|[bookfi.net](https://bookfi.net/)|[![bookfi.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbookfi.net)](https://bookfi.net/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[booksc.org](https://booksc.org/)|[![booksc.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbooksc.org)](https://booksc.org/)|-|
 |[doi.qqsci.com](https://doi.qqsci.com/)|[![doi.qqsci.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdoi.qqsci.com)](https://doi.qqsci.com/)|-|
 |[felixbreton.github.io/scihub](https://felixbreton.github.io/scihub)|[![felixbreton.github.io/scihub/](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffelixbreton.github.io/scihub)](https://felixbreton.github.io/scihub)|-|
 |[gen.lib.rus.ec](https://gen.lib.rus.ec/)|[![gen.lib.rus.ec](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgen.lib.rus.ec)](https://gen.lib.rus.ec/)|⚠️ Seems to be offline. Reasons are unknown.|
@@ -20,9 +20,7 @@
 |[libgen.st](https://libgen.st/)|[![libgen.st](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Flibgen.st)](https://libgen.st/)|-|
 |[library.lol](http://library.lol/)|[![library.lol](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Flibrary.lol)](http://library.lol/)|-|
 |[mg.scihub.ltd](https://mg.scihub.ltd/)|[![mg.scihub.ltd](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmg.scihub.ltd)](https://mg.scihub.ltd/)|⚠️ Seems to be offline. Reasons are unknown.|
-|[scihub.bban.top](https://scihub.bban.top/)|[![scihub.bban.top](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscihub.bban.top)](https://scihub.bban.top/)|-|
-|[scihubtw.tw](https://scihubtw.tw/)|[![scihubtw.tw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscihubtw.tw)](https://scihubtw.tw/)|-|
-|[scihub.wikicn.top](https://scihub.wikicn.top/)|[![scihub.wikicn.top](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscihub.wikicn.top)](https://scihub.wikicn.top/)|-|
+|[sci-hub-links.com](https://sci-hub-links.com/)|[![sci-hub-links.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub-links.com)](https://sci-hub-links.com/)|-|
 |[sci-hub.ac](https://sci-hub.ac/)|[![sci-hub.ac](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.ac)](https://sci-hub.ac/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[sci-hub.biz](https://sci-hub.biz/)|[![sci-hub.biz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.biz)](https://sci-hub.biz/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[sci-hub.bz](https://sci-hub.bz/)|[![sci-hub.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.bz)](https://sci-hub.bz/)|⚠️ Seems to be offline. Reasons are unknown.|
@@ -39,7 +37,6 @@
 |[sci-hub.it](https://sci-hub.it/)|[![sci-hub.it](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.it)](https://sci-hub.it/)|-|
 |[sci-hub.it.nf](https://sci-hub.it.nf/)|[![sci-hub.it.nf](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.it.nf)](https://sci-hub.it.nf/)|-|
 |[sci-hub.la](https://sci-hub.la/)|[![sci-hub.la](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.la)](https://sci-hub.la/)|⚠️ Seems to be offline. Reasons are unknown.|
-|[sci-hub-links.com](https://sci-hub-links.com/)|[![sci-hub-links.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub-links.com)](https://sci-hub-links.com/)|-|
 |[sci-hub.mksa.top](https://sci-hub.mksa.top/)|[![sci-hub.mksa.top](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.mksa.top)](https://sci-hub.mksa.top/)|-|
 |[sci-hub.mn](https://sci-hub.mn/)|[![sci-hub.mn](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.mn)](https://sci-hub.mn/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[sci-hub.name](https://sci-hub.name/)|[![sci-hub.name](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.name)](https://sci-hub.name/)|⚠️ Seems to be offline. Reasons are unknown.|
@@ -47,6 +44,7 @@
 |[sci-hub.nz](https://sci-hub.nz/)|[![sci-hub.nz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.nz)](https://sci-hub.nz/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[sci-hub.org](https://sci-hub.org/)|[![sci-hub.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.org)](https://sci-hub.org/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[sci-hub.ren](https://sci-hub.ren/)|[![sci-hub.ren](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.ren)](https://sci-hub.ren/)|-|
+|[sci-hub.ru](https://sci-hub.ru/)|[![sci-hub.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.ru)](https://sci-hub.ru/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[sci-hub.se](https://sci-hub.se/)|[![sci-hub.se](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.se)](https://sci-hub.se/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[sci-hub.st](https://sci-hub.st/)|[![sci-hub.st](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.st)](https://sci-hub.st/)|-|
 |[sci-hub.tf](https://sci-hub.tf/)|[![sci-hub.tf](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.tf)](https://sci-hub.tf/)|-|
@@ -54,7 +52,9 @@
 |[sci-hub.tw](https://sci-hub.tw/)|[![sci-hub.tw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.tw)](https://sci-hub.tw/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[sci-hub.ws](https://sci-hub.ws/)|[![sci-hub.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.ws)](https://sci-hub.ws/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[sci.hubg.org](https://sci.hubg.org/)|[![sci.hubg.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci.hubg.org)](https://sci.hubg.org/)|-|
-|[sci-hub.ru](https://sci-hub.ru/)|[![sci-hub.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsci-hub.ru)](https://sci-hub.ru/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[scihub.bban.top](https://scihub.bban.top/)|[![scihub.bban.top](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscihub.bban.top)](https://scihub.bban.top/)|-|
+|[scihub.wikicn.top](https://scihub.wikicn.top/)|[![scihub.wikicn.top](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscihub.wikicn.top)](https://scihub.wikicn.top/)|-|
+|[scihubtw.tw](https://scihubtw.tw/)|[![scihubtw.tw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fscihubtw.tw)](https://scihubtw.tw/)|-|
 |[wikicn.top](https://wikicn.top/)|[![wikicn.top](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwikicn.top)](https://wikicn.top/)|-|
 |[z-lib.net](https://z-lib.net/)|[![z-lib.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fz-lib.net)](https://z-lib.net/)|-|
 |[z-lib.org](https://z-lib.org/)|[![z-lib.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fz-lib.org)](https://z-lib.org/)|-|
