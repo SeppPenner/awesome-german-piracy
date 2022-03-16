@@ -133,3 +133,13 @@ Links
 * https://tarnkappe.info/artikel/filesharing/bittorrent-international-auf-dem-absteigenden-ast-216719.html
 * https://tarnkappe.info/listen/streaming-portale-fuer-kinofilme-im-maerz-2022-illegal-216805.html
 * https://tarnkappe.info/listen/sport-livestreams-offensichtlich-rechtswidrige-portale-maerz-2022-216835.html
+* https://tarnkappe.info/artikel/internet/myauto-to-auf-der-suche-nach-verstaerkung-216880.html
+* https://tarnkappe.info/artikel/nulled-scripts/ipscrew-to-will-fuer-nulled-scripts-nachfolger-von-webflake-werden-216926.html
+* https://tarnkappe.info/artikel/filesharing/spider-man-no-way-home-vorzeitig-als-blueray-rip-aufgetaucht-216970.html
+* https://tarnkappe.info/artikel/e-books/spiegelbest-razzia-strafverfolgung-geht-nach-75-jahren-zu-ende-216964.html
+* https://tarnkappe.info/artikel/hacking/toei-animation-webseite-gehackt-one-piece-co-verzoegern-sich-216979.html
+* https://tarnkappe.info/listen/streaming-portale-fuer-tv-serien-im-maerz-2022-217026.html
+* https://tarnkappe.info/listen/tv-sender-offensichtlich-rechtswidrige-portale-maerz-2022-217072.html
+* https://tarnkappe.info/artikel/rechtssachen/candyshop-to-bewaehrungsstrafe-fuer-betreiber-langjaehrige-haftstrafen-fuer-dealer-217082.html
+* https://tarnkappe.info/artikel/gaming/russland-erlaubt-software-piraterie-bei-werken-aus-sanktionslaendern-217119.html
+* https://tarnkappe.info/artikel/rechtssachen/ace-piraten-jaeger-wollen-erneut-inhaber-von-29-domains-enttarnen-217123.html
