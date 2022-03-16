@@ -11,6 +11,7 @@
 |[cracked.to](https://cracked.to/)|[![cracked.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcracked.to)](https://cracked.to/)|-|
 |[enxf.net](https://enxf.net/)|[![enxf.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fenxf.net)](https://enxf.net/)|-|
 |[escripts.club](https://escripts.club/)|[![escripts.club](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fescripts.club)](https://escripts.club/)|-|
+|[ipscrew.to](https://ipscrew.to/)|[![ipscrew.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fipscrew.to)](https://ipscrew.to/)|-|
 |[leaked.to](https://leaked.to/)|[![leaked.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fleaked.to)](https://leaked.to/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[nullc0de.su](https://nullc0de.su/)|[![nullc0de.su](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnullc0de.su)](https://nullc0de.su/)|-|
 |[nulleb.com](https://nulleb.com/)|[![nulleb.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnulleb.com)](https://nulleb.com/)|-|
