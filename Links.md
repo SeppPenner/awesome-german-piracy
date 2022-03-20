@@ -143,3 +143,6 @@ Links
 * https://tarnkappe.info/artikel/rechtssachen/candyshop-to-bewaehrungsstrafe-fuer-betreiber-langjaehrige-haftstrafen-fuer-dealer-217082.html
 * https://tarnkappe.info/artikel/gaming/russland-erlaubt-software-piraterie-bei-werken-aus-sanktionslaendern-217119.html
 * https://tarnkappe.info/artikel/rechtssachen/ace-piraten-jaeger-wollen-erneut-inhaber-von-29-domains-enttarnen-217123.html
+* https://tarnkappe.info/artikel/hacking/raidforums-com-hacker-veroeffentlichten-gestern-diverse-datenbanken-218603.html
+* https://tarnkappe.info/artikel/filesharing/asgaard-haftstrafen-sozialstunden-und-schadenersatz-fuer-mitbetreiber-218638.html
+* https://tarnkappe.info/artikel/szene/dark-commerce/didw-mal-wieder-offline-diesmal-fuer-immer-218718.html
