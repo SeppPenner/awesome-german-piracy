@@ -146,3 +146,14 @@ Links
 * https://tarnkappe.info/artikel/hacking/raidforums-com-hacker-veroeffentlichten-gestern-diverse-datenbanken-218603.html
 * https://tarnkappe.info/artikel/filesharing/asgaard-haftstrafen-sozialstunden-und-schadenersatz-fuer-mitbetreiber-218638.html
 * https://tarnkappe.info/artikel/szene/dark-commerce/didw-mal-wieder-offline-diesmal-fuer-immer-218718.html
+* https://tarnkappe.info/artikel/szene/downtown-bz-neues-warez-forum-will-nach-ostern-durchstarten-218828.html
+* https://tarnkappe.info/artikel/iptv/expats-iptv-haendler-zur-zahlung-von-9-759-euro-verurteilt-218842.html
+* https://tarnkappe.info/artikel/iptv/iptv-anbieter-betreiber-zu-insgesamt-10-jahren-verurteilt-218938.html
+* https://tarnkappe.info/artikel/online-betrug/crimemarket-cn-nach-beschlagnahmung-mit-neuer-domain-online-218974.html
+* https://tarnkappe.info/artikel/warez/boerse-cx-feiert-bald-einjaehriges-bestehen-218985.html
+* https://tarnkappe.info/artikel/warez/residentz-cx-neues-webwarezforum-fuer-windows-co-geoeffnet-218992.html
+* https://tarnkappe.info/artikel/sharehoster/megaload-co-sharehoster-gibt-nach-fuenf-jahren-auf-219021.html
+* https://tarnkappe.info/artikel/warez/redwarez-xyz-forum-von-musik-leak-gruppe-gegruendet-219034.html
+* https://tarnkappe.info/artikel/rechtssachen/cox-communications-gericht-weist-anfechtung-gegen-1-mrd-usd-urteil-zurueck-219121.html
+* https://tarnkappe.info/artikel/rechtssachen/liquidvpn-no-log-vpn-anbieter-muss-filmstudios-14-mio-usd-zahlen-219158.html
+* https://tarnkappe.info/artikel/filesharing/brein-erwirkt-sperrverfuegung-gegen-sechs-rechtsverletzende-torrent-sites-219186.html
