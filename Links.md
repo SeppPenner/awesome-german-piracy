@@ -160,3 +160,4 @@ Links
 * https://tarnkappe.info/artikel/iptv/iptv-operation-gegen-illegalen-streaming-dienst-fuehrt-zu-zwei-festnahmen-219323.html
 * https://tarnkappe.info/artikel/e-books/lul-to-ehemalige-kunden-werden-nicht-belangt-219365.html
 * https://tarnkappe.info/artikel/interviews/redwarez-im-interview-reddington-beantwortet-eure-fragen-219408.html
+* https://tarnkappe.info/artikel/sharehoster/share-online-biz-verfolgung-der-downloader-weiter-offen-219437.html
