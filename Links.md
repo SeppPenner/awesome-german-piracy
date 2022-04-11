@@ -161,3 +161,5 @@ Links
 * https://tarnkappe.info/artikel/e-books/lul-to-ehemalige-kunden-werden-nicht-belangt-219365.html
 * https://tarnkappe.info/artikel/interviews/redwarez-im-interview-reddington-beantwortet-eure-fragen-219408.html
 * https://tarnkappe.info/artikel/sharehoster/share-online-biz-verfolgung-der-downloader-weiter-offen-219437.html
+* https://tarnkappe.info/artikel/usenet/illuminatenboard-com-neues-usenetforum-in-vorbereitung-219992.html
+* https://tarnkappe.info/artikel/datenschutz/spyoff-hat-offenbar-die-pforten-geschlossen-220002.html
