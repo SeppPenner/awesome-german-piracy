@@ -163,3 +163,12 @@ Links
 * https://tarnkappe.info/artikel/sharehoster/share-online-biz-verfolgung-der-downloader-weiter-offen-219437.html
 * https://tarnkappe.info/artikel/usenet/illuminatenboard-com-neues-usenetforum-in-vorbereitung-219992.html
 * https://tarnkappe.info/artikel/datenschutz/spyoff-hat-offenbar-die-pforten-geschlossen-220002.html
+* https://www.heise.de/news/Europol-meldet-Schliessung-des-Verbrecher-Marktplatzes-RaidForums-6670292.html
+* https://tarnkappe.info/artikel/szene/dark-commerce/raidforums-hacking-forum-vom-netz-genommen-220123.html
+* https://www.heise.de/news/Kein-Malware-as-a-Service-mehr-Microsoft-demoliert-ZLoader-Botnetz-6704264.html
+* https://tarnkappe.info/artikel/szene/dark-commerce/alphabay-fuehrend-bei-englischsprachigen-darknet-marktplaetzen-220148.html
+* https://tarnkappe.info/artikel/streaming/ace-will-betreiber-harmloser-flixtor-domain-enttarnen-220154.html
+* https://tarnkappe.info/artikel/streaming/ace-faehrt-zwei-weitere-streaming-webseiten-herunter-220195.html
+* https://tarnkappe.info/artikel/internet/duckduckgo-entfernt-unzaehlige-piraten-seiten-aus-dem-index-220190.html
+* https://tarnkappe.info/artikel/szene/dark-commerce/hydra-market-mutmasslicher-admin-offenbar-in-russland-festgenommen-220209.html
+* https://tarnkappe.info/artikel/datenschutz/software-und-anwendungen-fuer-mehr-datenschutz-und-sicherheit-im-netz-220116.html

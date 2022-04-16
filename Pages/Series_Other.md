@@ -43,6 +43,7 @@
 |[nox.to](https://nox.to/)|[![nox.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnox.to)](https://nox.to/)|-|
 |[nox.tv](https://nox.tv/)|[![nox.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnox.tv)](https://nox.tv/)|-|
 |[oneddl.org](https://oneddl.org/)|[![oneddl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Foneddl.org)](https://oneddl.org/)|-|
+|[pelisplushd.net](https://pelisplushd.net/)|[![pelisplushd.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpelisplushd.net)](https://pelisplushd.net/)|⚠️ Seems to be offline. ACE takedown.|🇪🇸|
 |[pirates-forum.org](https://pirates-forum.org/)|[![pirates-forum.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpirates-forum.org)](https://pirates-forum.org/)|-|
 |[pizza-load.to](https://pizza-load.to/)|[![pizza-load.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpizza-load.to)](https://pizza-load.to/)|-|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|

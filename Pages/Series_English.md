@@ -1,12 +1,13 @@
 # Series (English)
 
-|Website|Status|Remark|
-|-|-|-|
+|Website|Status|Remark|Main language|
+|-|-|-|-|
 |[1movies.best](https://1movies.best/)|[![1movies.best](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1movies.best)](https://1movies.best/)|-|
 |[1movies.is](https://1movies.is/)|[![1movies.is](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F1movies.is)](https://1movies.is/)|-|
 |[20links.com](https://20links.com/)|[![20links.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F20links.com)](https://20links.com/)|-|
 |[4k-hd-movies.tv](https://4k-hd-movies.tv/)|[![4k-hd-movies.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F4k-hd-movies.tv)](https://4k-hd-movies.tv/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[5movies.to](https://5movies.to/)|[![5movies.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2F5movies.to)](https://5movies.to/)|⚠️ Seems to be offline. Reasons are unknown.|
+|[afdah.video](https://afdah.video/)|[![afdah.video](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fafdah.video)](https://afdah.video/)|⚠️ Seems to be offline. ACE takedown.|🇬🇧|
 |[alltube-tv.pl](https://alltube-tv.pl/)|[![alltube-tv.pl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube-tv.pl)](https://alltube-tv.pl/)|⚠️ Fake website.|
 |[alltube.pl](https://alltube.pl/)|[![alltube.pl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube.pl)](https://alltube.pl/)|⚠️ Seems to be offline. ACE takedown.|
 |[alltube.tv](https://alltube.tv/)|[![alltube.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Falltube.tv)](https://alltube.tv/)|⚠️ Seems to be offline. ACE takedown.|
@@ -41,7 +42,14 @@
 |[eurostreaming.gifts](https://eurostreaming.gifts/)|[![eurostreaming.gifts](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Feurostreaming.gifts)](https://eurostreaming.gifts/)|⚠️ Seems to be offline. Reasons are unknown.|
 |[filmsofts.com](https://filmsofts.com/)|[![filmsofts.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmsofts.com)](https://filmsofts.com/)|-|
 |[filmxy.bid](https://filmxy.bid/)|[![filmxy.bid](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmxy.bid)](https://filmxy.bid/)|-|
-|[flixtor.to](https://flixtor.to/)|[![flixtor.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.to)](https://flixtor.to/)|-|
+|[flixtor.ch](https://flixtor.ch/)|[![flixtor.ch](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.ch)](https://flixtor.ch/)|-|🇬🇧|
+|[flixtor.cz](https://flixtor.cz/)|[![flixtor.cz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.cz)](https://flixtor.cz/)|-|🇬🇧|
+|[flixtor.nu](https://flixtor.nu/)|[![flixtor.nu](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.nu)](https://flixtor.nu/)|-|🇬🇧|
+|[flixtor.se](https://flixtor.se/)|[![flixtor.se](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.se)](https://flixtor.se/)|-|🇬🇧|
+|[flixtor.sx](https://flixtor.sx/)|[![flixtor.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.sx)](https://flixtor.sx/)|-|🇬🇧|
+|[flixtor.tk](https://flixtor.tk/)|[![flixtor.tk](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.tk)](https://flixtor.tk/)|-|🇬🇧|
+|[flixtor.to](https://flixtor.to/)|[![flixtor.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.to)](https://flixtor.to/)|-|🇬🇧|
+|[flixtor.vc](https://flixtor.vc/)|[![flixtor.vc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fflixtor.vc)](https://flixtor.vc/)|-|🇬🇧|
 |[fmovies.org](https://fmovies.org/)|[![fmovies.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffmovies.org)](https://fmovies.org/)|-|
 |[fmovies.to](https://fmovies.to/)|[![fmovies.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffmovies.to)](https://fmovies.to/)|-|
 |[forum.suprbay.org](https://forum.suprbay.org/)|[![forum.suprbay.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fforum.suprbay.org)](https://forum.suprbay.org/)|-|
@@ -102,10 +110,17 @@
 |[nox.tv](https://nox.tv/)|[![nox.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnox.tv)](https://nox.tv/)|-|
 |[oneddl.org](https://oneddl.org/)|[![oneddl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Foneddl.org)](https://oneddl.org/)|-|
 |[onionplay.co](https://onionplay.co/)|[![onionplay.co](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.co)](https://onionplay.co/)|-|
+|[onionplay.li](https://onionplay.li/)|[![onionplay.li](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.li)](https://onionplay.li/)|-|
 |[onionplay.net](https://onionplay.net/)|[![onionplay.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.net)](https://onionplay.net/)|-|
+|[onionplay.nu](https://onionplay.nu/)|[![onionplay.nu](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.nu)](https://onionplay.nu/)|-|
+|[onionplay.nz](https://onionplay.nz/)|[![onionplay.nz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.nz)](https://onionplay.nz/)|-|
 |[onionplay.org](https://onionplay.org/)|[![onionplay.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.org)](https://onionplay.org/)|-|
 |[onionplay.re](https://onionplay.re/)|[![onionplay.re](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.re)](https://onionplay.re/)|-|
+|[onionplay.rs](https://onionplay.rs/)|[![onionplay.rs](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.rs)](https://onionplay.rs/)|-|
 |[onionplay.se](https://onionplay.se/)|[![onionplay.se](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.se)](https://onionplay.se/)|-|
+|[onionplay.si](https://onionplay.si/)|[![onionplay.si](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.si)](https://onionplay.si/)|-|
+|[onionplay.tf](https://onionplay.tf/)|[![onionplay.tf](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.tf)](https://onionplay.tf/)|-|
+|[onionplay.yt](https://onionplay.yt/)|[![onionplay.yt](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonionplay.yt)](https://onionplay.yt/)|-|
 |[openloadmov.com](https://openloadmov.com/)|[![openloadmov.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fopenloadmov.com)](https://openloadmov.com/)|-|
 |[openloadmov.net](https://openloadmov.net/)|[![openloadmov.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fopenloadmov.net)](https://openloadmov.net/)|-|
 |[openloadmovies.bz](https://openloadmovies.bz/)|[![openloadmovies.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fopenloadmovies.bz)](https://openloadmovies.bz/)|-|
@@ -113,7 +128,10 @@
 |[pahe.ph](https://pahe.ph/)|[![pahe.ph](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpahe.ph)](https://pahe.ph/)|-|
 |[pirates-forum.org](https://pirates-forum.org/)|[![pirates-forum.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpirates-forum.org)](https://pirates-forum.org/)|-|
 |[pizza-load.to](https://pizza-load.to/)|[![pizza-load.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpizza-load.to)](https://pizza-load.to/)|-|
+|[primewire.ag](https://primewire.ag/)|[![primewire.ag](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fprimewire.ag)](https://primewire.ag/)|-|
 |[primewire.li](https://primewire.li/)|[![primewire.li](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fprimewire.li)](https://primewire.li/)|-|
+|[primewire.tf](https://primewire.tf/)|[![primewire.tf](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fprimewire.tf)](https://primewire.tf/)|-|🇬🇧|
+|[primewire.vc](https://primewire.vc/)|[![primewire.vc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fprimewire.vc)](https://primewire.vc/)|-|
 |[putlockers.gs](https://putlockers.gs/)|[![putlockers.gs](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fputlockers.gs)](https://putlockers.gs/)|-|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|
 |[s.to](https://s.to/)|[![s.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fs.to)](https://s.to/)|-|
