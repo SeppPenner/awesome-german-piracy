@@ -17,7 +17,7 @@
 |[blue1city.net](https://blue1city.net/)|[![blue1city.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fblue1city.net)](https://blue1city.net/)|⚠️ Seems to be offline. Reasons are unknown.|❓|
 |[boerse.ai](https://boerse.ai/)|[![boerse.ai](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.ai)](https://boerse.ai/)|-|🇩🇪|
 |[boerse.am](https://boerse.am/)|[![boerse.am](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.am)](https://boerse.am/)|-|🇩🇪|
-|[boerse.cx](https://boerse.cx/)|[![boerse.cx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.cx)](https://boerse.cx/)|-|
+|[boerse.cx](https://boerse.cx/)|[![boerse.cx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.cx)](https://boerse.cx/)|-|🇩🇪|
 |[boerse.im](https://boerse.im/)|[![boerse.im](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.im)](https://boerse.im/)|-|🇩🇪|
 |[boerse.kz](https://boerse.kz/)|[![boerse.kz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.kz)](https://boerse.kz/)|-|🇩🇪|
 |[boerse.sx](https://boerse.sx/)|[![boerse.sx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.sx)](https://boerse.sx/)|-|🇩🇪|
