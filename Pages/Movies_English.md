@@ -33,6 +33,7 @@
 |[ddlspot.com](https://ddlspot.com/)|[![ddlspot.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlspot.com)](https://ddlspot.com/)|-|🇬🇧|
 |[ddlvalley.me](https://ddlvalley.me/)|[![ddlvalley.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlvalley.me)](https://ddlvalley.me/)|-|🇬🇧|
 |[dl4all.org](https://dl4all.org/)|[![dl4all.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdl4all.org)](https://dl4all.org/)|-|🇬🇧|
+|[downtown.bz](https://downtown.bz/)|[![downtown.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdowntown.bz)](https://downtown.bz/)|-|🇩🇪|
 |[downturk.net](https://downturk.net/)|[![downturk.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdownturk.net)](https://downturk.net/)|-|🇬🇧|
 |[filmsofts.com](https://filmsofts.com/)|[![filmsofts.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmsofts.com)](https://filmsofts.com/)|-|🇬🇧|
 |[filmxy.bid](https://filmxy.bid/)|[![filmxy.bid](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmxy.bid)](https://filmxy.bid/)|-|🇬🇧|
@@ -136,6 +137,7 @@
 |[primewire.tf](https://primewire.tf/)|[![primewire.tf](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fprimewire.tf)](https://primewire.tf/)|-|🇬🇧|
 |[primewire.vc](https://primewire.vc/)|[![primewire.vc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fprimewire.vc)](https://primewire.vc/)|-|🇬🇧|
 |[putlockers.gs](https://putlockers.gs/)|[![putlockers.gs](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fputlockers.gs)](https://putlockers.gs/)|-|🇬🇧|
+|[redwarez.xyz](https://redwarez.xyz/)|[![redwarez.xyz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fredwarez.xyz)](https://redwarez.xyz/)|-|🇩🇪|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|🇬🇧|
 |[s2dfree.cc](https://s2dfree.cc/)|[![s2dfree.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fs2dfree.cc)](https://s2dfree.cc/)|-|🇬🇧|
 |[s2dfree.de](https://s2dfree.de/)|[![s2dfree.de](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fs2dfree.de)](https://s2dfree.de/)|-|🇬🇧|

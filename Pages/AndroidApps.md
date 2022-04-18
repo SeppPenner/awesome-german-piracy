@@ -32,6 +32,7 @@
 |[ddlvalley.me](https://ddlvalley.me/)|[![ddlvalley.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fddlvalley.me)](https://ddlvalley.me/)|-|🇬🇧|
 |[dl4all.org](https://dl4all.org/)|[![dl4all.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdl4all.org)](https://dl4all.org/)|-|🇬🇧|
 |[dlandroid.com](https://dlandroid.com/)|[![dlandroid.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdlandroid.com)](https://dlandroid.com/)|-|🇬🇧|
+|[downtown.bz](https://downtown.bz/)|[![downtown.bz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdowntown.bz)](https://downtown.bz/)|-|🇩🇪|
 |[downturk.net](https://downturk.net/)|[![downturk.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdownturk.net)](https://downturk.net/)|-|🇬🇧|
 |[filmsofts.com](https://filmsofts.com/)|[![filmsofts.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ffilmsofts.com)](https://filmsofts.com/)|-|🇬🇧|
 |[getapk.app](https://getapk.app/)|[![getapk.app](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgetapk.app)](https://getapk.app/)|-|🇬🇧|
@@ -49,6 +50,7 @@
 |[oceanofapk.com](https://oceanofapk.com/)|[![oceanofapk.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Foceanofapk.com)](https://oceanofapk.com/)|-|🇬🇧|
 |[oneddl.org](https://oneddl.org/)|[![oneddl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Foneddl.org)](https://oneddl.org/)|-|🇬🇧|
 |[onhax.eu](https://onhax.eu/)|[![onhax.eu](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fonhax.eu)](https://onhax.eu/)|⚠️ Seems to be offline. Reasons are unknown.|❓|
+|[redwarez.xyz](https://redwarez.xyz/)|[![redwarez.xyz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fredwarez.xyz)](https://redwarez.xyz/)|-|🇩🇪|
 |[revdl.com](https://revdl.com/)|[![revdl.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frevdl.com)](https://revdl.com/)|-|🇬🇧|
 |[rexdl.com](https://rexdl.com/)|[![rexdl.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frexdl.com)](https://rexdl.com/)|-|🇬🇧|
 |[rlslog.net](http://rlslog.net/)|[![rlslog.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Frlslog.net)](http://rlslog.net/)|-|🇬🇧|
