@@ -51,6 +51,7 @@
 |[pirates-forum.org](https://pirates-forum.org/)|[![pirates-forum.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpirates-forum.org)](https://pirates-forum.org/)|-|🇬🇧|
 |[pizza-load.to](https://pizza-load.to/)|[![pizza-load.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpizza-load.to)](https://pizza-load.to/)|-|🇬🇧|
 |[redwarez.xyz](https://redwarez.xyz/)|[![redwarez.xyz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fredwarez.xyz)](https://redwarez.xyz/)|-|🇩🇪|
+|[rlsbb.cc](https://rlsbb.cc/)|[![rlsbb.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.cc)](https://rlsbb.cc/)|-|🇬🇧|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|🇬🇧|
 |[sanet.lc](https://sanet.lc/)|[![sanet.lc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.lc)](https://sanet.lc/)|-|🇬🇧|
 |[sanet.st](https://sanet.st/)|[![sanet.st](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fsanet.st)](https://sanet.st/)|-|🇬🇧|
