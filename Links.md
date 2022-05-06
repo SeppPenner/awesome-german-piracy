@@ -172,3 +172,9 @@ Links
 * https://tarnkappe.info/artikel/internet/duckduckgo-entfernt-unzaehlige-piraten-seiten-aus-dem-index-220190.html
 * https://tarnkappe.info/artikel/szene/dark-commerce/hydra-market-mutmasslicher-admin-offenbar-in-russland-festgenommen-220209.html
 * https://tarnkappe.info/artikel/datenschutz/software-und-anwendungen-fuer-mehr-datenschutz-und-sicherheit-im-netz-220116.html
+* https://tarnkappe.info/listen/android-apps-illegale-warez-portale-im-april-2022-220487.html
+* https://tarnkappe.info/listen/anime-und-manga-download-sites-im-april-2022-220522.html
+* https://tarnkappe.info/artikel/warez/happy-birthday-cannapower-ein-urgestein-wird-23-220538.html
+* https://tarnkappe.info/artikel/usenet/usenet-uploader-muss-10-000-euro-bezahlen-220543.html
+* https://tarnkappe.info/artikel/filesharing/torrent-downloads-halten-einzug-in-russische-kinos-221024.html
+* https://tarnkappe.info/artikel/streaming/fifthfreedom-sorgt-fuer-schliessung-von-kino-kanaelen-auf-telegram-227056.html
