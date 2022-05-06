@@ -6,6 +6,7 @@
 |[boerse.cx](https://boerse.cx/)|[![boerse.cx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fboerse.cx)](https://boerse.cx/)|-|🇩🇪|
 |[byte.to](https://byte.to/)|[![byte.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbyte.to)](https://byte.to/)|-|🇩🇪|
 |[cmacked.com](https://cmacked.com/)|[![cmacked.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcmacked.com)](https://cmacked.com/)|-|🇬🇧|
+|[cmacked.com](https://cmacked.com/)|[![cmacked.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcmacked.com)](https://cmacked.com/)|-|🇬🇧|
 |[crackmymac.com](https://crackmymac.com/)|[![crackmymac.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcrackmymac.com)](https://crackmymac.com/)|-|🇬🇧|
 |[cwer.ru](https://cwer.ru/)|[![cwer.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcwer.ru)](https://cwer.ru/)|-|🇷🇺|
 |[cwer.ws](https://cwer.ws/)|[![cwer.ws](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcwer.ws)](https://cwer.ws/)|-|🇷🇺|

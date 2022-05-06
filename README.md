@@ -19,6 +19,7 @@ A report on my Github page from [tarnkappe.info](https://tarnkappe.info) (in Ger
 * [Lists](./Pages/Lists.md)
 * [macOS software](./Pages/macOsSoftware.md)
 * [Manga / Anime](./Pages/MangaAnime.md)
+* [Misc](./Pages/Misc.md)
 * [Movies](./Pages/Movies.md)
 * [Movies (English)](./Pages/Movies_English.md)
 * [Movies (Other)](./Pages/Movies_Other.md)

@@ -62,6 +62,7 @@
 |[pizza-load.to](https://pizza-load.to/)|[![pizza-load.to](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpizza-load.to)](https://pizza-load.to/)|⚠️ Seems to be offline. Reasons are unknown.|❓|
 |[rarlinks.com](https://rarlinks.com/)|[![rarlinks.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frarlinks.com)](https://rarlinks.com/)|⚠️ Seems to be offline. Reasons are unknown.|❓|
 |[redwarez.xyz](https://redwarez.xyz/)|[![redwarez.xyz](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fredwarez.xyz)](https://redwarez.xyz/)|-|🇩🇪|
+|[residentz.cx](https://residentz.cx/)|[![residentz.cx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fresidentz.cx)](https://residentz.cx/)|-|🇩🇪|
 |[rlsbb.cc](https://rlsbb.cc/)|[![rlsbb.cc](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.cc)](https://rlsbb.cc/)|-|🇬🇧|
 |[rlsbb.ru](https://rlsbb.ru/)|[![rlsbb.ru](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Frlsbb.ru)](https://rlsbb.ru/)|-|🇬🇧|
 |[rlslog.net](http://rlslog.net/)|[![rlslog.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Frlslog.net)](http://rlslog.net/)|-|🇬🇧|
@@ -102,3 +103,4 @@
 |[wawacity.vip](https://wawacity.vip/)|[![wawacity.vip](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwawacity.vip)](https://wawacity.vip/)|-|🇫🇷|
 |[win7dl.org](https://win7dl.org/)|[![win7dl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwin7dl.org)](https://win7dl.org/)|-|🇬🇧|
 |[wjunction.com](https://wjunction.com/)|[![wjunction.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwjunction.com)](https://wjunction.com/)|-|🇬🇧|
+|[wsboard.pw](https://wsboard.pw/)|[![wsboard.pw](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwsboard.pw)](https://wsboard.pw/)|⚠️ Seems to be offline. Reasons are unknown.|🇬🇧|
