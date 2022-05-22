@@ -191,3 +191,8 @@ Links
 * https://tarnkappe.info/artikel/szene/videothek-cx-nach-langer-pause-wieder-online-242162.html
 * https://tarnkappe.info/artikel/szene/dark-commerce/crimemarket-zieht-auf-crimemarket-is-um-242194.html
 * https://tarnkappe.info/artikel/szene/ddl-warez-cc-kuendigt-sich-als-offizieller-nachfolger-an-242234.html
+* https://tarnkappe.info/artikel/datenschutz/vpn-vergleichsseite-comparitech-com-von-hotspot-shield-gekauft-242289.html
+* https://tarnkappe.info/artikel/e-books/ibooks-to-betreibt-kreditkarten-phishing-mit-torboox-archiv-242315.html
+* https://tarnkappe.info/artikel/datenschutz/ctemplar-anonymer-e-mail-hoster-schliesst-naechste-woche-242328.html
+* https://tarnkappe.info/artikel/datenschutz/mailbox-org-behoerden-haben-bei-ueberwachungsanfragen-dazugelernt-242360.html
+* https://tarnkappe.info/artikel/iptv/iptv-haendler-verliert-kryptowaehrung-durch-brein-beschlagnahme-242351.html
