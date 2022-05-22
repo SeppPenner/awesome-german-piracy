@@ -190,3 +190,4 @@ Links
 * https://tarnkappe.info/artikel/krypto/piratetoken-ins-bodenlose-gestuerzt-242154.html
 * https://tarnkappe.info/artikel/szene/videothek-cx-nach-langer-pause-wieder-online-242162.html
 * https://tarnkappe.info/artikel/szene/dark-commerce/crimemarket-zieht-auf-crimemarket-is-um-242194.html
+* https://tarnkappe.info/artikel/szene/ddl-warez-cc-kuendigt-sich-als-offizieller-nachfolger-an-242234.html
