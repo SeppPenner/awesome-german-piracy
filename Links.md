@@ -235,3 +235,11 @@ Links
 * https://tarnkappe.info/artikel/szene/ddos-angriff-gegen-cannapower-ist-ein-erpressungsversuch-243209.html
 * https://tarnkappe.info/artikel/krypto/peter-schiff-ueber-den-bitcoin-kaufen-sie-diesen-muell-nicht-243220.html
 * https://tarnkappe.info/artikel/online-betrug/euro-post-verlockendes-jobangebot-erweist-sich-als-bestellbetrug-243225.html
+* https://tarnkappe.info/artikel/e-books/daenemark-fast-die-haelfte-aller-schueler-und-studenten-nutzen-raubkopien-243236.html
+* https://tarnkappe.info/artikel/datenschutz/datenschutz-ist-den-deutschen-wichtiger-als-alkohol-und-marihuana-243244.html
+* https://tarnkappe.info/artikel/datenschutz/wlan-netzwerksuche-smartphones-offenbaren-sensible-daten-243250.html
+* https://tarnkappe.info/kommentar/statistischer-gag-der-eu-zusammenhang-zwischen-bildung-und-piraterie-243288.html
+* https://tarnkappe.info/artikel/cyberguide-digitaler-assistent-behilflich-im-kampf-gegen-cybercrime-243290.html
+* https://tarnkappe.info/artikel/krypto/mehrere-krypto-firmen-muessen-mitarbeiter-entlassen-243311.html
+* https://tarnkappe.info/artikel/prime-air-amazon-startet-drohnenlieferung-in-kalifornien-243321.html
+* https://tarnkappe.info/artikel/jailbreaks/jailbreak-fuer-ps4-und-ps5-schreitet-voran-243338.html
