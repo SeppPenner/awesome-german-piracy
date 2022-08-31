@@ -14,6 +14,7 @@ A report on my Github page from [tarnkappe.info](https://tarnkappe.info) (in Ger
 * [Documentations](./Pages/Documentations.md)
 * [eBooks](./Pages/eBooks.md)
 * [Games](./Pages/Games.md)
+* [Hoster](./Pages/Hoster.md)
 * [iOS apps](./Pages/iOSApps.md)
 * [Keygens](./Pages/Keygens.md)
 * [Lists](./Pages/Lists.md)
