@@ -427,3 +427,7 @@ Links
 * https://tarnkappe.info/artikel/hacking/retbleed-fix-raubt-linux-vms-bis-zu-70-leistung-255588.html
 * https://tarnkappe.info/artikel/rechtssachen/ace-dreht-27-millionen-streamern-illegaler-filme-den-saft-ab-255595.html
 * https://tarnkappe.info/artikel/hacking/steam-accounts-durch-neue-phishing-technik-in-gefahr-255621.html
+* https://tarnkappe.info/artikel/rechtssachen/quad9-verfahren-um-cannapower-sperrung-spitzt-sich-zu-255648.html
+* https://tarnkappe.info/artikel/streaming/account-sharing-adobe-serviert-netflix-die-loesung-255666.html
+* https://tarnkappe.info/artikel/hacking/tesla-relay-attack-model-y-in-sekunden-entsperrt-und-gestartet-255664.html
+* https://tarnkappe.info/artikel/hacking/wpgateway-wordpress-plugin-schenkt-hackern-adminrechte-255695.html
