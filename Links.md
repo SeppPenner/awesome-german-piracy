@@ -489,3 +489,10 @@ Links
 * https://tarnkappe.info/listen/portale-fuer-dokumentationen-download-statt-stream-256366.html
 * https://tarnkappe.info/softwareentwicklung/microsoft-ueberwacht-die-produktivitaet-von-mitarbeitern-256367.html
 * https://tarnkappe.info/listen/roms-retro-sites-illegale-portale-september-2022-256415.html
+* https://tarnkappe.info/artikel/filesharing/house-of-the-dragon-verdraengt-die-ringe-der-macht-via-p2p-256484.html
+* https://tarnkappe.info/artikel/datenschutz/smart-parking-parkplatzkameras-verraten-ihren-standort-256467.html
+* https://tarnkappe.info/artikel/internet/firefox-und-vivaldi-trotzen-googles-werbeblocker-limitierungen-256506.html
+* https://tarnkappe.info/artikel/hacking/ragnar-locker-eine-cyberattacke-erschuettert-portugal-256511.html
+* https://tarnkappe.info/artikel/rechtssachen/tiktok-pfeift-auf-datenschutz-der-kinder-millionenstrafe-droht-256527.html
+* https://tarnkappe.info/artikel/online-buchbestellungen-frankreich-fuehrt-mindestliefergebuehr-ein-256531.html
+* https://tarnkappe.info/artikel/malware/android-und-ios-adware-ueber-13-millionen-mal-installiert-256618.html
