@@ -496,3 +496,17 @@ Links
 * https://tarnkappe.info/artikel/rechtssachen/tiktok-pfeift-auf-datenschutz-der-kinder-millionenstrafe-droht-256527.html
 * https://tarnkappe.info/artikel/online-buchbestellungen-frankreich-fuehrt-mindestliefergebuehr-ein-256531.html
 * https://tarnkappe.info/artikel/malware/android-und-ios-adware-ueber-13-millionen-mal-installiert-256618.html
+* https://tarnkappe.info/artikel/malware/microsoft-sql-server-im-fadenkreuz-der-ransomware-fargo-256772.html
+* https://tarnkappe.info/artikel/hacking/metamask-krypto-wallet-fuer-phishing-missbraucht-256787.html
+* https://tarnkappe.info/kommentar/edward-snowden-erhaelt-russische-staatsbuergerschaft-256780.html
+* https://tarnkappe.info/artikel/hacking/powerpoint-malware-beweg-jetzt-bloss-nicht-deine-maus-256796.html
+* https://tarnkappe.info/artikel/szene/cookiez-bz-neues-warez-board-ausschliesslich-mit-freehostern-256802.html
+* https://tarnkappe.info/artikel/internet/google-so-beteiligung-am-netzausbau-wir-nee-256823.html
+* https://tarnkappe.info/artikel/online-betrug/phishing-betrueger-warten-mit-neuer-masche-auf-256830.html
+* https://tarnkappe.info/artikel/hacking/optus-hacker-knickt-ein-und-entschuldigt-sich-256848.html
+* https://tarnkappe.info/artikel/hacking/fast-company-gehackt-apple-news-zugang-gekapert-256845.html
+* https://tarnkappe.info/artikel/hacking/verhafteter-gta-6-hacker-plaediert-auf-unschuldig-256875.html
+* https://tarnkappe.info/artikel/hacking/macos-in-gefahr-crypto-com-jobangebote-als-malware-koeder-256894.html
+* https://tarnkappe.info/listen/webseiten-fuer-den-illegalen-download-von-filmen-256903.html
+* https://tarnkappe.info/studie/alexa-macht-deine-kinder-dumm-und-unhoeflich-laut-dieser-studie-256910.html
+* https://tarnkappe.info/artikel/datenschutz/palantir-software-fuer-nrw-polizei-kostet-knapp-40-mio-e-256918.html
