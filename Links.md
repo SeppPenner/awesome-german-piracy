@@ -510,3 +510,12 @@ Links
 * https://tarnkappe.info/listen/webseiten-fuer-den-illegalen-download-von-filmen-256903.html
 * https://tarnkappe.info/studie/alexa-macht-deine-kinder-dumm-und-unhoeflich-laut-dieser-studie-256910.html
 * https://tarnkappe.info/artikel/datenschutz/palantir-software-fuer-nrw-polizei-kostet-knapp-40-mio-e-256918.html
+* https://tarnkappe.info/artikel/malware/chaos-breitet-sich-aus-eine-malware-fuer-kryptomining-und-ddos-256925.html
+* https://tarnkappe.info/artikel/internet/peter-thiel-als-aktionaer-bei-rumble-video-eingestiegen-256930.html
+* https://tarnkappe.info/listen/games-download-seiten-fuer-pcs-spielkonsolen-256949.html
+* https://tarnkappe.info/listen/ios-warez-portale-fuer-ios-apps-games-im-september-2022-256961.html
+* https://tarnkappe.info/listen/keygens-cheats-cracks-serials-portale-im-september-2022-257000.html
+* https://tarnkappe.info/artikel/hacking/windows-logo-enthaelt-backdoor-malware-tarnt-sich-als-bild-257020.html
+* https://tarnkappe.info/artikel/szene/dark-commerce/onlyfans-toolset-ermoeglicht-den-download-aller-werke-257036.html
+* https://tarnkappe.info/artikel/hacking/akamai-ca-79-millionen-boesartige-domains-in-sechs-monaten-257059.html
+* https://tarnkappe.info/artikel/interviews/black-network-im-interview-guevara-beantwortet-eure-fragen-257034.html
