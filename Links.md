@@ -519,3 +519,12 @@ Links
 * https://tarnkappe.info/artikel/szene/dark-commerce/onlyfans-toolset-ermoeglicht-den-download-aller-werke-257036.html
 * https://tarnkappe.info/artikel/hacking/akamai-ca-79-millionen-boesartige-domains-in-sechs-monaten-257059.html
 * https://tarnkappe.info/artikel/interviews/black-network-im-interview-guevara-beantwortet-eure-fragen-257034.html
+* https://tarnkappe.info/artikel/rechtssachen/wipo-will-dns-provider-fuer-piraterie-haftbar-machen-257127.html
+* https://tarnkappe.info/artikel/rechtssachen/mindgeek-kampf-gegen-porno-piraterie-ueber-diverse-provider-257140.html
+* https://tarnkappe.info/artikel/hacking/lazarus-hacker-bringen-ihren-eigenen-dell-treiber-mit-zur-party-257168.html
+* https://tarnkappe.info/artikel/hacking/russlands-hacktivisten-der-cyberkrieg-von-innen-257164.html
+* https://tarnkappe.info/artikel/hacking/ferrari-neuestes-opfer-der-ransomexx-hacker-257188.html
+* https://tarnkappe.info/artikel/jailbreaks/ps5-kernel-exploit-erstmals-veroeffentlicht-257204.html
+* https://tarnkappe.info/artikel/rechtssachen/reliance-entertainment-erwirkt-rekord-blockade-gegen-piraterie-257209.html
+* https://tarnkappe.info/artikel/rechtssachen/youtube-inhalte-herunterzuladen-ist-und-bleibt-illegal-257227.html
+* https://tarnkappe.info/artikel/datenschutz/serg-bell-sie-sollten-sich-vor-ihrem-staubsauger-fuerchten-257240.html
