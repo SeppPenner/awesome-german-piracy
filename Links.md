@@ -528,3 +528,11 @@ Links
 * https://tarnkappe.info/artikel/rechtssachen/reliance-entertainment-erwirkt-rekord-blockade-gegen-piraterie-257209.html
 * https://tarnkappe.info/artikel/rechtssachen/youtube-inhalte-herunterzuladen-ist-und-bleibt-illegal-257227.html
 * https://tarnkappe.info/artikel/datenschutz/serg-bell-sie-sollten-sich-vor-ihrem-staubsauger-fuerchten-257240.html
+* https://tarnkappe.info/artikel/krypto/binance-trainingsprogramm-fuer-die-strafverfolgung-257246.html
+* https://tarnkappe.info/studie/laurance-dine-cyberangriffe-bringen-ir-teams-ans-limit-257255.html
+* https://www.heise.de/news/Microsoft-erklaert-wie-der-Staatstrojaner-aus-Oesterreich-arbeitet-7199360.html
+* https://www.heise.de/news/Hack-gegen-Solana-Geldboersen-Suche-nach-Exploit-fuehrt-zu-Walletanbieter-Slope-7202150.html
+* https://www.heise.de/news/Ganz-ohne-Google-Code-Messengerdienst-Threema-macht-sich-auf-Android-unabhaengig-7203765.html
+* https://www.heise.de/news/5-4-Millionen-Konten-Twitter-bestaetigt-Leck-und-informiert-betroffene-Nutzer-7205074.html
+* https://www.heise.de/news/Spyware-Israelische-Polizei-nutzte-unbefugt-Pegasus-Prototyp-Seifan-7205242.html
+* https://www.heise.de/news/BSI-warnt-vor-unsicherem-Funk-Tuerschloss-von-Abus-7216682.html
