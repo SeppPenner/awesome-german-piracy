@@ -536,3 +536,13 @@ Links
 * https://www.heise.de/news/5-4-Millionen-Konten-Twitter-bestaetigt-Leck-und-informiert-betroffene-Nutzer-7205074.html
 * https://www.heise.de/news/Spyware-Israelische-Polizei-nutzte-unbefugt-Pegasus-Prototyp-Seifan-7205242.html
 * https://www.heise.de/news/BSI-warnt-vor-unsicherem-Funk-Tuerschloss-von-Abus-7216682.html
+* https://tarnkappe.info/artikel/malware/onionpoison-infizierter-tor-browser-verbreitet-sich-257271.html
+* https://tarnkappe.info/artikel/kurios/wishflix-so-piratenseiten-kannst-du-easy-auf-github-hosten-257282.html
+* https://tarnkappe.info/artikel/gaming/nvidia-kehrt-russland-endgueltig-den-ruecken-257304.html
+* https://tarnkappe.info/artikel/internet/tiktok-mit-hilfe-von-agenda-cutting-die-meinungsfreiheit-unterdruecken-257309.html
+* https://tarnkappe.info/artikel/hacking/overwatch-2-launch-durch-hackerangriff-torpediert-257333.html
+* https://tarnkappe.info/artikel/hacking/whatsapp-sicherheitsluecke-ermoeglicht-zugriff-auf-das-smartphone-257380.html
+* https://tarnkappe.info/artikel/szene/dark-commerce/ross-ulbricht-zieht-resuemee-nach-neun-jahren-gefaengnis-257387.html
+* https://tarnkappe.info/artikel/internet/caroline-farrow-verhaftung-und-durchsuchung-dank-kiwi-farms-257403.html
+* https://tarnkappe.info/listen/macos-warez-portale-fuer-apple-user-oktober-2022-257414.html
+* https://tarnkappe.info/artikel/hacking/whatsapp-entwickler-stehlen-millionen-von-konten-257452.html
