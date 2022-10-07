@@ -546,3 +546,6 @@ Links
 * https://tarnkappe.info/artikel/internet/caroline-farrow-verhaftung-und-durchsuchung-dank-kiwi-farms-257403.html
 * https://tarnkappe.info/listen/macos-warez-portale-fuer-apple-user-oktober-2022-257414.html
 * https://tarnkappe.info/artikel/hacking/whatsapp-entwickler-stehlen-millionen-von-konten-257452.html
+* https://tarnkappe.info/artikel/rechtssachen/ace-laesst-erneut-millionen-von-streamern-ins-leere-schauen-257458.html
+* https://www.heise.de/news/In-App-Browser-auf-dem-iPhone-Experte-sieht-Trackingpotenzial-durch-Meta-7217027.html
+* https://www.heise.de/news/6-7-Millionen-Twitter-Konten-zu-Have-I-been-Pwned-hinzugefuegt-7220012.html
