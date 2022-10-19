@@ -593,3 +593,6 @@ Links
 * https://tarnkappe.info/artikel/rechtssachen/encrochat-kassationsgerichtshof-frankreichs-stellt-daten-verwertung-in-frage-257916.html
 * https://tarnkappe.info/artikel/rechtssachen/sim-swapping-hacker-zahlt-krypto-investor-geld-zurueck-257922.html
 * https://tarnkappe.info/artikel/rechtssachen/telegram-gegen-netzdg-behoerde-verhaengt-millionen-bussgeld-257930.html
+* https://tarnkappe.info/artikel/malware/venus-hacker-verschluesseln-windows-systeme-via-rdp-257943.html
+* https://tarnkappe.info/artikel/rechtssachen/riaa-findet-ki-basierte-erstellung-von-musik-ziemlich-uncool-257971.html
+* https://tarnkappe.info/studie/thermosecure-angriffstechnik-knackt-passwoerter-in-sekunden-257997.html
