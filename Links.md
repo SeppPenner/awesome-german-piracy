@@ -596,3 +596,6 @@ Links
 * https://tarnkappe.info/artikel/malware/venus-hacker-verschluesseln-windows-systeme-via-rdp-257943.html
 * https://tarnkappe.info/artikel/rechtssachen/riaa-findet-ki-basierte-erstellung-von-musik-ziemlich-uncool-257971.html
 * https://tarnkappe.info/studie/thermosecure-angriffstechnik-knackt-passwoerter-in-sekunden-257997.html
+* https://tarnkappe.info/artikel/hacking/cyberangriff-nra-hackt-wichtige-russische-unternehmen-258025.html
+* https://tarnkappe.info/artikel/streaming/netflix-account-sharing-wird-kostenpflichtig-258040.html
+* https://tarnkappe.info/artikel/hintergrundberichte/neue-abmahnwelle-wegen-nutzung-von-google-fonts-angerollt-258017.html
