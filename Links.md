@@ -599,3 +599,11 @@ Links
 * https://tarnkappe.info/artikel/hacking/cyberangriff-nra-hackt-wichtige-russische-unternehmen-258025.html
 * https://tarnkappe.info/artikel/streaming/netflix-account-sharing-wird-kostenpflichtig-258040.html
 * https://tarnkappe.info/artikel/hintergrundberichte/neue-abmahnwelle-wegen-nutzung-von-google-fonts-angerollt-258017.html
+* https://www.heise.de/news/Einbruchsgefahr-Ueber-80-000-Hikvision-Kameras-verwundbar-7239986.html
+* https://www.heise.de/news/Nach-dem-Entrust-Hack-kaempfen-nun-die-Taeter-von-Lockbit-gegen-DDoS-Attacken-7240141.html
+* https://www.heise.de/news/Microsoft-Sicherheitsforscher-entdecken-kritische-Luecke-in-ChromeOS-7240286.html
+* https://www.heise.de/news/Cyber-Attacken-CISA-warnt-vor-Angriffen-auf-junge-Sicherheitsluecken-7240372.html
+* https://www.heise.de/news/Cyber-Angriff-Griechischer-Gasnetzbetreiber-Desfa-Opfer-von-Ransomware-Gang-7241322.html
+* https://www.heise.de/news/EDR-Nachfolger-der-Antiviren-Software-kaempfen-mit-altbekannten-Problemen-7241955.html
+* https://www.heise.de/news/Grossangelegter-Cyberangriff-auf-Montenegros-staatliche-Institutionen-7246060.html
+* https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-4-bringt-gehaerteten-Kernel-mit-7247292.html
