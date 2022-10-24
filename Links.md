@@ -607,3 +607,14 @@ Links
 * https://www.heise.de/news/EDR-Nachfolger-der-Antiviren-Software-kaempfen-mit-altbekannten-Problemen-7241955.html
 * https://www.heise.de/news/Grossangelegter-Cyberangriff-auf-Montenegros-staatliche-Institutionen-7246060.html
 * https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-4-bringt-gehaerteten-Kernel-mit-7247292.html
+* https://tarnkappe.info/artikel/datenschutz/microsoft-datenleck-schleudert-brisante-kundendaten-raus-258044.html
+* https://tarnkappe.info/artikel/internet/zscaler-warnung-kabelschaden-in-frankreich-beeintraechtigt-internetverbindungen-258053.html
+* https://tarnkappe.info/artikel/streaming/ard-plus-mit-eigener-app-zu-kostenpflichtigem-streaming-abo-258071.html
+* https://tarnkappe.info/artikel/rechtssachen/europaeische-kommission-vorerst-kein-gesetz-gegen-live-piraterie-258078.html
+* https://tarnkappe.info/artikel/datenschutz/fussball-weltmeisterschaft-in-katar-zugang-nur-mit-spionage-apps-258077.html
+* https://tarnkappe.info/artikel/rechtssachen/streamingdienste-haften-nicht-fuer-umgehung-von-geoblocking-258101.html
+* https://tarnkappe.info/artikel/rechtssachen/texas-verklagt-google-wegen-erfassung-biometrischer-daten-258105.html
+* https://tarnkappe.info/artikel/filesharing/house-of-the-dragon-finale-im-internet-geleakt-258114.html
+* https://tarnkappe.info/artikel/rechtssachen/ed-sheeran-songs-gestohlen-hacker-erhaelt-18-monate-gefaengnis-258163.html
+* https://tarnkappe.info/artikel/rechtssachen/rnc-verklagt-google-spam-filter-sind-politisch-nicht-neutral-258164.html
+* https://tarnkappe.info/artikel/interviews/meredith-whittaker-bei-signal-geht-es-nicht-ums-geld-258175.html
