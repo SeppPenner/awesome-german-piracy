@@ -666,3 +666,14 @@ Links
 * https://tarnkappe.info/english/z-library-whats-up-with-b-ok-cc-258851.html
 * https://tarnkappe.info/artikel/datenschutz/story-feature-messenger-signal-imitiert-funktionen-von-whatsapp-258859.html
 * https://tarnkappe.info/artikel/hacking/urlscan-laesst-hacker-konten-zahlreicher-dienste-uebernehmen-258895.html
+* https://tarnkappe.info/artikel/rechtssachen/marvel-stream-uk-betreiber-erhielt-bewaehrungsstrafe-258899.html
+* https://tarnkappe.info/artikel/rechtssachen/chemical-revolution-mammutprozess-muendet-in-haftstrafen-258909.html
+* https://tarnkappe.info/artikel/rechtssachen/z-library-nicht-allein-fbi-uebernahm-mehr-als-140-domains-258913.html
+* https://tarnkappe.info/artikel/datenschutz/renault-und-google-sammeln-daten-nun-gemeinsam-258917.html
+* https://tarnkappe.info/artikel/softwareentwicklung/tesla-rueckruf-schlagloecher-lassen-servolenkung-ploetzlich-streiken-258926.html
+* https://tarnkappe.info/artikel/rechtssachen/silk-road-diebstahl-us-behoerden-beschlagnahmen-50-000-bitcoin-258925.html
+* https://tarnkappe.info/artikel/softwareentwicklung/open-bug-bounty-mehr-als-eine-million-schwachstellen-behoben-258941.html
+* https://tarnkappe.info/artikel/datenschutz/datenschutzrisiken-bei-mastodon-darauf-sollte-man-achten-258942.html
+* https://tarnkappe.info/artikel/hacking/cloud9-chrome-erweiterung-dient-hackern-fuer-ddos-angriffe-258964.html
+* https://tarnkappe.info/artikel/datenschutz/iphone-zieht-blank-diese-daten-sammelt-apples-app-store-wirklich-258977.html
+* https://tarnkappe.info/artikel/krypto/ftx-wird-von-binance-geschluckt-oder-etwa-nicht-258988.html
