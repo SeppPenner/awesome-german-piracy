@@ -11,10 +11,11 @@ A report on my Github page from [tarnkappe.info](https://tarnkappe.info) (in Ger
 
 * [Android apps](./Pages/AndroidApps.md)
 * [Audio books](./Pages/AudioBooks.md)
+* [Crypto places, anonymous](./Pages/CryptoPlaces.md)
 * [Documentations](./Pages/Documentations.md)
 * [eBooks](./Pages/eBooks.md)
 * [Games](./Pages/Games.md)
-* [Hoster](./Pages/Hoster.md)
+* [Hosting and Co.](./Pages/Hosting.md)
 * [iOS apps](./Pages/iOSApps.md)
 * [Keygens](./Pages/Keygens.md)
 * [Lists](./Pages/Lists.md)
