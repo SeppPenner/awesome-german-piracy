@@ -677,3 +677,11 @@ Links
 * https://tarnkappe.info/artikel/hacking/cloud9-chrome-erweiterung-dient-hackern-fuer-ddos-angriffe-258964.html
 * https://tarnkappe.info/artikel/datenschutz/iphone-zieht-blank-diese-daten-sammelt-apples-app-store-wirklich-258977.html
 * https://tarnkappe.info/artikel/krypto/ftx-wird-von-binance-geschluckt-oder-etwa-nicht-258988.html
+* https://tarnkappe.info/artikel/rechtssachen/content-id-youtube-erfasst-757-millionen-meldungen-259021.html
+* https://tarnkappe.info/artikel/malware/strelastealer-klaut-e-mail-konten-aus-outlook-und-thunderbird-259060.html
+* https://tarnkappe.info/deepweb/dread-illegales-deepweb-forum-seit-der-didw3-razzia-offline-259044.html
+* https://tarnkappe.info/artikel/rechtssachen/domain-registrierung-eu-richtlinie-killt-anonymitaet-259094.html
+* https://tarnkappe.info/artikel/iptv/operation-gotha-groesstes-piraten-iptv-netzwerk-zerschlagen-259120.html
+* https://tarnkappe.info/artikel/jailbreaks/god-of-war-ragnarok-auf-ps4-warez-websites-verfuegbar-259134.html
+* https://tarnkappe.info/artikel/rechtssachen/innenministerin-nancy-faeser-fordert-bargeldobergrenze-259147.html
+* https://tarnkappe.info/artikel/e-books/pirate-library-mirror-spiegelt-z-library-mit-ueber-24-tb-an-daten-259187.html
