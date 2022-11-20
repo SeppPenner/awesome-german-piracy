@@ -685,3 +685,10 @@ Links
 * https://tarnkappe.info/artikel/jailbreaks/god-of-war-ragnarok-auf-ps4-warez-websites-verfuegbar-259134.html
 * https://tarnkappe.info/artikel/rechtssachen/innenministerin-nancy-faeser-fordert-bargeldobergrenze-259147.html
 * https://tarnkappe.info/artikel/e-books/pirate-library-mirror-spiegelt-z-library-mit-ueber-24-tb-an-daten-259187.html
+* https://tarnkappe.info/artikel/datenschutz/mastodon-sicherheitsluecke-erlaubte-den-diebstahl-von-anmeldedaten-259218.html
+* https://tarnkappe.info/artikel/rechtssachen/z-library-zwei-mutmassliche-betreiber-in-argentinien-verhaftet-259232.html
+* https://tarnkappe.info/artikel/rechtssachen/bargeld-limit-kritik-von-verbraucherschuetzern-an-faeser-259246.html
+* https://tarnkappe.info/artikel/iptv/iptv-vier-betreiber-eines-illegalen-streamingdienstes-verhaftet-259251.html
+* https://tarnkappe.info/artikel/e-books/z-library-annas-archive-macht-schattenbibliothek-durchsuchbar-259286.html
+* https://tarnkappe.info/artikel/rechtssachen/z-library-ermittler-folgten-den-spuren-der-betreiber-259323.html
+* https://www.heise.de/news/Wegen-Cyberattacke-Albanien-kappt-diplomatische-Beziehungen-zum-Iran-7256264.html
