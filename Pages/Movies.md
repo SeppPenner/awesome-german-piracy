@@ -165,6 +165,4 @@
 |[wawacity.tv](https://wawacity.tv/)|[![wawacity.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwawacity.tv)](https://wawacity.tv/)|-|🇫🇷|
 |[wawacity.vip](https://wawacity.vip/)|[![wawacity.vip](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwawacity.vip)](https://wawacity.vip/)|-|🇫🇷|
 |[win7dl.org](https://win7dl.org/)|[![win7dl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwin7dl.org)](https://win7dl.org/)|-|🇬🇧|
-|[xcine.me](https://xcine.me/)|[![xcine.me](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fxcine.me)](https://xcine.me/)|-|🇩🇪|
-|[xcine.tv](https://xcine.tv/)|[![xcine.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fxcine.tv)](https://xcine.tv/)|-|🇩🇪|
 |[xd-movie.com](https://xd-movie.com/)|[![xd-movie.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fxd-movie.com)](https://xd-movie.com/)|-|🇩🇪|
