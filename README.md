@@ -1,5 +1,9 @@
 # Awesome German piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 > A curated list of (not only) German piracy sites!
 
 Hint: Some of the websites that are marked as offline seem just to block the queries from [shields.io](https://shields.io/). Sorry for that.
@@ -55,3 +59,18 @@ See the [Changelog](https://github.com/SeppPenner/awesome-german-piracy/blob/mas
 ## Further links
 
 See the [Links](https://github.com/SeppPenner/awesome-german-piracy/blob/master/Links.md).
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
