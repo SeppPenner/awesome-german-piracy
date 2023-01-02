@@ -193,3 +193,4 @@
 |[wawacity.tv](https://wawacity.tv/)|[![wawacity.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwawacity.tv)](https://wawacity.tv/)|-|🇫🇷|
 |[wawacity.vip](https://wawacity.vip/)|[![wawacity.vip](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwawacity.vip)](https://wawacity.vip/)|-|🇫🇷|
 |[win7dl.org](https://win7dl.org/)|[![win7dl.org](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwin7dl.org)](https://win7dl.org/)|-|🇬🇧|
+|[xcine.cx](https://xcine.cx/)|[![xcine.cx](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fxcine.cx)](https://xcine.cx/)|-|🇩🇪|
