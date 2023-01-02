@@ -1,0 +1,30 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "SeppPenner",
+      "name": "HansM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9639361?v=4",
+      "profile": "https://franzhuber23.blogspot.de/",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "maintenance",
+        "projectManagement",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "awesome-german-piracy",
+  "projectOwner": "SeppPenner"
+}
