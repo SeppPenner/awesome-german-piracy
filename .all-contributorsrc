@@ -19,6 +19,15 @@
         "projectManagement",
         "test"
       ]
+    },
+    {
+      "login": "Illegal-Services",
+      "name": "IB_U_Z_Z_A_R_Dl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62464560?v=4",
+      "profile": "https://t.me/illegal_services_forum",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
