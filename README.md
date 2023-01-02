@@ -1,6 +1,6 @@
 # Awesome German piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > A curated list of (not only) German piracy sites!
@@ -69,6 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center"><a href="https://franzhuber23.blogspot.de/"><img src="https://avatars.githubusercontent.com/u/9639361?v=4?s=100" width="100px;" alt="HansM"/><br /><sub><b>HansM</b></sub></a><br /><a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=SeppPenner" title="Code">💻</a> <a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=SeppPenner" title="Documentation">📖</a> <a href="#example-SeppPenner" title="Examples">💡</a> <a href="#maintenance-SeppPenner" title="Maintenance">🚧</a> <a href="#projectManagement-SeppPenner" title="Project Management">📆</a> <a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=SeppPenner" title="Tests">⚠️</a></td>
+      <td align="center"><a href="https://github.com/Marethyu9999"><img src="https://avatars.githubusercontent.com/u/66386137?v=4?s=100" width="100px;" alt="Erik Grobecker"/><br /><sub><b>Erik Grobecker</b></sub></a><br /><a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=Marethyu9999" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
