@@ -19,6 +19,15 @@
         "projectManagement",
         "test"
       ]
+    },
+    {
+      "login": "Marethyu9999",
+      "name": "Erik Grobecker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66386137?v=4",
+      "profile": "https://github.com/Marethyu9999",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
