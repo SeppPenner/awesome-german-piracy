@@ -21,12 +21,45 @@
       ]
     },
     {
+      "login": "Illegal-Services",
+      "name": "IB_U_Z_Z_A_R_Dl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62464560?v=4",
+      "profile": "https://t.me/illegal_services_forum",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "maintenance",
+        "projectManagement",
+        "test"
+      ]
+    },
+    {
+     "login": "Marethyu9999",
+      "name": "Erik Grobecker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66386137?v=4",
+      "profile": "https://github.com/Marethyu9999",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "maintenance",
+        "projectManagement",
+        "test"
+      ]
+    },
+    {
       "login": "mxwmnn",
       "name": "mxwmnn",
       "avatar_url": "https://avatars.githubusercontent.com/u/105636539?v=4",
       "profile": "https://github.com/mxwmnn",
       "contributions": [
-        "doc"
+        "code",
+        "doc",
+        "example",
+        "maintenance",
+        "projectManagement",
+        "test"
       ]
     }
   ],
