@@ -1,4 +1,7 @@
 # Awesome German piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
@@ -63,6 +66,21 @@ See the [Links](https://github.com/SeppPenner/awesome-german-piracy/blob/master/
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://franzhuber23.blogspot.de/"><img src="https://avatars.githubusercontent.com/u/9639361?v=4?s=100" width="100px;" alt="HansM"/><br /><sub><b>HansM</b></sub></a><br /><a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=SeppPenner" title="Code">💻</a> <a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=SeppPenner" title="Documentation">📖</a> <a href="#example-SeppPenner" title="Examples">💡</a> <a href="#maintenance-SeppPenner" title="Maintenance">🚧</a> <a href="#projectManagement-SeppPenner" title="Project Management">📆</a> <a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=SeppPenner" title="Tests">⚠️</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
