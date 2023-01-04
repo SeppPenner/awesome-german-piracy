@@ -784,3 +784,4 @@ Links
 * https://tarnkappe.info/artikel/hacking/earspy-android-abhoer-attacke-verwendet-bewegungssensoren-262180.html
 * https://tarnkappe.info/artikel/jailbreaks/ps-vita-kernel-exploit-henlo-gestaltet-jailbreak-sehr-einfach-262197.html
 * https://tarnkappe.info/artikel/hacking/google-home-lautsprecher-waren-durch-fremde-abhoerbar-262258.html
+* https://tarnkappe.info/artikel/datenschutz/hikvision-software-chinesische-polizei-nutzt-tracking-funktion-262454.html
