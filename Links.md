@@ -785,3 +785,8 @@ Links
 * https://tarnkappe.info/artikel/jailbreaks/ps-vita-kernel-exploit-henlo-gestaltet-jailbreak-sehr-einfach-262197.html
 * https://tarnkappe.info/artikel/hacking/google-home-lautsprecher-waren-durch-fremde-abhoerbar-262258.html
 * https://tarnkappe.info/artikel/datenschutz/hikvision-software-chinesische-polizei-nutzt-tracking-funktion-262454.html
+* https://tarnkappe.info/artikel/rechtssachen/malibu-media-zerbricht-der-copyright-troll-an-steuerrueckstaenden-262476.html
+* https://tarnkappe.info/artikel/internet/autohersteller-knacker-hacken-in-wenigen-monaten-19-marken-262486.html
+* https://tarnkappe.info/kuenstliche-intelligenz/microsoft-suchmaschine-bing-koennte-bald-auf-chatgpt-setzen-262508.html
+* https://tarnkappe.info/artikel/iptv/iptv-piraterie-im-trend-17-millionen-europaeer-streamen-illegal-262514.html
+* https://tarnkappe.info/artikel/usenet/siedler-steckt-wohl-hinter-dem-relaunch-von-usenet-wtf-262517.html
