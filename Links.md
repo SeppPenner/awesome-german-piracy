@@ -840,3 +840,7 @@ Links
 * https://tarnkappe.info/artikel/hacking/samsung-galaxy-store-laesst-angreifer-dein-smartphone-infiltrieren-263428.html
 * https://tarnkappe.info/artikel/szene/dark-commerce/encrochat-bilanz-ca-50-taeter-zu-200-jahren-haft-in-berlin-verurteilt-263464.html
 * https://tarnkappe.info/artikel/szene/dark-commerce/ransomware-einnahmen-sind-um-40-prozent-ruecklaeufig-263522.html
+* https://www.heise.de/news/Chat-Clients-Luecken-im-Matrix-SDK-gefaehrden-Ende-zu-Ende-Verschluesselung-7282351.html
+* https://www.heise.de/news/Thunderbird-Angreifer-koennten-Absender-verschluesselter-Mails-faelschen-7282339.html
+* https://www.heise.de/news/Spielkonsolen-Hack-Wackeliger-Jailbreak-fuer-PlayStation-5-veroeffentlicht-7283292.html
+* https://www.heise.de/news/Kundendaten-aus-dem-Hack-des-Videospiel-Publishers-2K-stehen-zum-Verkauf-7289182.html
