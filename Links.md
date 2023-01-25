@@ -844,3 +844,8 @@ Links
 * https://www.heise.de/news/Thunderbird-Angreifer-koennten-Absender-verschluesselter-Mails-faelschen-7282339.html
 * https://www.heise.de/news/Spielkonsolen-Hack-Wackeliger-Jailbreak-fuer-PlayStation-5-veroeffentlicht-7283292.html
 * https://www.heise.de/news/Kundendaten-aus-dem-Hack-des-Videospiel-Publishers-2K-stehen-zum-Verkauf-7289182.html
+* https://tarnkappe.info/listen/e-book-szene-januar-2022-illegale-blogs-foren-portale-263455.html
+* https://tarnkappe.info/artikel/gaming/grand-theft-auto-5-fuer-pc-ermoeglicht-die-ausfuehrung-von-remotecode-263575.html
+* https://tarnkappe.info/artikel/hacking/no-fly-list-hackerin-findet-flugverbotsliste-der-us-behoerden-263640.html
+* https://tarnkappe.info/artikel/hacking/skimming-polizei-gelingt-schlag-gegen-organisiertes-verbrechen-263901.html
+* https://www.heise.de/news/Affaere-Schoenbohm-Schroedingers-BSI-Praesident-7314025.html
