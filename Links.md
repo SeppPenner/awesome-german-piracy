@@ -849,3 +849,9 @@ Links
 * https://tarnkappe.info/artikel/hacking/no-fly-list-hackerin-findet-flugverbotsliste-der-us-behoerden-263640.html
 * https://tarnkappe.info/artikel/hacking/skimming-polizei-gelingt-schlag-gegen-organisiertes-verbrechen-263901.html
 * https://www.heise.de/news/Affaere-Schoenbohm-Schroedingers-BSI-Praesident-7314025.html
+* https://tarnkappe.info/artikel/kurios/disney-abo-id-peinlicher-fehler-verwirrt-zahlreiche-anwender-264098.html
+* https://tarnkappe.info/artikel/internet/twitter-godmode-laesst-mitarbeiter-in-deinem-namen-twittern-264123.html
+* https://tarnkappe.info/artikel/internet/edward-snowden-twittert-nostr-ersetzt-twitter-und-instagram-264122.html
+* https://www.heise.de/news/l-f-Polizei-ergaunert-mehr-als-150-Deadbolt-Schluessel-7319366.html
+* https://www.heise.de/news/Mutmasslicher-Betreiber-von-grosser-Darknet-Drogenplattform-festgenommen-7322210.html
+* https://www.heise.de/news/WM-in-Katar-Zwangs-Apps-mit-Sicherheits-und-Privatsphaeren-Risiken-7325388.html
