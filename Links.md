@@ -874,3 +874,17 @@ Links
 * https://tarnkappe.info/artikel/vorratsdatenspeicherung/sebastian-hartmann-fuer-14-tage-speicherpflicht-fuer-ip-adressen-264451.html
 * https://tarnkappe.info/artikel/hacking/keepass-sicherheitsluecke-erlaubt-passwort-export-im-klartext-264558.html
 * https://tarnkappe.info/artikel/rechtssachen/animixplay-to-schliesst-nachdem-ace-angeklopft-hat-264572.html
+* https://tarnkappe.info/artikel/gaming/discord-update-drosselt-deine-nvidia-grafikkarte-264576.html
+* https://tarnkappe.info/artikel/malware/der-turbo-fuer-banking-trojaner-webinjects-stehen-zum-verkauf-264591.html
+* https://tarnkappe.info/artikel/rechtssachen/online-killers-market-heuert-fuenffache-mutter-killer-an-264617.html
+* https://tarnkappe.info/artikel/szene/dark-commerce/so-viel-ist-dein-facebook-konto-auf-darknet-seiten-wert-264624.html
+* https://tarnkappe.info/artikel/empress/monster-hunter-rise-sunbreak-von-empress-als-crack-erschienen-264637.html
+* https://tarnkappe.info/artikel/malware/virtualisierte-malware-versteckt-sich-in-google-werbung-fuer-blender-264651.html
+* https://tarnkappe.info/listen/illegale-streaming-portale-fuer-kinofilme-im-februar-2023-264662.html
+* https://tarnkappe.info/artikel/cyberangriff/vmware-esxi-server-werden-von-neuer-ransomware-verschluesselt-264722.html
+* https://tarnkappe.info/artikel/malware/makros-sind-out-onenote-ist-microsofts-neues-malware-taxi-264760.html
+* https://tarnkappe.info/artikel/rechtssachen/pizza-lieferservice-verkaufsraum-musik-keine-urheberrechtsverletzung-264766.html
+* https://tarnkappe.info/artikel/e-books/flaute-bei-der-dokumentenboerse-von-mygully-co-264773.html
+* https://tarnkappe.info/artikel/gaming/siriusmt2-to-illegaler-metin2-server-bleibt-trotz-anklage-online-264843.html
+* https://tarnkappe.info/artikel/hacking/exclu-niederlaendische-polizei-knackt-weitere-kriminellen-chat-app-264849.html
+* https://tarnkappe.info/artikel/studie/grossbritannien-online-piraterie-von-filmen-serien-angestiegen-264865.html
