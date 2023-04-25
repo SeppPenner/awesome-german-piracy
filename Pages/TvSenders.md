@@ -19,3 +19,4 @@
 |[wilmaa.com](https://wilmaa.com/)|[![wilmaa.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwilmaa.com)](https://wilmaa.com/)|-|🇩🇪|
 |[x-oo.com](https://x-oo.com/)|[![x-oo.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fx-oo.com)](https://x-oo.com/)|-|🇩🇪|
 |[zattoo.com](https://zattoo.com/)|[![zattoo.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fzattoo.com)](https://zattoo.com/)|-|🇩🇪|
+|[zappn.tv](https://zappn.tv/)|[![zappn.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fzappn.tv)](https://zappn.tv/)|-|🇦🇹|
