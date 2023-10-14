@@ -1,6 +1,6 @@
 # Awesome German piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > A curated list of (not only) German piracy sites!
@@ -73,6 +73,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Marethyu9999"><img src="https://avatars.githubusercontent.com/u/66386137?v=4?s=100" width="100px;" alt="Erik Grobecker"/><br /><sub><b>Erik Grobecker</b></sub></a><br /><a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=Marethyu9999" title="Code">💻</a> <a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=Marethyu9999" title="Documentation">📖</a> <a href="#example-Marethyu9999" title="Examples">💡</a> <a href="#maintenance-Marethyu9999" title="Maintenance">🚧</a> <a href="#projectManagement-Marethyu9999" title="Project Management">📆</a> <a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=Marethyu9999" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mxwmnn"><img src="https://avatars.githubusercontent.com/u/105636539?v=4?s=100" width="100px;" alt="mxwmnn"/><br /><sub><b>mxwmnn</b></sub></a><br /><a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=mxwmnn" title="Code">💻</a> <a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=mxwmnn" title="Documentation">📖</a> <a href="#example-mxwmnn" title="Examples">💡</a> <a href="#maintenance-mxwmnn" title="Maintenance">🚧</a> <a href="#projectManagement-mxwmnn" title="Project Management">📆</a> <a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=mxwmnn" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.lechner.io"><img src="https://avatars.githubusercontent.com/u/591317?v=4?s=100" width="100px;" alt="Daniel Lechner"/><br /><sub><b>Daniel Lechner</b></sub></a><br /><a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=lechnerio" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fypNews"><img src="https://avatars.githubusercontent.com/u/124069362?v=4?s=100" width="100px;" alt="fypNews"/><br /><sub><b>fypNews</b></sub></a><br /><a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=fypNews" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
