@@ -2,7 +2,8 @@
 
 |Website|Status|Remark|Main language|
 |-|-|-|-|
-|[baka-bewerbung.ml](https://https://baka-bewerbung.ml/form/jPQXDZ/)|[![https://baka-bewerbung.ml/form/jPQXDZ](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhttps://baka-bewerbung.ml/form/jPQXDZ)](https://https://baka-bewerbung.ml/form/jPQXDZ/)|-|🇩🇪|
+|[baka-bewerbung.me](https://https://baka-bewerbung.me/form/jPQXDZ/)|[![https://baka-bewerbung.me/form/jPQXDZ](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhttps://baka-bewerbung.me/form/jPQXDZ)](https://https://baka-bewerbung.me/form/jPQXDZ/)|-|🇩🇪|
+|[baka-bewerbung.ml](https://https://baka-bewerbung.ml/form/jPQXDZ/)|[![https://baka-bewerbung.ml/form/jPQXDZ](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhttps://baka-bewerbung.ml/form/jPQXDZ)](https://https://baka-bewerbung.ml/form/jPQXDZ/)|⚠️ Offline, moved to baka-bewerbung.me.|🇩🇪|
 |[birds-of-binaries.com](https://birds-of-binaries.com/)|[![birds-of-binaries.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbirds-of-binaries.com)](https://birds-of-binaries.com/)|⚠️ Seems to be offline. Reasons are unknown.|🇬🇧|
 |[brothers-of-usenet.net](https://brothers-of-usenet.net/)|[![brothers-of-usenet.net](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbrothers-of-usenet.net)](https://brothers-of-usenet.net/)|-|🇩🇪|
 |[devilleecher.nl](https://devilleecher.nl/)|[![devilleecher.nl](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdevilleecher.nl)](https://devilleecher.nl/)|⚠️ Seems to be offline. Reasons are unknown.|❓|
