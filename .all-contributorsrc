@@ -70,6 +70,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "fypNews",
+      "name": "fypNews",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124069362?v=4",
+      "profile": "https://github.com/fypNews",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
