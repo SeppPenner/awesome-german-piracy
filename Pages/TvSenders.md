@@ -6,6 +6,8 @@
 |[allesender.de](http://allesender.de/)|[![allesender.de](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fallesender.de)](http://allesender.de/)|-|🇩🇪|
 |[dietdinnerrecipes.com](https://dietdinnerrecipes.com/)|[![dietdinnerrecipes.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdietdinnerrecipes.com)](https://dietdinnerrecipes.com/)|-|🇩🇪|
 |[edels-stube.eu](https://edels-stube.eu/)|[![edels-stube.eu](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fedels-stube.eu)](https://edels-stube.eu/)|-|🇩🇪|
+|[joyn.at](https://joyn.at/)|[![joyn.at](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fjoyn.at)](https://joyn.at/)|-|🇦🇹|
+|[joyn.de](https://joyn.de/)|[![joyn.de](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fjoyn.de)](https://joyn.de/)|-|🇩🇪|
 |[live-stream.tv](https://live-stream.tv/)|[![live-stream.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Flive-stream.tv)](https://live-stream.tv/)|⚠️ Seems to be offline. Reasons are unknown.|❓|
 |[liveschauen.com](https://liveschauen.com/)|[![liveschauen.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fliveschauen.com)](https://liveschauen.com/)|-|🇩🇪|
 |[netzwelt.de](https://netzwelt.de/)|[![netzwelt.de](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fnetzwelt.de)](https://netzwelt.de/)|-|🇩🇪|
@@ -18,5 +20,5 @@
 |[tvpinto.com](https://tvpinto.com/)|[![tvpinto.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftvpinto.com)](https://tvpinto.com/)|-|🇩🇪|
 |[wilmaa.com](https://wilmaa.com/)|[![wilmaa.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwilmaa.com)](https://wilmaa.com/)|-|🇩🇪|
 |[x-oo.com](https://x-oo.com/)|[![x-oo.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fx-oo.com)](https://x-oo.com/)|-|🇩🇪|
-|[zattoo.com](https://zattoo.com/)|[![zattoo.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fzattoo.com)](https://zattoo.com/)|-|🇩🇪|
 |[zappn.tv](https://zappn.tv/)|[![zappn.tv](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fzappn.tv)](https://zappn.tv/)|-|🇦🇹|
+|[zattoo.com](https://zattoo.com/)|[![zattoo.com](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fzattoo.com)](https://zattoo.com/)|-|🇩🇪|
