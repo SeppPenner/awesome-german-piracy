@@ -35,7 +35,7 @@
       ]
     },
     {
-     "login": "Marethyu9999",
+      "login": "Marethyu9999",
       "name": "Erik Grobecker",
       "avatar_url": "https://avatars.githubusercontent.com/u/66386137?v=4",
       "profile": "https://github.com/Marethyu9999",
@@ -61,6 +61,15 @@
         "projectManagement",
         "test"
       ]
+    },
+    {
+      "login": "lechnerio",
+      "name": "Daniel Lechner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/591317?v=4",
+      "profile": "http://www.lechner.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -68,5 +77,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "awesome-german-piracy",
-  "projectOwner": "SeppPenner"
+  "projectOwner": "SeppPenner",
+  "commitType": "docs"
 }
