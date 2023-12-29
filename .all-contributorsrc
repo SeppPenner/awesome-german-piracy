@@ -79,6 +79,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "RickyRAV",
+      "name": "Ricky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101335214?v=4",
+      "profile": "https://github.com/RickyRAV",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
