@@ -88,6 +88,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "sdaqo",
+      "name": "sdaqo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63876564?v=4",
+      "profile": "https://sdaqo.dev/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
