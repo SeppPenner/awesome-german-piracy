@@ -1,6 +1,6 @@
 # Awesome German piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > A curated list of (not only) German piracy sites!
@@ -78,6 +78,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://sdaqo.dev/"><img src="https://avatars.githubusercontent.com/u/63876564?v=4?s=100" width="100px;" alt="sdaqo"/><br /><sub><b>sdaqo</b></sub></a><br /><a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=sdaqo" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/"><img src="https://avatars.githubusercontent.com/u/12958815?v=4?s=100" width="100px;" alt="milahu"/><br /><sub><b>milahu</b></sub></a><br /><a href="https://github.com/SeppPenner/awesome-german-piracy/commits?author=milahu" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
